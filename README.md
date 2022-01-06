@@ -6,9 +6,9 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-Dernière Mise à jour: 21 décembre 2021
+*Dernière Mise à jour: 21 décembre 2021*
 
-L’objectif de {csatimer} est de disséminer en format analysable les
+L’objectif de `{csatimer}`, est de disséminer en format analysable les
 données de temps de parôle des personalités politiques, tels que
 collectées par le Consiel Supérieur de l’Audiovisuel.
 
@@ -35,13 +35,14 @@ devtools::install_github("benjaminguinaudeau/csatimer")
 
 ## Lire les données
 
-{csatimer} contient une seule et unique fonction `read_csa_time`, qui
+`{csatimer}` contient une seule et unique fonction `read_csa_time`, qui
 vise à lire les données.
 
 ``` r
-dplyr::glimpse(csatimer::read_csa_time())
-#> Rows: 69,897
-#> Columns: 9
+library(csatimer)
+dplyr::glimpse(read_csa_time())
+#> Rows: 72,091
+#> Columns: 10
 #> $ month        <date> 2019-02-01, 2019-02-01, 2019-02-01, 2019-02-01, 2019-02-…
 #> $ media        <chr> "TF1", "France 2", "France 3", "France 3", "Canal +", "Fr…
 #> $ tv           <lgl> TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRU…
@@ -51,6 +52,7 @@ dplyr::glimpse(csatimer::read_csa_time())
 #> $ appartenance <chr> "Président De La République Hors Débat Politique", "Prési…
 #> $ party_abb    <fct> Exécutif, Exécutif, Exécutif, Exécutif, Exécutif, Exécuti…
 #> $ time         <dbl> 3.0000, 7.0000, 9.0000, 1.0000, 3.0000, 9.0000, 12.0000, …
+#> $ path         <chr> NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, N…
 ```
 
 Les données sont collectées sur une base mensuelle. Les colonnes
@@ -87,3 +89,16 @@ Les données seront actualisées dès que de nouvelles données seront
 publiées par le CSA. Notez qu’une fois les données actualisées, il vous
 sera nécessaire de réinstaller le package afin de profiter des dernières
 données.
+
+## Mettre les données à jour
+
+Les données contenues dans le package seront actualisé au cours du
+temps. Pour actualiser la version locale des données, vous pouvez
+utiliser `update_csa_time`
+
+``` r
+update_csa_time()
+#> ℹ Updating 2019
+#> ℹ Updating 2020
+#> ℹ Updating 2021
+```
