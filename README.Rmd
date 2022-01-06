@@ -21,7 +21,7 @@ knitr::opts_chunk$set(
 
 Dernière Mise à jour: 21 décembre 2021
 
-L'objectif de {csatimer} est de disséminer en format analysable les données de temps de parôle des personalités politiques, tels que collectées par le Consiel Supérieur de l'Audiovisuel. 
+L'objectif de `{csatimer}`, est de disséminer en format analysable les données de temps de parôle des personalités politiques, tels que collectées par le Consiel Supérieur de l'Audiovisuel. 
 
 Conformément aux dispositions de l’article 13 de la loi du 30 septembre 1986, le CSA publie régulièrement les tableaux relatifs aux temps de parole des personnalités politiques relevés dans les journaux et bulletins d’information, les magazines et les autres émissions des programmes sur les antennes des télévisions et des radios. Pour plus d'information, le site du CSA propose un [récapitulatif](https://www.csa.fr/csapluralisme/tableau) des données. 
 
@@ -38,10 +38,11 @@ devtools::install_github("benjaminguinaudeau/csatimer")
 
 ## Lire les données
 
-{csatimer} contient une seule et unique fonction `read_csa_time`, qui vise à lire les données.
+`{csatimer}` contient une seule et unique fonction `read_csa_time`, qui vise à lire les données.
 
 ```{r example}
-dplyr::glimpse(csatimer::read_csa_time())
+library(csatimer)
+dplyr::glimpse(read_csa_time())
 ```
 
 Les données sont collectées sur une base mensuelle. Les colonnes suivantes sont incluses : 

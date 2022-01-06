@@ -4,5 +4,5 @@
 #'
 #' @export
 read_csa_time <- function(){
-  csatimer:::all_year
+  dplyr::bind_rows(lapply(dir(system.file(package = "csatimer"), pattern = ".rds", full.names = T), readr::read_rds))
 }

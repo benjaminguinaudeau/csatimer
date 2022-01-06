@@ -1,3 +1,4 @@
 ^csatimer\.Rproj$
 ^\.Rproj\.user$
 ^README\.Rmd$
+raw_data/*
