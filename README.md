@@ -3,101 +3,111 @@
 
 # csatimer
 
-<!-- badges: start -->
-<!-- badges: end -->
+`csatimer` provides data on how much French politician speech in the
+media.
 
-*Dernière Mise à jour: 21 décembre 2021*
+The dataset contained in the package are also
+[available](https://github.com/benjaminguinaudeau/csatimer/tree/master/inst/csv)
+in the csv-format.
 
-L’objectif de `{csatimer}`, est de disséminer en format analysable les
-données de temps de parôle des personalités politiques, tels que
-collectées par le Consiel Supérieur de l’Audiovisuel.
+## Data
 
-Conformément aux dispositions de l’article 13 de la loi du 30 septembre
-1986, le CSA publie régulièrement les tableaux relatifs aux temps de
-parole des personnalités politiques relevés dans les journaux et
-bulletins d’information, les magazines et les autres émissions des
-programmes sur les antennes des télévisions et des radios. Pour plus
-d’information, le site du CSA propose un
-[récapitulatif](https://www.csa.fr/csapluralisme/tableau) des données.
+*Last Update: January, 23 2022*
 
-Le package contient l’ensemble des données relatives aux personalités
-individuelles depuis 2019. A terme, la couverture temporelle sera
-étendue jusqu’au début de la série en 2016.
+Two types of datasets are provided:
 
-## Installation
+-   speaking time of politicians during routine period (no electoral
+    campaigns)
+-   speaking time of candidates during political campaigns
 
-Le package peut être installé depuis [GitHub](https://github.com/) avec:
+### Routine period (no electoral campaigns)
+
+Every month, the [CSA](https://www.csa.fr/csapluralisme/tableau)
+collects how much each political personality speaks on each of the major
+radio and TV stations.
+
+This dataset can be accessed using `read_csa_routine` and is continuous
+between September 2017 and November 2021.
 
 ``` r
-# install.packages("devtools")
-devtools::install_github("benjaminguinaudeau/csatimer")
+read_csa_routine() %>%
+  dplyr::glimpse()
+#> Rows: 106,850
+#> Columns: 7
+#> $ month     <date> 2017-09-01, 2017-09-01, 2017-09-01, 2017-09-01, 2017-09-01,…
+#> $ station   <chr> "TF1", "France 2", "France 2", "France 2", "France 2", "Fran…
+#> $ prog_type <chr> "JT", "JT", "JT", "MAG", "MAG", "PROG", "JT", "MAG", "JT", "…
+#> $ name      <chr> "Macron Emmanuel", "Macron Emmanuel", "Macron Emmanuel", "Ma…
+#> $ label     <chr> "Président De La République En Débat Politique", "Président …
+#> $ party     <fct> Exécutif, Exécutif, Exécutif, Exécutif, Exécutif, Exécutif, …
+#> $ time      <dbl> 8.416667, 7.933333, 4.050000, 6.300000, 2.266667, 3.500000, …
 ```
 
-## Lire les données
+It contains following columns:
 
-`{csatimer}` contient une seule et unique fonction `read_csa_time`, qui
-vise à lire les données.
+-   month <date> `"2017-01-01"`
+-   station <chr> `"TF1", "France 2", "France Inter", ...`
+-   prog\_type <chr> `"JT", "MAG", "PROG"`
+-   name <chr>
+    `"Emmanuel Macron", "Marine Le Pen", "François Hollande", ...`
+-   label <chr>
+    `"Président", "Parti Socialiste", "Ministre", "Les Républicains", ...`
+-   party <chr> `"Exécutif" , "Ps", "LR", ...`
+-   time <dbl>
+
+Speaking times are measured in minutes. For instance, in September 2017,
+Emanuel Macron spoke 8.4 minutes on TF1.
+
+`prog_type` refers to different types of TV/Radio shows: \* `JT`:
+newscast \* `MAG`: political shows \* `PROG`: non-political shows
+
+### Electoral campaigns
+
+During electoral campaigns - presidential, legislative and local - , the
+CSA publishes every two weeks
+[data](https://www.csa.fr/Proteger/Garantie-des-droits-et-libertes/Proteger-le-pluralisme-politique/Pendant-une-election)
+on the speaking time of campaigning candidates.
+
+For each candidate, it computes three different times:
+
+-   `time_candidat`: speaking time of the candidate himself
+-   `time_support`: speaking time of the personalities supporting the
+    candidate
+-   `time_mention`: speaking time of journalists mentioning the
+    candidate.
+
+This dataset can be accessed using `read_csa_election("pres_2022")`.
+
+Following elections are available:
+
+-   Presidential elections 2022: `read_csa_election("pres_2022")`
+-   Presidential elections 2017: `read_csa_election("pres_2017")`
 
 ``` r
-library(csatimer)
-dplyr::glimpse(read_csa_time())
-#> Rows: 72,091
-#> Columns: 10
-#> $ month        <date> 2019-02-01, 2019-02-01, 2019-02-01, 2019-02-01, 2019-02-…
-#> $ media        <chr> "TF1", "France 2", "France 3", "France 3", "Canal +", "Fr…
-#> $ tv           <lgl> TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRU…
-#> $ radio        <lgl> FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, F…
-#> $ prog_type    <chr> "JT", "JT", "JT", "PROG", "PROG", "MAG", "PROG", "JT", "J…
-#> $ nom          <chr> "Macron Emmanuel", "Macron Emmanuel", "Macron Emmanuel", …
-#> $ appartenance <chr> "Président De La République Hors Débat Politique", "Prési…
-#> $ party_abb    <fct> Exécutif, Exécutif, Exécutif, Exécutif, Exécutif, Exécuti…
-#> $ time         <dbl> 3.0000, 7.0000, 9.0000, 1.0000, 3.0000, 9.0000, 12.0000, …
-#> $ path         <chr> NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, N…
+read_csa_election("pres_2022")  %>%
+  dplyr::glimpse()
+#> Rows: 265
+#> Columns: 9
+#> $ type          <chr> "presidential", "presidential", "presidential", "preside…
+#> $ constituency  <chr> "national", "national", "national", "national", "nationa…
+#> $ date_start    <date> 2022-01-01, 2022-01-01, 2022-01-01, 2022-01-01, 2022-01…
+#> $ date_end      <date> 2022-01-16, 2022-01-16, 2022-01-16, 2022-01-16, 2022-01…
+#> $ station       <chr> "BFM Business", "BFM Business", "BFM Business", "BFM TV"…
+#> $ candidat      <chr> "Macron Emmanuel", "Pecresse Valerie", "Zemmour Eric", "…
+#> $ time_candidat <dbl> 0.0000000, 0.1333333, 0.6000000, 9.7166667, 50.9166667, …
+#> $ time_support  <dbl> 3.9833333, 0.0000000, 0.0000000, 0.0000000, 31.0500000, …
+#> $ time_mention  <dbl> 0.0000000, 0.0000000, 1.3166667, 0.0000000, 3.0666667, 1…
 ```
 
-Les données sont collectées sur une base mensuelle. Les colonnes
-suivantes sont incluses :
+### Updating data
 
--   month: mois concerné
--   média: radio ou chaine télévisée concernée
--   radio/tv: type de média
--   prog\_type: le CSA différencie entre trois types de programmes (JT:
-    journaux d’information, MAG: Magazines d’information et PROG:
-    Programmation hors journaux et magazines)
--   nom: Nom de la personalité concernée
--   appartenance: Appartenance telle que fournie par le CSA
--   party\_abb: Abbréviation du party (pour objectifs de visualisation)
--   time: Temps de parole d’un personalité (par type de programme x
-    chaîne x mois)
+Data will be updated as the CSA publishes new routine and campaign data.
 
-Veuillez noter, que les temps parole d’une personalité ou d’un parti
-peuvent être agrégés à différents niveaux. Voici une liste des niveaux
-d’aggrégation possibles:
-
--   année: 2019, 2020, etc…
--   mois: Janvier 2019, janvier 2018, etc…
--   media: TF1, France Inter, LCI, etc…
--   types de programme: JT, MAG ou PROG
-
-Bien entendu ces niveaux peuvent être croisées. Ainsi, les temps de
-paroles peuvent par example être agrégées au niveau du type de média
-pour chaque média (JT x TF1, MAG x TF1, PROG x France 5, etc…)
-
-## Actualisation des données
-
-Les données seront actualisées dès que de nouvelles données seront
-publiées par le CSA. Notez qu’une fois les données actualisées, il vous
-sera nécessaire de réinstaller le package afin de profiter des dernières
-données.
-
-## Mettre les données à jour
-
-Les données contenues dans le package seront actualisé au cours du
-temps. Pour actualiser la version locale des données, vous pouvez
-utiliser `update_csa_time`
+To update the data local version, use `update_csatimer()`
 
 ``` r
-update_csa_time()
+# Updating data
+update_csatimer()
 #> ℹ Updating 2019
 #> ℹ Updating 2020
 #> ℹ Updating 2021

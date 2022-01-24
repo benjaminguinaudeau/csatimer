@@ -2,3 +2,4 @@
 ^\.Rproj\.user$
 ^README\.Rmd$
 raw_data/*
+^LICENSE\.md$

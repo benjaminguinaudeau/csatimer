@@ -9,6 +9,256 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ```{r}
+library(csatimer)
+library(tidyverse)
+```
+
+```{r}
+
+
+color_ideology <- color_ideology_all <- scale_color_manual(values = col_values)
+fill_ideology <- fill_ideology_all <- scale_fill_manual(values = col_values)
+
+# color_ideology_all <- viridis::scale_color_viridis(discrete = T, option = "D", direction = -1, end = .95)
+# color_ideology <- viridis::scale_color_viridis(discrete = T, option = "D", direction = -1)
+# fill_ideology_all <- viridis::scale_fill_viridis(discrete = T, option = "D", direction = -1, end = .95)
+# fill_ideology <- viridis::scale_fill_viridis(discrete = T, option = "D", direction = -1)
+
+
+
+dt <- read_csa_time() %>%
+  mutate(ideology = case_when(
+    party_abb == "Exécutif" ~ "Exécutif",
+    party_abb %in% c("LFI", "PCF") ~ "Extrême gauche",
+    party_abb %in% c("PS", "EELV", "Gauche") ~ "Gauche",
+    party_abb %in% c("MODEM", "LREM") ~ "Centre",
+    party_abb %in% c("LR", "Libres", "Droite", "UDI") ~ "Droite",
+    party_abb %in% c("RN", "DlF") ~ "Extrême droite", 
+    appartenance %in% c("Agir") ~ "Droite",
+    appartenance %in% c("Les Centristes", "Divers Centre", "Mouvement Radical") ~ "Centre",
+    appartenance %in% c("Secretaire Etat") ~ "Exécutif",
+    appartenance %in% c("Génération.s", "Gauche Républicaine Et Socialiste", "Parti Radical De Gauche", "Place Publique") ~ "Gauche",
+    appartenance %in% c("Nouveau Parti Anticapitaliste", "Lutte Ouvrière") ~ "Extrême gauche",
+    appartenance %in% c("Les Patriotes", "Jeanne, Au Secours !", "Les Amis D'Éric Zemmour", "Génération Z") ~ "Extrême droite",
+    T ~ "Autres petits partis"
+  ),
+  ideo_score = recode(ideology, "Exécutif" = NA_real_, 
+                      "Extrême gauche" = -2, 
+                      "Gauche" = -1, 
+                      "Centre" = 0, 
+                      "Droite" = 1, 
+                      "Extrême droite" = 2, 
+                      "Autres petits partis" = NA_real_)) %>%
+  mutate(ideology_f = factor(ideology) %>% fct_relevel("Exécutif", "Extrême gauche", "Gauche", "Centre", "Droite", "Extrême droite", "Autres petits partis")) %>%
+  mutate(executif_dum = appartenance %in% c("Ministre", "La République En Marche", "Président De La République En Débat Politique", "Président De La République Hors Débat Politique", "Premier Ministre", "Secretaire Etat"), 
+         executif = ifelse(executif_dum, "Exécutif", "Autre partis"), 
+         private_dum = !media %in% c("France 2", "France 3", "France 5", "France Culture", "France Inter", "France Info", "France Info TV", "Radio Classique"),
+         private = ifelse(private_dum, "Public", "Private"), 
+         tv_dum = tv, 
+         tv = ifelse(tv_dum, "TV", "Radio"),
+         prog_type = case_when(
+           prog_type == "JT" ~ "Journal Télévisé", 
+           prog_type == "MAG" ~ "Magazine Politique",
+           prog_type == "PROG" ~ "Autres programmes"
+         ), 
+         media_label = paste(tv, media), 
+         media_type = paste(private, tv)
+  ) %>% 
+  glimpse
+```
+
+
+## Overall time for each channel over time
+
+```{r}
+dt %>%
+  group_by(month) %>%
+  summarise(n_hours = sum(time, na.rm = T)/60) %>%
+  ggplot(aes(x = month, n_hours)) +
+  geom_line() +
+  theme_minimal() +
+  labs(x = "", y = "Total Monthly Number of Hours featuring political personalities")
+```
+
+```{r}
+dt %>%
+  group_by(month, media_label) %>%
+  summarise(n_hours = sum(time, na.rm = T)/60) %>%
+  ggplot(aes(x = month, n_hours)) +
+  geom_line() +
+  theme_minimal() +
+  facet_wrap(~media_label, scales = "free_y", ncol = 3) +
+  labs(x = "", y = "Cumulative Number of House\nfeaturing political personalities")
+```
+
+```{r}
+dt %>%
+  group_by(month, media_label, prog_type) %>%
+  summarise(n_hours = sum(time, na.rm = T)/60) %>%
+  ggplot(aes(x = month, n_hours, fill = prog_type)) +
+  geom_col() +
+  theme_minimal() +
+  facet_wrap(~media_label, scales = "free_y", ncol = 3) +
+  labs(x = "", y = "Cumulative Number of House\nfeaturing political personalities", fill = "")
+```
+
+```{r}
+dt %>% 
+  group_by(month, executif) %>%
+  summarise(n_hours = sum(time, na.rm = T)/60) %>%
+  ggplot(aes(x = month, n_hours, color = executif)) +
+  geom_line() +
+  theme_minimal() +
+  labs(x = "", y = "Cumulative Number of House\nfeaturing political personalities", color = "")
+```
+
+
+```{r}
+dt %>% 
+  group_by(month, tv, executif) %>%
+  summarise(n_hours = sum(time, na.rm = T)/60) %>%
+  ggplot(aes(x = month, n_hours, color = executif)) +
+  geom_line() +
+  theme_minimal() +
+  facet_wrap(~tv, scales = "free_y", ncol = 1) +
+  labs(x = "", y = "Cumulative Number of House\nfeaturing political personalities", color = "")
+```
+
+```{r}
+dt %>% 
+  group_by(month, media_type, executif) %>%
+  summarise(n_hours = sum(time, na.rm = T)/60) %>%
+  ggplot(aes(x = month, n_hours, color = executif)) +
+  geom_line() +
+  theme_minimal() +
+  facet_wrap(~media_type, scales = "free_y", ncol = 2) +
+  labs(x = "", y = "Cumulative Number of House\nfeaturing political personalities", color = "")
+```
+
+```{r}
+dt %>% 
+  group_by(month, media_label, executif) %>%
+  summarise(n_hours = sum(time, na.rm = T)/60) %>%
+  ggplot(aes(x = month, n_hours, color = executif)) +
+  geom_line() +
+  theme_minimal() +
+  facet_wrap(~media_label, scales = "free_y") +
+  labs(x = "", y = "Cumulative Number of House\nfeaturing political personalities", color = "")
+```
+
+
+```{r}
+dt %>% 
+  filter(ideology_f != "Autres petits partis") %>%
+  group_by(month, ideology_f) %>%
+  summarise(n_hours = sum(time, na.rm = T)/60) %>%
+  ggplot(aes(x = month, n_hours, color = ideology_f, fill = ideology_f)) +
+  geom_line() +
+  theme_minimal() +
+  labs(x = "", y = "Cumulative Number of House\nfeaturing political personalities", color = "") +
+  color_ideology_all
+```
+
+```{r}
+dt %>% 
+  filter(ideology_f != "Autres petits partis") %>%
+  group_by(month, tv, ideology_f) %>%
+  summarise(n_hours = sum(time, na.rm = T)/60) %>%
+  ggplot(aes(x = month, n_hours, color = ideology_f, fill = ideology_f)) +
+  geom_line() +
+  theme_minimal() +
+  facet_wrap(~tv, scales = "free_y", ncol = 1) +
+  labs(x = "", y = "Cumulative Number of House\nfeaturing political personalities", color = "") +
+  color_ideology_all
+```
+
+```{r}
+dt %>% 
+  filter(ideology_f != "Autres petits partis") %>%
+  group_by(month, media_type, ideology_f) %>%
+  summarise(n_hours = sum(time, na.rm = T)/60) %>%
+  ggplot(aes(x = month, n_hours, color = ideology_f, fill = ideology_f)) +
+  geom_line() +
+  theme_minimal() +
+  facet_wrap(~media_type, scales = "free_y") +
+  labs(x = "", y = "Cumulative Number of House\nfeaturing political personalities", color = "") +
+  color_ideology_all
+```
+
+```{r}
+dt %>% 
+  filter(ideology_f != "Autres petits partis") %>%
+  group_by(month, media_label, ideology_f) %>%
+  summarise(n_hours = sum(time, na.rm = T)/60) %>%
+  ggplot(aes(x = month, n_hours, color = ideology_f, fill = ideology_f)) +
+  geom_line() +
+  theme_minimal() +
+  facet_wrap(~media_label, scales = "free_y") +
+  labs(x = "", y = "Cumulative Number of House\nfeaturing political personalities", color = "") +
+  color_ideology_all
+```
+
+```{r}
+dt %>% 
+  filter(ideology_f != "Autres petits partis") %>%
+  group_by(month, tv, ideology_f) %>%
+  summarise(n_hours = sum(time, na.rm = T)/60) %>%
+  ggplot(aes(x = month, weight = n_hours, fill = ideology_f)) +
+  geom_histogram(position = "fill", alpha = .8, bins = 36) +
+  theme_minimal() +
+  facet_wrap(~tv, scales = "free_y", ncol = 1) +
+  labs(x = "", y = "Cumulative Number of House\nfeaturing political personalities", color = "") +
+  fill_ideology_all
+```
+
+```{r}
+dt %>% 
+  filter(!executif_dum) %>%
+  filter(ideology_f != "Autres petits partis") %>%
+  group_by(month, media_type, ideology_f) %>%
+  summarise(n_hours = sum(time, na.rm = T)/60) %>%
+  ggplot(aes(x = month, weight = n_hours, fill = ideology_f)) +
+  geom_histogram(position = "fill", alpha = .8, bins = 36) +
+  theme_minimal() +
+  facet_wrap(~media_type, scales = "free_y") +
+  labs(x = "", y = "Cumulative Number of House\nfeaturing political personalities", color = "") +
+  fill_ideology_all
+```
+
+```{r}
+dt %>% 
+  filter(!executif_dum) %>%
+  filter(ideology_f != "Autres petits partis") %>%
+  group_by(month, media_label, ideology_f) %>%
+  summarise(n_hours = sum(time, na.rm = T)/60) %>%
+  ggplot(aes(x = month, weight = n_hours, fill = ideology_f)) +
+  geom_histogram(position = "fill", alpha = .8, bins = 36) +
+  theme_minimal() +
+  facet_wrap(~media_label, scales = "free_y") +
+  labs(x = "", y = "Cumulative Number of House\nfeaturing political personalities", color = "") +
+  fill_ideology_all
+```
+
+```{r}
+
+dt %>%
+  filter(!executif_dum) %>%
+  filter(ideology_f != "Autres petits partis") %>%
+  group_by(month, media_label) %>%
+  summarise(
+    total_time = sum(time, na.rm = T),
+    mean_ideo_score = sum((ideo_score * time))/sum(time, na.rm = T)) %>%
+  ggplot(aes(x = month, y = mean_ideo_score, color = mean_ideo_score)) +
+  geom_point(aes(size = total_time, alpha = total_time)) +
+  geom_line() +
+  theme_minimal() +
+  facet_wrap(~media_label) +
+  labs(x = "", y = "Barycentre political d'un média", color = "") +
+  scale_alpha(range = c(.5, 1)) +
+  scale_size(range = c(.5, 3)) +
+  colorspace::scale_color_continuous_diverging(c1 = 100,  h1 = 260, h2 = 0, p1 = 1, p2 = 1, l1 = 30, l2 = 70, rev = T)
 
 ```
+
+
 
