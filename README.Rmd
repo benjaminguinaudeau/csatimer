@@ -22,6 +22,13 @@ library(csatimer)
 
 The dataset contained in the package are also [available](https://github.com/benjaminguinaudeau/csatimer/tree/master/inst/csv) in the csv-format.
 
+## Installation
+
+``` r
+# install.packages("devtools")
+devtools::install_github("benjaminguinaudeau/csatimer")
+```
+
 ## Data
 
 *Last Update: January, 23 2022* 
