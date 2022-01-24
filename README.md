@@ -58,8 +58,11 @@ It contains following columns:
 Speaking times are measured in minutes. For instance, in September 2017,
 Emanuel Macron spoke 8.4 minutes on TF1.
 
-`prog_type` refers to different types of TV/Radio shows: \* `JT`:
-newscast \* `MAG`: political shows \* `PROG`: non-political shows
+`prog_type` refers to different types of TV/Radio shows:
+
+-   `JT`: newscast
+-   `MAG`: political shows
+-   `PROG`: non-political shows
 
 ### Electoral campaigns
 
@@ -108,7 +111,11 @@ To update the data local version, use `update_csatimer()`
 ``` r
 # Updating data
 update_csatimer()
+#> ℹ Updating 2017
+#> ℹ Updating 2018
 #> ℹ Updating 2019
 #> ℹ Updating 2020
 #> ℹ Updating 2021
+#> ℹ Updating pres_2017
+#> ℹ Updating pres_2022
 ```
