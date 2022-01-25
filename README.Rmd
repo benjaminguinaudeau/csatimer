@@ -18,7 +18,7 @@ library(csatimer)
 
 # csatimer
 
-`csatimer` provides data on how much French politician speech in the media. 
+`csatimer` provides data on how much air time French politician receive in the media. 
 
 The dataset contained in the package are also [available](https://github.com/benjaminguinaudeau/csatimer/tree/master/inst/csv) in the csv-format.
 
@@ -40,7 +40,7 @@ Two types of datasets are provided:
   
 ### Routine period (no electoral campaigns)
 
-Every month, the [CSA](https://www.csa.fr/csapluralisme/tableau) collects how much each political personality speaks on each of the major radio and TV stations. 
+Every month, the [CSA](https://www.csa.fr/csapluralisme/tableau) collects how long each political personality speaks on each of the major radio and TV stations. 
 
 This dataset can be accessed using `read_csa_routine` and is continuous between September 2017 and November 2021. 
 
@@ -50,7 +50,7 @@ read_csa_routine() %>%
 ```
 
 
-It contains following columns: 
+It contains the following columns: 
   
   * month <date> `"2017-01-01"`
   * station <chr> `"TF1", "France 2", "France Inter", ...`
@@ -70,13 +70,13 @@ Speaking times are measured in minutes. For instance, in September 2017, Emanuel
   
 ### Electoral campaigns
 
-During electoral campaigns - presidential, legislative and local - , the CSA publishes every two weeks [data](https://www.csa.fr/Proteger/Garantie-des-droits-et-libertes/Proteger-le-pluralisme-politique/Pendant-une-election) on the speaking time of campaigning candidates. 
+During electoral campaigns - presidential, legislative and local - , the CSA publishes air time of campaigning candidates [data](https://www.csa.fr/Proteger/Garantie-des-droits-et-libertes/Proteger-le-pluralisme-politique/Pendant-une-election) *every two weeks*. 
 
-For each candidate, it computes three different times: 
+For each candidate, three different measures are computed: 
 
-  * `time_candidat`: speaking time of the candidate himself
-  * `time_support`: speaking time of the personalities supporting the candidate
-  * `time_mention`: speaking time of journalists mentioning the candidate. 
+  * `time_candidat`: speaking time of the candidate themselves
+  * `time_support`: speaking time of personalities supporting the candidate
+  * `time_mention`: speaking time of journalists mentioning the candidate
 
 This dataset can be accessed using `read_csa_election("pres_2022")`. 
 
