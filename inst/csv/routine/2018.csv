@@ -759,8 +759,8 @@ month,station,prog_type,name,label,party,time
 2018-03-01,France 5,MAG,Philippe Edouard,Ministre,Exécutif,6.983333333333333
 2018-03-01,France 5,PROG,Philippe Edouard,Premier Ministre,Exécutif,6.7
 2018-03-01,M6,JT,Philippe Edouard,Ministre,Exécutif,2.4
-2018-03-01,C8,JT,Philippe Edouard,Premier,NA,3.3333333333333335
-2018-03-01,TMC,MAG,Philippe Edouard,Premier,NA,1.1833333333333333
+2018-03-01,C8,JT,Philippe Edouard,Premier Ministre,Exécutif,3.3333333333333335
+2018-03-01,TMC,MAG,Philippe Edouard,Premier Ministre,Exécutif,1.1833333333333333
 2018-03-01,Numéro 23,MAG,Philippe Edouard,Ministre,Exécutif,1.4
 2018-03-01,RMC Découverte,MAG,Philippe Edouard,Ministre,Exécutif,4.15
 2018-05-01,TF1,JT,Philippe Edouard,Ministre,Exécutif,2
@@ -5314,149 +5314,149 @@ month,station,prog_type,name,label,party,time
 2018-12-01,France Info,JT,Borne Elisabeth,Ministre,Exécutif,5.666666666666667
 2018-12-01,Radio Classique,MAG,Borne Elisabeth,Ministre,Exécutif,8.816666666666666
 2018-12-01,Sud Radio,MAG,Borne Elisabeth,Ministre,Exécutif,11.016666666666667
-2018-02-01,Canal +,MAG,Hamon Benoit,Génération.s,Géné,11.3
-2018-04-01,France 2,PROG,Hamon Benoit,Génération.s,Géné,1.7333333333333334
-2018-04-01,France 3,PROG,Hamon Benoit,Génération.s,Géné,18.333333333333332
-2018-04-01,France 5,MAG,Hamon Benoit,Génération.s,Géné,1.2
-2018-04-01,France 5,PROG,Hamon Benoit,Génération.s,Géné,5.333333333333333
-2018-06-01,Canal +,PROG,Hamon Benoit,Génération.s,Géné,8.516666666666667
-2018-06-01,C8,MAG,Hamon Benoit,Génération.s,Géné,3.25
-2018-09-01,Canal +,MAG,Hamon Benoit,Génération.s,Géné,18.7
-2018-09-01,France 5,MAG,Hamon Benoit,Génération.s,Géné,1.15
-2018-09-01,France 5,PROG,Hamon Benoit,Génération.s,Géné,1.3666666666666667
-2018-09-01,C8,MAG,Hamon Benoit,Génération.s,Géné,1.6666666666666667
-2018-01-01,France 2,JT,Hamon Benoit,Génération.s,Géné,8.4
-2018-01-01,France 2,PROG,Hamon Benoit,Génération.s,Géné,48.85
-2018-01-01,France 5,MAG,Hamon Benoit,Génération.s,Géné,2.3
-2018-03-01,France 2,JT,Hamon Benoit,Génération.s,Géné,7.233333333333333
-2018-03-01,France 3,MAG,Hamon Benoit,Génération.s,Géné,22.033333333333335
-2018-03-01,France 5,PROG,Hamon Benoit,Génération.s,Géné,1.3333333333333333
-2018-03-01,C8,MAG,Hamon Benoit,Génération.s,Géné,1.8666666666666667
-2018-05-01,France 2,JT,Hamon Benoit,Génération.s,Géné,7.666666666666667
-2018-05-01,France 2,PROG,Hamon Benoit,Génération.s,Géné,2.783333333333333
-2018-07-01,France 2,JT,Hamon Benoit,Génération.s,Géné,7.15
-2018-07-01,France 5,MAG,Hamon Benoit,Génération.s,Géné,1
-2018-10-01,France 2,JT,Hamon Benoit,Génération.s,Géné,8.566666666666666
-2018-10-01,France 3,MAG,Hamon Benoit,Génération.s,Géné,22.816666666666666
-2018-10-01,Canal +,MAG,Hamon Benoit,Génération.s,Géné,2.8333333333333335
-2018-10-01,France 5,MAG,Hamon Benoit,Génération.s,Géné,2.1166666666666667
-2018-12-01,TF1,MAG,Hamon Benoit,Génération.s,Géné,1.2166666666666666
-2018-12-01,France 5,MAG,Hamon Benoit,Génération.s,Géné,1.0666666666666667
-2018-12-01,C8,PROG,Hamon Benoit,Génération.s,Géné,2.9
-2018-02-01,C NEWS,MAG,Hamon Benoit,Génération.s,Géné,15.116666666666667
-2018-02-01,LCI,MAG,Hamon Benoit,Génération.s,Géné,15.016666666666667
-2018-02-01,France Info TV,JT,Hamon Benoit,Génération.s,Géné,1.7
-2018-02-01,France Info TV,MAG,Hamon Benoit,Génération.s,Géné,18.383333333333333
-2018-04-01,BFM TV,JT,Hamon Benoit,Génération.s,Géné,88.91666666666667
-2018-04-01,BFM TV,MAG,Hamon Benoit,Génération.s,Géné,19.25
-2018-04-01,C NEWS,JT,Hamon Benoit,Génération.s,Géné,7.183333333333334
-2018-04-01,LCI,MAG,Hamon Benoit,Génération.s,Géné,3.533333333333333
-2018-04-01,France Info TV,JT,Hamon Benoit,Génération.s,Géné,1.0833333333333333
-2018-04-01,France Info TV,MAG,Hamon Benoit,Génération.s,Géné,21.15
-2018-01-01,BFM TV,JT,Hamon Benoit,Génération.s,Géné,12.116666666666667
-2018-01-01,C NEWS,JT,Hamon Benoit,Génération.s,Géné,12.95
-2018-01-01,LCI,JT,Hamon Benoit,Génération.s,Géné,1.5666666666666667
-2018-01-01,LCI,MAG,Hamon Benoit,Génération.s,Géné,5.666666666666667
-2018-01-01,France Info TV,JT,Hamon Benoit,Génération.s,Géné,2.5833333333333335
-2018-01-01,France Info TV,MAG,Hamon Benoit,Génération.s,Géné,24.066666666666666
-2018-03-01,BFM TV,JT,Hamon Benoit,Génération.s,Géné,6.783333333333333
-2018-03-01,C NEWS,JT,Hamon Benoit,Génération.s,Géné,1.3
-2018-03-01,C NEWS,MAG,Hamon Benoit,Génération.s,Géné,1.25
-2018-03-01,LCI,MAG,Hamon Benoit,Génération.s,Géné,7.216666666666667
-2018-05-01,BFM TV,JT,Hamon Benoit,Génération.s,Géné,125.75
-2018-05-01,C NEWS,JT,Hamon Benoit,Génération.s,Géné,4.583333333333333
-2018-05-01,LCI,JT,Hamon Benoit,Génération.s,Géné,1.5333333333333334
-2018-05-01,LCI,MAG,Hamon Benoit,Génération.s,Géné,9.25
-2018-05-01,France Info TV,JT,Hamon Benoit,Génération.s,Géné,4.183333333333334
-2018-05-01,France Info TV,MAG,Hamon Benoit,Génération.s,Géné,20.1
-2018-09-01,BFM TV,JT,Hamon Benoit,Génération.s,Géné,15.866666666666667
-2018-09-01,BFM TV,MAG,Hamon Benoit,Génération.s,Géné,1.6166666666666667
-2018-09-01,C NEWS,JT,Hamon Benoit,Génération.s,Géné,5.866666666666666
-2018-09-01,C NEWS,MAG,Hamon Benoit,Génération.s,Géné,5.366666666666666
-2018-09-01,LCI,JT,Hamon Benoit,Génération.s,Géné,1.2333333333333334
-2018-09-01,LCI,MAG,Hamon Benoit,Génération.s,Géné,48.93333333333333
-2018-09-01,France Info TV,JT,Hamon Benoit,Génération.s,Géné,9.316666666666666
-2018-09-01,France Info TV,MAG,Hamon Benoit,Génération.s,Géné,18.333333333333332
-2018-09-01,France Info TV,PROG,Hamon Benoit,Génération.s,Géné,6.433333333333334
-2018-11-01,BFM TV,JT,Hamon Benoit,Génération.s,Géné,5.066666666666666
-2018-11-01,BFM TV,MAG,Hamon Benoit,Génération.s,Géné,20.583333333333332
-2018-11-01,France Info TV,JT,Hamon Benoit,Génération.s,Géné,4.383333333333334
-2018-11-01,France Info TV,MAG,Hamon Benoit,Génération.s,Géné,19.116666666666667
-2018-07-01,BFM TV,JT,Hamon Benoit,Génération.s,Géné,41.96666666666667
-2018-07-01,LCI,MAG,Hamon Benoit,Génération.s,Géné,1.15
-2018-07-01,France Info TV,MAG,Hamon Benoit,Génération.s,Géné,18.9
-2018-07-01,France Info TV,PROG,Hamon Benoit,Génération.s,Géné,1.2
-2018-08-01,BFM TV,JT,Hamon Benoit,Génération.s,Géné,1.05
-2018-08-01,BFM TV,MAG,Hamon Benoit,Génération.s,Géné,20.383333333333333
-2018-08-01,France Info TV,JT,Hamon Benoit,Génération.s,Géné,11.816666666666666
-2018-08-01,France Info TV,MAG,Hamon Benoit,Génération.s,Géné,1.0333333333333334
-2018-08-01,France Info TV,PROG,Hamon Benoit,Génération.s,Géné,5.85
-2018-10-01,BFM TV,JT,Hamon Benoit,Génération.s,Géné,9.266666666666667
-2018-10-01,C NEWS,JT,Hamon Benoit,Génération.s,Géné,13.45
-2018-10-01,France Info TV,JT,Hamon Benoit,Génération.s,Géné,8.783333333333333
-2018-10-01,France Info TV,MAG,Hamon Benoit,Génération.s,Géné,7.116666666666666
-2018-12-01,BFM TV,JT,Hamon Benoit,Génération.s,Géné,36.95
-2018-12-01,BFM TV,MAG,Hamon Benoit,Génération.s,Géné,25.366666666666667
-2018-12-01,C NEWS,JT,Hamon Benoit,Génération.s,Géné,1.3333333333333333
-2018-12-01,C NEWS,MAG,Hamon Benoit,Génération.s,Géné,20.166666666666668
-2018-12-01,LCI,JT,Hamon Benoit,Génération.s,Géné,1
-2018-12-01,LCI,MAG,Hamon Benoit,Génération.s,Géné,2.3333333333333335
-2018-12-01,France Info TV,JT,Hamon Benoit,Génération.s,Géné,4.333333333333333
-2018-12-01,France Info TV,MAG,Hamon Benoit,Génération.s,Géné,6.65
-2018-06-01,France Info TV,JT,Hamon Benoit,Génération.s,Géné,14.583333333333334
-2018-06-01,France Info TV,MAG,Hamon Benoit,Génération.s,Géné,16.616666666666667
-2018-02-01,France Info,JT,Hamon Benoit,Génération.s,Géné,17.783333333333335
-2018-04-01,France Inter,JT,Hamon Benoit,Génération.s,Géné,1.8833333333333333
-2018-04-01,France Inter,MAG,Hamon Benoit,Génération.s,Géné,7.4
-2018-04-01,France Info,JT,Hamon Benoit,Génération.s,Géné,39.8
-2018-04-01,France Culture,JT,Hamon Benoit,Génération.s,Géné,2.25
-2018-04-01,RMC,MAG,Hamon Benoit,Génération.s,Géné,18.183333333333334
-2018-06-01,France Inter,JT,Hamon Benoit,Génération.s,Géné,1.6
-2018-06-01,France Info,JT,Hamon Benoit,Génération.s,Géné,20.85
-2018-09-01,France Inter,JT,Hamon Benoit,Génération.s,Géné,1.0666666666666667
-2018-09-01,France Inter,MAG,Hamon Benoit,Génération.s,Géné,17.75
-2018-09-01,France Info,JT,Hamon Benoit,Génération.s,Géné,24.116666666666667
-2018-09-01,France Culture,JT,Hamon Benoit,Génération.s,Géné,1.0333333333333334
-2018-09-01,RTL,JT,Hamon Benoit,Génération.s,Géné,2.6166666666666667
-2018-11-01,France Inter,MAG,Hamon Benoit,Génération.s,Géné,18.466666666666665
-2018-11-01,France Info,JT,Hamon Benoit,Génération.s,Géné,2.933333333333333
-2018-11-01,France Info,MAG,Hamon Benoit,Génération.s,Géné,17.316666666666666
-2018-11-01,RMC,MAG,Hamon Benoit,Génération.s,Géné,41.166666666666664
-2018-11-01,Europe 1,MAG,Hamon Benoit,Génération.s,Géné,9.2
-2018-11-01,RTL,JT,Hamon Benoit,Génération.s,Géné,3.1666666666666665
-2018-11-01,RTL,MAG,Hamon Benoit,Génération.s,Géné,10.25
-2018-11-01,Sud Radio,MAG,Hamon Benoit,Génération.s,Géné,11.1
-2018-01-01,France Inter,MAG,Hamon Benoit,Génération.s,Géné,6.55
-2018-01-01,France Info,JT,Hamon Benoit,Génération.s,Géné,28.033333333333335
-2018-01-01,France Culture,JT,Hamon Benoit,Génération.s,Géné,2.1
-2018-01-01,France Culture,PROG,Hamon Benoit,Génération.s,Géné,1.3833333333333333
-2018-01-01,RTL,MAG,Hamon Benoit,Génération.s,Géné,10.733333333333333
-2018-03-01,France Info,JT,Hamon Benoit,Génération.s,Géné,1.4166666666666667
-2018-03-01,Radio Classique,MAG,Hamon Benoit,Génération.s,Géné,13.283333333333333
-2018-03-01,Europe 1,MAG,Hamon Benoit,Génération.s,Géné,11.333333333333334
-2018-05-01,France Inter,MAG,Hamon Benoit,Génération.s,Géné,6.233333333333333
-2018-05-01,France Info,JT,Hamon Benoit,Génération.s,Géné,20.033333333333335
-2018-05-01,France Culture,JT,Hamon Benoit,Génération.s,Géné,1.1
-2018-05-01,RMC,JT,Hamon Benoit,Génération.s,Géné,1.2666666666666666
-2018-05-01,RTL,JT,Hamon Benoit,Génération.s,Géné,1.0666666666666667
-2018-05-01,RTL,MAG,Hamon Benoit,Génération.s,Géné,10.7
-2018-07-01,France Inter,JT,Hamon Benoit,Génération.s,Géné,6.25
-2018-07-01,France Info,JT,Hamon Benoit,Génération.s,Géné,35.266666666666666
-2018-07-01,BFM,MAG,Hamon Benoit,Génération.s,Géné,21.1
-2018-07-01,RMC,MAG,Hamon Benoit,Génération.s,Géné,19.516666666666666
-2018-08-01,France Info,JT,Hamon Benoit,Génération.s,Géné,2.283333333333333
-2018-08-01,RMC,MAG,Hamon Benoit,Génération.s,Géné,20.383333333333333
-2018-10-01,France Info,JT,Hamon Benoit,Génération.s,Géné,7.966666666666667
-2018-10-01,France Info,MAG,Hamon Benoit,Génération.s,Géné,6
-2018-10-01,Radio Classique,MAG,Hamon Benoit,Génération.s,Géné,11.716666666666667
-2018-10-01,RMC,MAG,Hamon Benoit,Génération.s,Géné,21.933333333333334
-2018-10-01,Europe 1,MAG,Hamon Benoit,Génération.s,Géné,7.766666666666667
-2018-12-01,France Inter,JT,Hamon Benoit,Génération.s,Géné,6.666666666666667
-2018-12-01,France Info,JT,Hamon Benoit,Génération.s,Géné,24.583333333333332
-2018-12-01,France Info,MAG,Hamon Benoit,Génération.s,Géné,5.816666666666666
-2018-12-01,BFM,MAG,Hamon Benoit,Génération.s,Géné,11.8
-2018-12-01,RMC,MAG,Hamon Benoit,Génération.s,Géné,19.583333333333332
-2018-12-01,Europe 1,MAG,Hamon Benoit,Génération.s,Géné,6.383333333333334
+2018-02-01,Canal +,MAG,Hamon Benoit,Génération.s,Génération.s,11.3
+2018-04-01,France 2,PROG,Hamon Benoit,Génération.s,Génération.s,1.7333333333333334
+2018-04-01,France 3,PROG,Hamon Benoit,Génération.s,Génération.s,18.333333333333332
+2018-04-01,France 5,MAG,Hamon Benoit,Génération.s,Génération.s,1.2
+2018-04-01,France 5,PROG,Hamon Benoit,Génération.s,Génération.s,5.333333333333333
+2018-06-01,Canal +,PROG,Hamon Benoit,Génération.s,Génération.s,8.516666666666667
+2018-06-01,C8,MAG,Hamon Benoit,Génération.s,Génération.s,3.25
+2018-09-01,Canal +,MAG,Hamon Benoit,Génération.s,Génération.s,18.7
+2018-09-01,France 5,MAG,Hamon Benoit,Génération.s,Génération.s,1.15
+2018-09-01,France 5,PROG,Hamon Benoit,Génération.s,Génération.s,1.3666666666666667
+2018-09-01,C8,MAG,Hamon Benoit,Génération.s,Génération.s,1.6666666666666667
+2018-01-01,France 2,JT,Hamon Benoit,Génération.s,Génération.s,8.4
+2018-01-01,France 2,PROG,Hamon Benoit,Génération.s,Génération.s,48.85
+2018-01-01,France 5,MAG,Hamon Benoit,Génération.s,Génération.s,2.3
+2018-03-01,France 2,JT,Hamon Benoit,Génération.s,Génération.s,7.233333333333333
+2018-03-01,France 3,MAG,Hamon Benoit,Génération.s,Génération.s,22.033333333333335
+2018-03-01,France 5,PROG,Hamon Benoit,Génération.s,Génération.s,1.3333333333333333
+2018-03-01,C8,MAG,Hamon Benoit,Génération.s,Génération.s,1.8666666666666667
+2018-05-01,France 2,JT,Hamon Benoit,Génération.s,Génération.s,7.666666666666667
+2018-05-01,France 2,PROG,Hamon Benoit,Génération.s,Génération.s,2.783333333333333
+2018-07-01,France 2,JT,Hamon Benoit,Génération.s,Génération.s,7.15
+2018-07-01,France 5,MAG,Hamon Benoit,Génération.s,Génération.s,1
+2018-10-01,France 2,JT,Hamon Benoit,Génération.s,Génération.s,8.566666666666666
+2018-10-01,France 3,MAG,Hamon Benoit,Génération.s,Génération.s,22.816666666666666
+2018-10-01,Canal +,MAG,Hamon Benoit,Génération.s,Génération.s,2.8333333333333335
+2018-10-01,France 5,MAG,Hamon Benoit,Génération.s,Génération.s,2.1166666666666667
+2018-12-01,TF1,MAG,Hamon Benoit,Génération.s,Génération.s,1.2166666666666666
+2018-12-01,France 5,MAG,Hamon Benoit,Génération.s,Génération.s,1.0666666666666667
+2018-12-01,C8,PROG,Hamon Benoit,Génération.s,Génération.s,2.9
+2018-02-01,C NEWS,MAG,Hamon Benoit,Génération.s,Génération.s,15.116666666666667
+2018-02-01,LCI,MAG,Hamon Benoit,Génération.s,Génération.s,15.016666666666667
+2018-02-01,France Info TV,JT,Hamon Benoit,Génération.s,Génération.s,1.7
+2018-02-01,France Info TV,MAG,Hamon Benoit,Génération.s,Génération.s,18.383333333333333
+2018-04-01,BFM TV,JT,Hamon Benoit,Génération.s,Génération.s,88.91666666666667
+2018-04-01,BFM TV,MAG,Hamon Benoit,Génération.s,Génération.s,19.25
+2018-04-01,C NEWS,JT,Hamon Benoit,Génération.s,Génération.s,7.183333333333334
+2018-04-01,LCI,MAG,Hamon Benoit,Génération.s,Génération.s,3.533333333333333
+2018-04-01,France Info TV,JT,Hamon Benoit,Génération.s,Génération.s,1.0833333333333333
+2018-04-01,France Info TV,MAG,Hamon Benoit,Génération.s,Génération.s,21.15
+2018-01-01,BFM TV,JT,Hamon Benoit,Génération.s,Génération.s,12.116666666666667
+2018-01-01,C NEWS,JT,Hamon Benoit,Génération.s,Génération.s,12.95
+2018-01-01,LCI,JT,Hamon Benoit,Génération.s,Génération.s,1.5666666666666667
+2018-01-01,LCI,MAG,Hamon Benoit,Génération.s,Génération.s,5.666666666666667
+2018-01-01,France Info TV,JT,Hamon Benoit,Génération.s,Génération.s,2.5833333333333335
+2018-01-01,France Info TV,MAG,Hamon Benoit,Génération.s,Génération.s,24.066666666666666
+2018-03-01,BFM TV,JT,Hamon Benoit,Génération.s,Génération.s,6.783333333333333
+2018-03-01,C NEWS,JT,Hamon Benoit,Génération.s,Génération.s,1.3
+2018-03-01,C NEWS,MAG,Hamon Benoit,Génération.s,Génération.s,1.25
+2018-03-01,LCI,MAG,Hamon Benoit,Génération.s,Génération.s,7.216666666666667
+2018-05-01,BFM TV,JT,Hamon Benoit,Génération.s,Génération.s,125.75
+2018-05-01,C NEWS,JT,Hamon Benoit,Génération.s,Génération.s,4.583333333333333
+2018-05-01,LCI,JT,Hamon Benoit,Génération.s,Génération.s,1.5333333333333334
+2018-05-01,LCI,MAG,Hamon Benoit,Génération.s,Génération.s,9.25
+2018-05-01,France Info TV,JT,Hamon Benoit,Génération.s,Génération.s,4.183333333333334
+2018-05-01,France Info TV,MAG,Hamon Benoit,Génération.s,Génération.s,20.1
+2018-09-01,BFM TV,JT,Hamon Benoit,Génération.s,Génération.s,15.866666666666667
+2018-09-01,BFM TV,MAG,Hamon Benoit,Génération.s,Génération.s,1.6166666666666667
+2018-09-01,C NEWS,JT,Hamon Benoit,Génération.s,Génération.s,5.866666666666666
+2018-09-01,C NEWS,MAG,Hamon Benoit,Génération.s,Génération.s,5.366666666666666
+2018-09-01,LCI,JT,Hamon Benoit,Génération.s,Génération.s,1.2333333333333334
+2018-09-01,LCI,MAG,Hamon Benoit,Génération.s,Génération.s,48.93333333333333
+2018-09-01,France Info TV,JT,Hamon Benoit,Génération.s,Génération.s,9.316666666666666
+2018-09-01,France Info TV,MAG,Hamon Benoit,Génération.s,Génération.s,18.333333333333332
+2018-09-01,France Info TV,PROG,Hamon Benoit,Génération.s,Génération.s,6.433333333333334
+2018-11-01,BFM TV,JT,Hamon Benoit,Génération.s,Génération.s,5.066666666666666
+2018-11-01,BFM TV,MAG,Hamon Benoit,Génération.s,Génération.s,20.583333333333332
+2018-11-01,France Info TV,JT,Hamon Benoit,Génération.s,Génération.s,4.383333333333334
+2018-11-01,France Info TV,MAG,Hamon Benoit,Génération.s,Génération.s,19.116666666666667
+2018-07-01,BFM TV,JT,Hamon Benoit,Génération.s,Génération.s,41.96666666666667
+2018-07-01,LCI,MAG,Hamon Benoit,Génération.s,Génération.s,1.15
+2018-07-01,France Info TV,MAG,Hamon Benoit,Génération.s,Génération.s,18.9
+2018-07-01,France Info TV,PROG,Hamon Benoit,Génération.s,Génération.s,1.2
+2018-08-01,BFM TV,JT,Hamon Benoit,Génération.s,Génération.s,1.05
+2018-08-01,BFM TV,MAG,Hamon Benoit,Génération.s,Génération.s,20.383333333333333
+2018-08-01,France Info TV,JT,Hamon Benoit,Génération.s,Génération.s,11.816666666666666
+2018-08-01,France Info TV,MAG,Hamon Benoit,Génération.s,Génération.s,1.0333333333333334
+2018-08-01,France Info TV,PROG,Hamon Benoit,Génération.s,Génération.s,5.85
+2018-10-01,BFM TV,JT,Hamon Benoit,Génération.s,Génération.s,9.266666666666667
+2018-10-01,C NEWS,JT,Hamon Benoit,Génération.s,Génération.s,13.45
+2018-10-01,France Info TV,JT,Hamon Benoit,Génération.s,Génération.s,8.783333333333333
+2018-10-01,France Info TV,MAG,Hamon Benoit,Génération.s,Génération.s,7.116666666666666
+2018-12-01,BFM TV,JT,Hamon Benoit,Génération.s,Génération.s,36.95
+2018-12-01,BFM TV,MAG,Hamon Benoit,Génération.s,Génération.s,25.366666666666667
+2018-12-01,C NEWS,JT,Hamon Benoit,Génération.s,Génération.s,1.3333333333333333
+2018-12-01,C NEWS,MAG,Hamon Benoit,Génération.s,Génération.s,20.166666666666668
+2018-12-01,LCI,JT,Hamon Benoit,Génération.s,Génération.s,1
+2018-12-01,LCI,MAG,Hamon Benoit,Génération.s,Génération.s,2.3333333333333335
+2018-12-01,France Info TV,JT,Hamon Benoit,Génération.s,Génération.s,4.333333333333333
+2018-12-01,France Info TV,MAG,Hamon Benoit,Génération.s,Génération.s,6.65
+2018-06-01,France Info TV,JT,Hamon Benoit,Génération.s,Génération.s,14.583333333333334
+2018-06-01,France Info TV,MAG,Hamon Benoit,Génération.s,Génération.s,16.616666666666667
+2018-02-01,France Info,JT,Hamon Benoit,Génération.s,Génération.s,17.783333333333335
+2018-04-01,France Inter,JT,Hamon Benoit,Génération.s,Génération.s,1.8833333333333333
+2018-04-01,France Inter,MAG,Hamon Benoit,Génération.s,Génération.s,7.4
+2018-04-01,France Info,JT,Hamon Benoit,Génération.s,Génération.s,39.8
+2018-04-01,France Culture,JT,Hamon Benoit,Génération.s,Génération.s,2.25
+2018-04-01,RMC,MAG,Hamon Benoit,Génération.s,Génération.s,18.183333333333334
+2018-06-01,France Inter,JT,Hamon Benoit,Génération.s,Génération.s,1.6
+2018-06-01,France Info,JT,Hamon Benoit,Génération.s,Génération.s,20.85
+2018-09-01,France Inter,JT,Hamon Benoit,Génération.s,Génération.s,1.0666666666666667
+2018-09-01,France Inter,MAG,Hamon Benoit,Génération.s,Génération.s,17.75
+2018-09-01,France Info,JT,Hamon Benoit,Génération.s,Génération.s,24.116666666666667
+2018-09-01,France Culture,JT,Hamon Benoit,Génération.s,Génération.s,1.0333333333333334
+2018-09-01,RTL,JT,Hamon Benoit,Génération.s,Génération.s,2.6166666666666667
+2018-11-01,France Inter,MAG,Hamon Benoit,Génération.s,Génération.s,18.466666666666665
+2018-11-01,France Info,JT,Hamon Benoit,Génération.s,Génération.s,2.933333333333333
+2018-11-01,France Info,MAG,Hamon Benoit,Génération.s,Génération.s,17.316666666666666
+2018-11-01,RMC,MAG,Hamon Benoit,Génération.s,Génération.s,41.166666666666664
+2018-11-01,Europe 1,MAG,Hamon Benoit,Génération.s,Génération.s,9.2
+2018-11-01,RTL,JT,Hamon Benoit,Génération.s,Génération.s,3.1666666666666665
+2018-11-01,RTL,MAG,Hamon Benoit,Génération.s,Génération.s,10.25
+2018-11-01,Sud Radio,MAG,Hamon Benoit,Génération.s,Génération.s,11.1
+2018-01-01,France Inter,MAG,Hamon Benoit,Génération.s,Génération.s,6.55
+2018-01-01,France Info,JT,Hamon Benoit,Génération.s,Génération.s,28.033333333333335
+2018-01-01,France Culture,JT,Hamon Benoit,Génération.s,Génération.s,2.1
+2018-01-01,France Culture,PROG,Hamon Benoit,Génération.s,Génération.s,1.3833333333333333
+2018-01-01,RTL,MAG,Hamon Benoit,Génération.s,Génération.s,10.733333333333333
+2018-03-01,France Info,JT,Hamon Benoit,Génération.s,Génération.s,1.4166666666666667
+2018-03-01,Radio Classique,MAG,Hamon Benoit,Génération.s,Génération.s,13.283333333333333
+2018-03-01,Europe 1,MAG,Hamon Benoit,Génération.s,Génération.s,11.333333333333334
+2018-05-01,France Inter,MAG,Hamon Benoit,Génération.s,Génération.s,6.233333333333333
+2018-05-01,France Info,JT,Hamon Benoit,Génération.s,Génération.s,20.033333333333335
+2018-05-01,France Culture,JT,Hamon Benoit,Génération.s,Génération.s,1.1
+2018-05-01,RMC,JT,Hamon Benoit,Génération.s,Génération.s,1.2666666666666666
+2018-05-01,RTL,JT,Hamon Benoit,Génération.s,Génération.s,1.0666666666666667
+2018-05-01,RTL,MAG,Hamon Benoit,Génération.s,Génération.s,10.7
+2018-07-01,France Inter,JT,Hamon Benoit,Génération.s,Génération.s,6.25
+2018-07-01,France Info,JT,Hamon Benoit,Génération.s,Génération.s,35.266666666666666
+2018-07-01,BFM,MAG,Hamon Benoit,Génération.s,Génération.s,21.1
+2018-07-01,RMC,MAG,Hamon Benoit,Génération.s,Génération.s,19.516666666666666
+2018-08-01,France Info,JT,Hamon Benoit,Génération.s,Génération.s,2.283333333333333
+2018-08-01,RMC,MAG,Hamon Benoit,Génération.s,Génération.s,20.383333333333333
+2018-10-01,France Info,JT,Hamon Benoit,Génération.s,Génération.s,7.966666666666667
+2018-10-01,France Info,MAG,Hamon Benoit,Génération.s,Génération.s,6
+2018-10-01,Radio Classique,MAG,Hamon Benoit,Génération.s,Génération.s,11.716666666666667
+2018-10-01,RMC,MAG,Hamon Benoit,Génération.s,Génération.s,21.933333333333334
+2018-10-01,Europe 1,MAG,Hamon Benoit,Génération.s,Génération.s,7.766666666666667
+2018-12-01,France Inter,JT,Hamon Benoit,Génération.s,Génération.s,6.666666666666667
+2018-12-01,France Info,JT,Hamon Benoit,Génération.s,Génération.s,24.583333333333332
+2018-12-01,France Info,MAG,Hamon Benoit,Génération.s,Génération.s,5.816666666666666
+2018-12-01,BFM,MAG,Hamon Benoit,Génération.s,Génération.s,11.8
+2018-12-01,RMC,MAG,Hamon Benoit,Génération.s,Génération.s,19.583333333333332
+2018-12-01,Europe 1,MAG,Hamon Benoit,Génération.s,Génération.s,6.383333333333334
 2018-04-01,France 2,JT,Hollande Francois,Parti Socialiste,PS,20.733333333333334
 2018-04-01,France 3,JT,Hollande Francois,Parti Socialiste,PS,2.0833333333333335
 2018-04-01,Canal +,MAG,Hollande Francois,Parti Socialiste,PS,1.1833333333333333
@@ -9618,7 +9618,7 @@ month,station,prog_type,name,label,party,time
 2018-06-01,RTL,MAG,Attal Gabriel,La République En Marche,LREM,52.31666666666667
 2018-09-01,Radio Classique,MAG,Attal Gabriel,La République En Marche,LREM,11.516666666666667
 2018-11-01,France Inter,MAG,Attal Gabriel,Ministre,Exécutif,7.35
-2018-11-01,Europe 1,MAG,Attal Gabriel,Secretaire Etat,NA,20.15
+2018-11-01,Europe 1,MAG,Attal Gabriel,Secretaire Etat,Exécutif,20.15
 2018-11-01,Europe 1,PROG,Attal Gabriel,Ministre,Exécutif,20.15
 2018-11-01,RTL,MAG,Attal Gabriel,Ministre,Exécutif,5.85
 2018-01-01,Radio Classique,MAG,Attal Gabriel,La République En Marche,LREM,22
@@ -10686,7 +10686,7 @@ month,station,prog_type,name,label,party,time
 2018-12-01,C NEWS,MAG,Dussopt Olivier,Ministre,Exécutif,14.566666666666666
 2018-12-01,LCI,JT,Dussopt Olivier,Ministre,Exécutif,4.2
 2018-12-01,LCI,MAG,Dussopt Olivier,Ministre,Exécutif,50.2
-2018-12-01,France Info TV,JT,Dussopt Olivier,Secretaire Etat,NA,54.516666666666666
+2018-12-01,France Info TV,JT,Dussopt Olivier,Secretaire Etat,Exécutif,54.516666666666666
 2018-06-01,LCI,MAG,Dussopt Olivier,Ministre,Exécutif,19.883333333333333
 2018-06-01,France Info TV,PROG,Dussopt Olivier,Ministre,Exécutif,1.4333333333333333
 2018-02-01,RTL,MAG,Dussopt Olivier,Ministre,Exécutif,10.483333333333333
@@ -10935,75 +10935,75 @@ month,station,prog_type,name,label,party,time
 2018-12-01,France Inter,MAG,Besancenot Olivier,Nouveau Parti Anticapitaliste,NPA,6.833333333333333
 2018-12-01,BFM,MAG,Besancenot Olivier,Nouveau Parti Anticapitaliste,NPA,19.716666666666665
 2018-12-01,RMC,MAG,Besancenot Olivier,Nouveau Parti Anticapitaliste,NPA,20.15
-2018-02-01,TF1,JT,Simeoni Gilles,Femu A Corsica,NA,2.75
-2018-02-01,France 2,JT,Simeoni Gilles,Femu A Corsica,NA,7.85
-2018-02-01,France 3,JT,Simeoni Gilles,Femu A Corsica,NA,1.1833333333333333
-2018-02-01,France 5,MAG,Simeoni Gilles,Femu A Corsica,NA,4.55
-2018-02-01,RMC Découverte,MAG,Simeoni Gilles,Femu A Corsica,NA,5.116666666666666
-2018-06-01,Numéro 23,MAG,Simeoni Gilles,Femu A Corsica,NA,5.566666666666666
-2018-01-01,Canal +,MAG,Simeoni Gilles,Femu A Corsica,NA,13.85
-2018-10-01,RMC Découverte,MAG,Simeoni Gilles,Femu A Corsica,NA,3.45
-2018-02-01,BFM TV,JT,Simeoni Gilles,Femu A Corsica,NA,17.983333333333334
-2018-02-01,BFM TV,MAG,Simeoni Gilles,Femu A Corsica,NA,3.05
-2018-02-01,C NEWS,JT,Simeoni Gilles,Femu A Corsica,NA,21.666666666666668
-2018-02-01,C NEWS,MAG,Simeoni Gilles,Femu A Corsica,NA,8.216666666666667
-2018-02-01,LCI,JT,Simeoni Gilles,Femu A Corsica,NA,7.833333333333333
-2018-02-01,LCI,MAG,Simeoni Gilles,Femu A Corsica,NA,9.75
-2018-02-01,France Info TV,JT,Simeoni Gilles,Femu A Corsica,NA,8.9
-2018-02-01,France Info TV,MAG,Simeoni Gilles,Femu A Corsica,NA,100.7
-2018-01-01,BFM TV,JT,Simeoni Gilles,Femu A Corsica,NA,7.5
-2018-01-01,C NEWS,JT,Simeoni Gilles,Femu A Corsica,NA,26.116666666666667
-2018-01-01,C NEWS,MAG,Simeoni Gilles,Femu A Corsica,NA,41.55
-2018-01-01,LCI,JT,Simeoni Gilles,Femu A Corsica,NA,5.433333333333334
-2018-01-01,LCI,MAG,Simeoni Gilles,Femu A Corsica,NA,15.25
-2018-01-01,France Info TV,MAG,Simeoni Gilles,Femu A Corsica,NA,25.916666666666668
-2018-03-01,C NEWS,JT,Simeoni Gilles,Femu A Corsica,NA,1.3666666666666667
-2018-03-01,C NEWS,MAG,Simeoni Gilles,Femu A Corsica,NA,17.583333333333332
-2018-11-01,C NEWS,JT,Simeoni Gilles,Femu A Corsica,NA,4.533333333333333
-2018-11-01,C NEWS,MAG,Simeoni Gilles,Femu A Corsica,NA,3.1333333333333333
-2018-07-01,C NEWS,JT,Simeoni Gilles,Femu A Corsica,NA,4.416666666666667
-2018-07-01,France Info TV,MAG,Simeoni Gilles,Femu A Corsica,NA,2.716666666666667
-2018-08-01,BFM TV,MAG,Simeoni Gilles,Femu A Corsica,NA,5.633333333333334
-2018-10-01,BFM TV,JT,Simeoni Gilles,Femu A Corsica,NA,6.15
-2018-10-01,LCI,JT,Simeoni Gilles,Femu A Corsica,NA,2.5166666666666666
-2018-06-01,BFM TV,JT,Simeoni Gilles,Femu A Corsica,NA,1.4
-2018-06-01,C NEWS,JT,Simeoni Gilles,Femu A Corsica,NA,2.1166666666666667
-2018-06-01,C NEWS,MAG,Simeoni Gilles,Femu A Corsica,NA,8.016666666666667
-2018-06-01,France Info TV,PROG,Simeoni Gilles,Femu A Corsica,NA,1.3
-2018-02-01,France Inter,JT,Simeoni Gilles,Femu A Corsica,NA,6.366666666666666
-2018-02-01,France Inter,MAG,Simeoni Gilles,Femu A Corsica,NA,30.616666666666667
-2018-02-01,France Info,JT,Simeoni Gilles,Femu A Corsica,NA,64.96666666666667
-2018-02-01,France Culture,JT,Simeoni Gilles,Femu A Corsica,NA,3.25
-2018-02-01,Radio Classique,JT,Simeoni Gilles,Femu A Corsica,NA,1.0666666666666667
-2018-02-01,RMC,MAG,Simeoni Gilles,Femu A Corsica,NA,6.416666666666667
+2018-02-01,TF1,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,2.75
+2018-02-01,France 2,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,7.85
+2018-02-01,France 3,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,1.1833333333333333
+2018-02-01,France 5,MAG,Simeoni Gilles,Femu A Corsica,Femu A Corsica,4.55
+2018-02-01,RMC Découverte,MAG,Simeoni Gilles,Femu A Corsica,Femu A Corsica,5.116666666666666
+2018-06-01,Numéro 23,MAG,Simeoni Gilles,Femu A Corsica,Femu A Corsica,5.566666666666666
+2018-01-01,Canal +,MAG,Simeoni Gilles,Femu A Corsica,Femu A Corsica,13.85
+2018-10-01,RMC Découverte,MAG,Simeoni Gilles,Femu A Corsica,Femu A Corsica,3.45
+2018-02-01,BFM TV,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,17.983333333333334
+2018-02-01,BFM TV,MAG,Simeoni Gilles,Femu A Corsica,Femu A Corsica,3.05
+2018-02-01,C NEWS,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,21.666666666666668
+2018-02-01,C NEWS,MAG,Simeoni Gilles,Femu A Corsica,Femu A Corsica,8.216666666666667
+2018-02-01,LCI,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,7.833333333333333
+2018-02-01,LCI,MAG,Simeoni Gilles,Femu A Corsica,Femu A Corsica,9.75
+2018-02-01,France Info TV,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,8.9
+2018-02-01,France Info TV,MAG,Simeoni Gilles,Femu A Corsica,Femu A Corsica,100.7
+2018-01-01,BFM TV,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,7.5
+2018-01-01,C NEWS,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,26.116666666666667
+2018-01-01,C NEWS,MAG,Simeoni Gilles,Femu A Corsica,Femu A Corsica,41.55
+2018-01-01,LCI,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,5.433333333333334
+2018-01-01,LCI,MAG,Simeoni Gilles,Femu A Corsica,Femu A Corsica,15.25
+2018-01-01,France Info TV,MAG,Simeoni Gilles,Femu A Corsica,Femu A Corsica,25.916666666666668
+2018-03-01,C NEWS,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,1.3666666666666667
+2018-03-01,C NEWS,MAG,Simeoni Gilles,Femu A Corsica,Femu A Corsica,17.583333333333332
+2018-11-01,C NEWS,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,4.533333333333333
+2018-11-01,C NEWS,MAG,Simeoni Gilles,Femu A Corsica,Femu A Corsica,3.1333333333333333
+2018-07-01,C NEWS,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,4.416666666666667
+2018-07-01,France Info TV,MAG,Simeoni Gilles,Femu A Corsica,Femu A Corsica,2.716666666666667
+2018-08-01,BFM TV,MAG,Simeoni Gilles,Femu A Corsica,Femu A Corsica,5.633333333333334
+2018-10-01,BFM TV,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,6.15
+2018-10-01,LCI,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,2.5166666666666666
+2018-06-01,BFM TV,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,1.4
+2018-06-01,C NEWS,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,2.1166666666666667
+2018-06-01,C NEWS,MAG,Simeoni Gilles,Femu A Corsica,Femu A Corsica,8.016666666666667
+2018-06-01,France Info TV,PROG,Simeoni Gilles,Femu A Corsica,Femu A Corsica,1.3
+2018-02-01,France Inter,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,6.366666666666666
+2018-02-01,France Inter,MAG,Simeoni Gilles,Femu A Corsica,Femu A Corsica,30.616666666666667
+2018-02-01,France Info,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,64.96666666666667
+2018-02-01,France Culture,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,3.25
+2018-02-01,Radio Classique,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,1.0666666666666667
+2018-02-01,RMC,MAG,Simeoni Gilles,Femu A Corsica,Femu A Corsica,6.416666666666667
 2018-02-01,Europe 1,JT,Simeoni Gilles,Pe A Corsica,NA,1.9166666666666667
 2018-02-01,Europe 1,MAG,Simeoni Gilles,Pe A Corsica,NA,8.3
-2018-02-01,RTL,JT,Simeoni Gilles,Femu A Corsica,NA,5.066666666666666
-2018-02-01,RTL,MAG,Simeoni Gilles,Femu A Corsica,NA,10.716666666666667
-2018-06-01,RMC,MAG,Simeoni Gilles,Femu A Corsica,NA,17.633333333333333
-2018-06-01,Sud Radio,JT,Simeoni Gilles,Femu A Corsica,NA,4.683333333333334
-2018-09-01,France Info,JT,Simeoni Gilles,Femu A Corsica,NA,14.25
-2018-11-01,France Info,JT,Simeoni Gilles,Femu A Corsica,NA,16.183333333333334
-2018-11-01,RTL,MAG,Simeoni Gilles,Femu A Corsica,NA,5.916666666666667
-2018-01-01,France Inter,JT,Simeoni Gilles,Femu A Corsica,NA,1.1833333333333333
-2018-01-01,France Inter,MAG,Simeoni Gilles,Femu A Corsica,NA,19.933333333333334
-2018-01-01,France Info,JT,Simeoni Gilles,Femu A Corsica,NA,81.71666666666667
-2018-01-01,Radio Classique,MAG,Simeoni Gilles,Femu A Corsica,NA,8.95
-2018-01-01,RMC,MAG,Simeoni Gilles,Femu A Corsica,NA,15
-2018-01-01,Europe 1,JT,Simeoni Gilles,Femu A Corsica,NA,3.3833333333333333
-2018-01-01,RTL,JT,Simeoni Gilles,Femu A Corsica,NA,2.65
-2018-03-01,France Info,JT,Simeoni Gilles,Femu A Corsica,NA,1.4
-2018-03-01,Europe 1,JT,Simeoni Gilles,Femu A Corsica,NA,1.7
-2018-07-01,France Info,JT,Simeoni Gilles,Femu A Corsica,NA,14.516666666666667
-2018-07-01,Europe 1,JT,Simeoni Gilles,Femu A Corsica,NA,1.9666666666666666
-2018-07-01,Europe 1,MAG,Simeoni Gilles,Femu A Corsica,NA,6.2
-2018-08-01,France Info,JT,Simeoni Gilles,Femu A Corsica,NA,17.45
-2018-08-01,France Culture,JT,Simeoni Gilles,Femu A Corsica,NA,1.1
-2018-08-01,RMC,JT,Simeoni Gilles,Femu A Corsica,NA,1.1
-2018-08-01,RTL,JT,Simeoni Gilles,Femu A Corsica,NA,1.0333333333333334
-2018-10-01,RMC,MAG,Simeoni Gilles,Femu A Corsica,NA,3.45
-2018-10-01,Europe 1,MAG,Simeoni Gilles,Femu A Corsica,NA,2.5166666666666666
-2018-10-01,RTL,JT,Simeoni Gilles,Femu A Corsica,NA,4.416666666666667
+2018-02-01,RTL,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,5.066666666666666
+2018-02-01,RTL,MAG,Simeoni Gilles,Femu A Corsica,Femu A Corsica,10.716666666666667
+2018-06-01,RMC,MAG,Simeoni Gilles,Femu A Corsica,Femu A Corsica,17.633333333333333
+2018-06-01,Sud Radio,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,4.683333333333334
+2018-09-01,France Info,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,14.25
+2018-11-01,France Info,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,16.183333333333334
+2018-11-01,RTL,MAG,Simeoni Gilles,Femu A Corsica,Femu A Corsica,5.916666666666667
+2018-01-01,France Inter,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,1.1833333333333333
+2018-01-01,France Inter,MAG,Simeoni Gilles,Femu A Corsica,Femu A Corsica,19.933333333333334
+2018-01-01,France Info,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,81.71666666666667
+2018-01-01,Radio Classique,MAG,Simeoni Gilles,Femu A Corsica,Femu A Corsica,8.95
+2018-01-01,RMC,MAG,Simeoni Gilles,Femu A Corsica,Femu A Corsica,15
+2018-01-01,Europe 1,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,3.3833333333333333
+2018-01-01,RTL,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,2.65
+2018-03-01,France Info,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,1.4
+2018-03-01,Europe 1,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,1.7
+2018-07-01,France Info,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,14.516666666666667
+2018-07-01,Europe 1,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,1.9666666666666666
+2018-07-01,Europe 1,MAG,Simeoni Gilles,Femu A Corsica,Femu A Corsica,6.2
+2018-08-01,France Info,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,17.45
+2018-08-01,France Culture,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,1.1
+2018-08-01,RMC,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,1.1
+2018-08-01,RTL,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,1.0333333333333334
+2018-10-01,RMC,MAG,Simeoni Gilles,Femu A Corsica,Femu A Corsica,3.45
+2018-10-01,Europe 1,MAG,Simeoni Gilles,Femu A Corsica,Femu A Corsica,2.5166666666666666
+2018-10-01,RTL,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,4.416666666666667
 2018-02-01,Numéro 23,MAG,Bonnell Bruno,La République En Marche,LREM,27.1
 2018-02-01,RMC Découverte,MAG,Bonnell Bruno,La République En Marche,LREM,4.25
 2018-11-01,France 5,MAG,Bonnell Bruno,La République En Marche,LREM,4.1
@@ -11140,74 +11140,74 @@ month,station,prog_type,name,label,party,time
 2018-10-01,Sud Radio,MAG,Estrosi Christian,Les Républicains,LR,8.516666666666667
 2018-12-01,France Info,MAG,Estrosi Christian,Les Républicains,LR,1.2666666666666666
 2018-12-01,Europe 1,MAG,Estrosi Christian,Les Républicains,LR,26.15
-2018-09-01,France 2,MAG,Lepage Corinne,CAP 21,NA,1.0833333333333333
-2018-09-01,RMC Découverte,MAG,Lepage Corinne,CAP 21,NA,4.633333333333334
-2018-11-01,RMC Découverte,MAG,Lepage Corinne,CAP 21,NA,4.483333333333333
-2018-01-01,France 2,MAG,Lepage Corinne,CAP 21,NA,5.666666666666667
-2018-07-01,France 5,PROG,Lepage Corinne,CAP 21,NA,1.1333333333333333
-2018-08-01,RMC Story,MAG,Lepage Corinne,CAP 21,NA,5.5
-2018-08-01,RMC Découverte,JT,Lepage Corinne,CAP 21,NA,1
-2018-10-01,France 5,MAG,Lepage Corinne,CAP 21,NA,5.666666666666667
-2018-02-01,BFM TV,JT,Lepage Corinne,CAP 21,NA,3.8
-2018-02-01,C NEWS,MAG,Lepage Corinne,CAP 21,NA,5.633333333333334
-2018-02-01,LCI,MAG,Lepage Corinne,CAP 21,NA,36.2
-2018-04-01,BFM TV,JT,Lepage Corinne,CAP 21,NA,6.383333333333334
-2018-01-01,LCI,MAG,Lepage Corinne,CAP 21,NA,66.78333333333333
-2018-01-01,France Info TV,JT,Lepage Corinne,CAP 21,NA,6.316666666666666
-2018-01-01,France Info TV,PROG,Lepage Corinne,CAP 21,NA,1.2
-2018-03-01,LCI,MAG,Lepage Corinne,CAP 21,NA,12.6
-2018-05-01,BFM TV,JT,Lepage Corinne,CAP 21,NA,2.65
-2018-05-01,BFM TV,MAG,Lepage Corinne,CAP 21,NA,2.433333333333333
-2018-05-01,LCI,MAG,Lepage Corinne,CAP 21,NA,4.55
-2018-09-01,BFM TV,JT,Lepage Corinne,CAP 21,NA,4.816666666666666
-2018-09-01,LCI,JT,Lepage Corinne,CAP 21,NA,6.866666666666666
-2018-09-01,LCI,MAG,Lepage Corinne,CAP 21,NA,1.6333333333333333
-2018-09-01,France Info TV,JT,Lepage Corinne,CAP 21,NA,8.266666666666667
-2018-08-01,BFM TV,JT,Lepage Corinne,CAP 21,NA,8.216666666666667
-2018-08-01,BFM TV,MAG,Lepage Corinne,CAP 21,NA,4.1
-2018-08-01,LCI,JT,Lepage Corinne,CAP 21,NA,4.916666666666667
-2018-08-01,LCI,MAG,Lepage Corinne,CAP 21,NA,2.95
-2018-08-01,France Info TV,JT,Lepage Corinne,CAP 21,NA,14.9
-2018-10-01,C NEWS,MAG,Lepage Corinne,CAP 21,NA,1.3666666666666667
-2018-10-01,LCI,JT,Lepage Corinne,CAP 21,NA,2.183333333333333
-2018-10-01,LCI,MAG,Lepage Corinne,CAP 21,NA,7.266666666666667
-2018-10-01,France Info TV,JT,Lepage Corinne,CAP 21,NA,21.483333333333334
-2018-12-01,France Info TV,PROG,Lepage Corinne,CAP 21,NA,2.283333333333333
-2018-02-01,France Inter,JT,Lepage Corinne,CAP 21,NA,1.2
-2018-02-01,France Info,JT,Lepage Corinne,CAP 21,NA,2.966666666666667
-2018-04-01,France Info,JT,Lepage Corinne,CAP 21,NA,10.966666666666667
-2018-06-01,France Inter,MAG,Lepage Corinne,CAP 21,NA,4.416666666666667
-2018-09-01,France Info,JT,Lepage Corinne,CAP 21,NA,31.25
-2018-09-01,RMC,MAG,Lepage Corinne,CAP 21,NA,9.266666666666667
-2018-09-01,Europe 1,MAG,Lepage Corinne,CAP 21,NA,10.516666666666667
-2018-11-01,France Info,JT,Lepage Corinne,CAP 21,NA,5.066666666666666
-2018-11-01,BFM,MAG,Lepage Corinne,CAP 21,NA,52.983333333333334
-2018-11-01,RMC,MAG,Lepage Corinne,CAP 21,NA,4.483333333333333
-2018-11-01,Europe 1,MAG,Lepage Corinne,CAP 21,NA,7.4
-2018-11-01,Europe 1,PROG,Lepage Corinne,CAP 21,NA,11.916666666666666
-2018-01-01,France Culture,PROG,Lepage Corinne,CAP 21,NA,11
-2018-03-01,France Inter,JT,Lepage Corinne,CAP 21,NA,2.95
-2018-03-01,France Culture,PROG,Lepage Corinne,CAP 21,NA,21.316666666666666
-2018-03-01,Radio Classique,MAG,Lepage Corinne,CAP 21,NA,5.583333333333333
-2018-03-01,Europe 1,MAG,Lepage Corinne,CAP 21,NA,6.8
-2018-05-01,France Info,JT,Lepage Corinne,CAP 21,NA,4.566666666666666
-2018-07-01,BFM,MAG,Lepage Corinne,CAP 21,NA,7.816666666666666
-2018-08-01,France Inter,JT,Lepage Corinne,CAP 21,NA,6.916666666666667
-2018-08-01,France Info,JT,Lepage Corinne,CAP 21,NA,6.3
-2018-08-01,France Culture,JT,Lepage Corinne,CAP 21,NA,1.65
-2018-08-01,France Culture,MAG,Lepage Corinne,CAP 21,NA,8.7
-2018-08-01,Radio Classique,JT,Lepage Corinne,CAP 21,NA,3.183333333333333
-2018-08-01,BFM,MAG,Lepage Corinne,CAP 21,NA,2.2333333333333334
-2018-08-01,RMC,JT,Lepage Corinne,CAP 21,NA,1.5
-2018-08-01,RMC,MAG,Lepage Corinne,CAP 21,NA,20.466666666666665
-2018-08-01,Europe 1,JT,Lepage Corinne,CAP 21,NA,1.3333333333333333
-2018-08-01,RTL,MAG,Lepage Corinne,CAP 21,NA,8.516666666666667
-2018-08-01,Sud Radio,JT,Lepage Corinne,CAP 21,NA,1.3833333333333333
-2018-10-01,France Info,JT,Lepage Corinne,CAP 21,NA,4.6
-2018-10-01,Europe 1,MAG,Lepage Corinne,CAP 21,NA,21.316666666666666
-2018-10-01,Europe 1,PROG,Lepage Corinne,CAP 21,NA,21.316666666666666
-2018-12-01,France Info,JT,Lepage Corinne,CAP 21,NA,3.066666666666667
-2018-12-01,BFM,MAG,Lepage Corinne,CAP 21,NA,9.833333333333334
+2018-09-01,France 2,MAG,Lepage Corinne,Cap 21,Cap 21,1.0833333333333333
+2018-09-01,RMC Découverte,MAG,Lepage Corinne,Cap 21,Cap 21,4.633333333333334
+2018-11-01,RMC Découverte,MAG,Lepage Corinne,Cap 21,Cap 21,4.483333333333333
+2018-01-01,France 2,MAG,Lepage Corinne,Cap 21,Cap 21,5.666666666666667
+2018-07-01,France 5,PROG,Lepage Corinne,Cap 21,Cap 21,1.1333333333333333
+2018-08-01,RMC Story,MAG,Lepage Corinne,Cap 21,Cap 21,5.5
+2018-08-01,RMC Découverte,JT,Lepage Corinne,Cap 21,Cap 21,1
+2018-10-01,France 5,MAG,Lepage Corinne,Cap 21,Cap 21,5.666666666666667
+2018-02-01,BFM TV,JT,Lepage Corinne,Cap 21,Cap 21,3.8
+2018-02-01,C NEWS,MAG,Lepage Corinne,Cap 21,Cap 21,5.633333333333334
+2018-02-01,LCI,MAG,Lepage Corinne,Cap 21,Cap 21,36.2
+2018-04-01,BFM TV,JT,Lepage Corinne,Cap 21,Cap 21,6.383333333333334
+2018-01-01,LCI,MAG,Lepage Corinne,Cap 21,Cap 21,66.78333333333333
+2018-01-01,France Info TV,JT,Lepage Corinne,Cap 21,Cap 21,6.316666666666666
+2018-01-01,France Info TV,PROG,Lepage Corinne,Cap 21,Cap 21,1.2
+2018-03-01,LCI,MAG,Lepage Corinne,Cap 21,Cap 21,12.6
+2018-05-01,BFM TV,JT,Lepage Corinne,Cap 21,Cap 21,2.65
+2018-05-01,BFM TV,MAG,Lepage Corinne,Cap 21,Cap 21,2.433333333333333
+2018-05-01,LCI,MAG,Lepage Corinne,Cap 21,Cap 21,4.55
+2018-09-01,BFM TV,JT,Lepage Corinne,Cap 21,Cap 21,4.816666666666666
+2018-09-01,LCI,JT,Lepage Corinne,Cap 21,Cap 21,6.866666666666666
+2018-09-01,LCI,MAG,Lepage Corinne,Cap 21,Cap 21,1.6333333333333333
+2018-09-01,France Info TV,JT,Lepage Corinne,Cap 21,Cap 21,8.266666666666667
+2018-08-01,BFM TV,JT,Lepage Corinne,Cap 21,Cap 21,8.216666666666667
+2018-08-01,BFM TV,MAG,Lepage Corinne,Cap 21,Cap 21,4.1
+2018-08-01,LCI,JT,Lepage Corinne,Cap 21,Cap 21,4.916666666666667
+2018-08-01,LCI,MAG,Lepage Corinne,Cap 21,Cap 21,2.95
+2018-08-01,France Info TV,JT,Lepage Corinne,Cap 21,Cap 21,14.9
+2018-10-01,C NEWS,MAG,Lepage Corinne,Cap 21,Cap 21,1.3666666666666667
+2018-10-01,LCI,JT,Lepage Corinne,Cap 21,Cap 21,2.183333333333333
+2018-10-01,LCI,MAG,Lepage Corinne,Cap 21,Cap 21,7.266666666666667
+2018-10-01,France Info TV,JT,Lepage Corinne,Cap 21,Cap 21,21.483333333333334
+2018-12-01,France Info TV,PROG,Lepage Corinne,Cap 21,Cap 21,2.283333333333333
+2018-02-01,France Inter,JT,Lepage Corinne,Cap 21,Cap 21,1.2
+2018-02-01,France Info,JT,Lepage Corinne,Cap 21,Cap 21,2.966666666666667
+2018-04-01,France Info,JT,Lepage Corinne,Cap 21,Cap 21,10.966666666666667
+2018-06-01,France Inter,MAG,Lepage Corinne,Cap 21,Cap 21,4.416666666666667
+2018-09-01,France Info,JT,Lepage Corinne,Cap 21,Cap 21,31.25
+2018-09-01,RMC,MAG,Lepage Corinne,Cap 21,Cap 21,9.266666666666667
+2018-09-01,Europe 1,MAG,Lepage Corinne,Cap 21,Cap 21,10.516666666666667
+2018-11-01,France Info,JT,Lepage Corinne,Cap 21,Cap 21,5.066666666666666
+2018-11-01,BFM,MAG,Lepage Corinne,Cap 21,Cap 21,52.983333333333334
+2018-11-01,RMC,MAG,Lepage Corinne,Cap 21,Cap 21,4.483333333333333
+2018-11-01,Europe 1,MAG,Lepage Corinne,Cap 21,Cap 21,7.4
+2018-11-01,Europe 1,PROG,Lepage Corinne,Cap 21,Cap 21,11.916666666666666
+2018-01-01,France Culture,PROG,Lepage Corinne,Cap 21,Cap 21,11
+2018-03-01,France Inter,JT,Lepage Corinne,Cap 21,Cap 21,2.95
+2018-03-01,France Culture,PROG,Lepage Corinne,Cap 21,Cap 21,21.316666666666666
+2018-03-01,Radio Classique,MAG,Lepage Corinne,Cap 21,Cap 21,5.583333333333333
+2018-03-01,Europe 1,MAG,Lepage Corinne,Cap 21,Cap 21,6.8
+2018-05-01,France Info,JT,Lepage Corinne,Cap 21,Cap 21,4.566666666666666
+2018-07-01,BFM,MAG,Lepage Corinne,Cap 21,Cap 21,7.816666666666666
+2018-08-01,France Inter,JT,Lepage Corinne,Cap 21,Cap 21,6.916666666666667
+2018-08-01,France Info,JT,Lepage Corinne,Cap 21,Cap 21,6.3
+2018-08-01,France Culture,JT,Lepage Corinne,Cap 21,Cap 21,1.65
+2018-08-01,France Culture,MAG,Lepage Corinne,Cap 21,Cap 21,8.7
+2018-08-01,Radio Classique,JT,Lepage Corinne,Cap 21,Cap 21,3.183333333333333
+2018-08-01,BFM,MAG,Lepage Corinne,Cap 21,Cap 21,2.2333333333333334
+2018-08-01,RMC,JT,Lepage Corinne,Cap 21,Cap 21,1.5
+2018-08-01,RMC,MAG,Lepage Corinne,Cap 21,Cap 21,20.466666666666665
+2018-08-01,Europe 1,JT,Lepage Corinne,Cap 21,Cap 21,1.3333333333333333
+2018-08-01,RTL,MAG,Lepage Corinne,Cap 21,Cap 21,8.516666666666667
+2018-08-01,Sud Radio,JT,Lepage Corinne,Cap 21,Cap 21,1.3833333333333333
+2018-10-01,France Info,JT,Lepage Corinne,Cap 21,Cap 21,4.6
+2018-10-01,Europe 1,MAG,Lepage Corinne,Cap 21,Cap 21,21.316666666666666
+2018-10-01,Europe 1,PROG,Lepage Corinne,Cap 21,Cap 21,21.316666666666666
+2018-12-01,France Info,JT,Lepage Corinne,Cap 21,Cap 21,3.066666666666667
+2018-12-01,BFM,MAG,Lepage Corinne,Cap 21,Cap 21,9.833333333333334
 2018-02-01,France 5,PROG,Platret Gilles,Les Républicains,LR,1.2
 2018-02-01,TMC,MAG,Platret Gilles,Les Républicains,LR,2.566666666666667
 2018-01-01,Canal +,MAG,Platret Gilles,Les Républicains,LR,1.9666666666666666
@@ -12400,64 +12400,64 @@ month,station,prog_type,name,label,party,time
 2018-10-01,RTL,MAG,Delli Karima,EELV,EELV,4.083333333333333
 2018-12-01,France Inter,JT,Delli Karima,EELV,EELV,2.6333333333333333
 2018-12-01,France Info,JT,Delli Karima,EELV,EELV,7.15
-2018-02-01,France 3,JT,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,5.7
-2018-02-01,Canal +,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,3.466666666666667
-2018-02-01,France 5,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,2.433333333333333
-2018-02-01,France 5,PROG,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,1.1666666666666667
-2018-04-01,France 5,PROG,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,7.05
-2018-04-01,C8,PROG,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,8.7
-2018-04-01,TMC,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,2.0833333333333335
-2018-06-01,France 5,PROG,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,3.05
-2018-06-01,TMC,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,1.5
-2018-11-01,France 2,PROG,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,1.7666666666666666
-2018-03-01,France 2,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,8.75
-2018-03-01,France 5,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,1.95
-2018-03-01,France 5,PROG,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,1.2666666666666666
-2018-03-01,TMC,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,8.116666666666667
-2018-03-01,Numéro 23,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,29.883333333333333
-2018-02-01,BFM TV,JT,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,2.5
-2018-02-01,C NEWS,JT,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,12.666666666666666
-2018-02-01,C NEWS,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,55.15
-2018-02-01,LCI,JT,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,9.916666666666666
-2018-02-01,LCI,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,12.6
-2018-02-01,France Info TV,JT,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,3.683333333333333
-2018-03-01,BFM TV,JT,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,4.883333333333334
-2018-03-01,BFM TV,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,30.316666666666666
-2018-03-01,C NEWS,JT,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,8.75
-2018-03-01,LCI,JT,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,5.05
-2018-03-01,LCI,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,47.28333333333333
-2018-03-01,France Info TV,JT,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,22.983333333333334
-2018-05-01,BFM TV,JT,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,1.6333333333333333
-2018-05-01,BFM TV,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,3.8333333333333335
-2018-05-01,C NEWS,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,39.11666666666667
-2018-05-01,LCI,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,1.2333333333333334
-2018-09-01,BFM TV,JT,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,4.666666666666667
-2018-09-01,BFM TV,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,1.3833333333333333
-2018-11-01,France Info TV,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,1.1833333333333333
-2018-10-01,BFM TV,JT,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,1.3833333333333333
-2018-06-01,BFM TV,JT,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,1.35
-2018-06-01,BFM TV,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,2.25
-2018-06-01,LCI,JT,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,4.033333333333333
-2018-06-01,LCI,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,53.25
-2018-02-01,France Info,JT,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,8.383333333333333
-2018-02-01,France Culture,JT,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,1.3
-2018-02-01,Europe 1,JT,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,1.6833333333333333
-2018-02-01,RTL,JT,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,2.0166666666666666
-2018-02-01,RTL,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,13.1
-2018-02-01,Sud Radio,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,23.266666666666666
-2018-09-01,RTL,JT,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,1.7
-2018-03-01,France Inter,JT,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,1.1333333333333333
-2018-03-01,France Inter,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,9.533333333333333
-2018-03-01,France Info,JT,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,13.05
-2018-03-01,France Culture,JT,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,3.1166666666666667
-2018-03-01,Radio Classique,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,19.166666666666668
-2018-03-01,RMC,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,80.3
-2018-03-01,Europe 1,JT,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,1.0666666666666667
-2018-03-01,Europe 1,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,19.4
-2018-03-01,RTL,JT,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,1.6
-2018-05-01,France Info,JT,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,1.9666666666666666
-2018-07-01,RTL,JT,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,2.216666666666667
-2018-10-01,France Inter,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,1.0833333333333333
+2018-02-01,France 3,JT,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",5.7
+2018-02-01,Canal +,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",3.466666666666667
+2018-02-01,France 5,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",2.433333333333333
+2018-02-01,France 5,PROG,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",1.1666666666666667
+2018-04-01,France 5,PROG,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",7.05
+2018-04-01,C8,PROG,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",8.7
+2018-04-01,TMC,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",2.0833333333333335
+2018-06-01,France 5,PROG,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",3.05
+2018-06-01,TMC,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",1.5
+2018-11-01,France 2,PROG,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",1.7666666666666666
+2018-03-01,France 2,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",8.75
+2018-03-01,France 5,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",1.95
+2018-03-01,France 5,PROG,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",1.2666666666666666
+2018-03-01,TMC,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",8.116666666666667
+2018-03-01,Numéro 23,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",29.883333333333333
+2018-02-01,BFM TV,JT,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",2.5
+2018-02-01,C NEWS,JT,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",12.666666666666666
+2018-02-01,C NEWS,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",55.15
+2018-02-01,LCI,JT,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",9.916666666666666
+2018-02-01,LCI,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",12.6
+2018-02-01,France Info TV,JT,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",3.683333333333333
+2018-03-01,BFM TV,JT,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",4.883333333333334
+2018-03-01,BFM TV,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",30.316666666666666
+2018-03-01,C NEWS,JT,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",8.75
+2018-03-01,LCI,JT,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",5.05
+2018-03-01,LCI,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",47.28333333333333
+2018-03-01,France Info TV,JT,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",22.983333333333334
+2018-05-01,BFM TV,JT,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",1.6333333333333333
+2018-05-01,BFM TV,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",3.8333333333333335
+2018-05-01,C NEWS,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",39.11666666666667
+2018-05-01,LCI,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",1.2333333333333334
+2018-09-01,BFM TV,JT,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",4.666666666666667
+2018-09-01,BFM TV,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",1.3833333333333333
+2018-11-01,France Info TV,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",1.1833333333333333
+2018-10-01,BFM TV,JT,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",1.3833333333333333
+2018-06-01,BFM TV,JT,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",1.35
+2018-06-01,BFM TV,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",2.25
+2018-06-01,LCI,JT,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",4.033333333333333
+2018-06-01,LCI,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",53.25
+2018-02-01,France Info,JT,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",8.383333333333333
+2018-02-01,France Culture,JT,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",1.3
+2018-02-01,Europe 1,JT,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",1.6833333333333333
+2018-02-01,RTL,JT,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",2.0166666666666666
+2018-02-01,RTL,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",13.1
+2018-02-01,Sud Radio,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",23.266666666666666
+2018-09-01,RTL,JT,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",1.7
+2018-03-01,France Inter,JT,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",1.1333333333333333
+2018-03-01,France Inter,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",9.533333333333333
+2018-03-01,France Info,JT,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",13.05
+2018-03-01,France Culture,JT,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",3.1166666666666667
+2018-03-01,Radio Classique,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",19.166666666666668
+2018-03-01,RMC,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",80.3
+2018-03-01,Europe 1,JT,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",1.0666666666666667
+2018-03-01,Europe 1,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",19.4
+2018-03-01,RTL,JT,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",1.6
+2018-05-01,France Info,JT,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",1.9666666666666666
+2018-07-01,RTL,JT,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",2.216666666666667
+2018-10-01,France Inter,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",1.0833333333333333
 2018-02-01,France 5,PROG,Peltier Guillaume,Les Républicains,LR,1.3
 2018-04-01,France 5,PROG,Peltier Guillaume,Les Républicains,LR,1.4666666666666666
 2018-04-01,TMC,MAG,Peltier Guillaume,Les Républicains,LR,1.6333333333333333
@@ -12520,11 +12520,11 @@ month,station,prog_type,name,label,party,time
 2018-01-01,France 5,MAG,Batho Delphine,Parti Socialiste,PS,1.65
 2018-01-01,Numéro 23,MAG,Batho Delphine,Parti Socialiste,PS,25.016666666666666
 2018-01-01,RMC Découverte,MAG,Batho Delphine,Parti Socialiste,PS,7.4
-2018-05-01,France 5,MAG,Batho Delphine,Génération Ecologie,NA,1.3666666666666667
-2018-05-01,RMC Découverte,MAG,Batho Delphine,Génération Ecologie,NA,6.433333333333334
-2018-08-01,France 5,MAG,Batho Delphine,Génération Ecologie,NA,2.4
-2018-10-01,France 3,MAG,Batho Delphine,Génération Ecologie,NA,9.15
-2018-10-01,RMC Découverte,MAG,Batho Delphine,Génération Ecologie,NA,6.366666666666666
+2018-05-01,France 5,MAG,Batho Delphine,Génération Ecologie,Génération Ecologie,1.3666666666666667
+2018-05-01,RMC Découverte,MAG,Batho Delphine,Génération Ecologie,Génération Ecologie,6.433333333333334
+2018-08-01,France 5,MAG,Batho Delphine,Génération Ecologie,Génération Ecologie,2.4
+2018-10-01,France 3,MAG,Batho Delphine,Génération Ecologie,Génération Ecologie,9.15
+2018-10-01,RMC Découverte,MAG,Batho Delphine,Génération Ecologie,Génération Ecologie,6.366666666666666
 2018-02-01,France Info TV,JT,Batho Delphine,Parti Socialiste,PS,13.216666666666667
 2018-02-01,France Info TV,MAG,Batho Delphine,Parti Socialiste,PS,19.416666666666668
 2018-01-01,BFM TV,JT,Batho Delphine,Parti Socialiste,PS,2.3666666666666667
@@ -12536,23 +12536,23 @@ month,station,prog_type,name,label,party,time
 2018-01-01,France Info TV,JT,Batho Delphine,Parti Socialiste,PS,1.2166666666666666
 2018-05-01,LCI,MAG,Batho Delphine,Parti Socialiste,PS,13.6
 2018-05-01,France Info TV,JT,Batho Delphine,Parti Socialiste,PS,2.1333333333333333
-2018-09-01,BFM TV,JT,Batho Delphine,Génération Ecologie,NA,37.166666666666664
-2018-09-01,France Info TV,JT,Batho Delphine,Génération Ecologie,NA,7.183333333333334
-2018-11-01,BFM TV,MAG,Batho Delphine,Génération Ecologie,NA,20.616666666666667
-2018-11-01,C NEWS,MAG,Batho Delphine,Génération Ecologie,NA,6.633333333333334
-2018-11-01,LCI,MAG,Batho Delphine,Génération Ecologie,NA,19.95
-2018-11-01,France Info TV,JT,Batho Delphine,Génération Ecologie,NA,1.3
-2018-11-01,France Info TV,MAG,Batho Delphine,Génération Ecologie,NA,6.05
-2018-08-01,France Info TV,PROG,Batho Delphine,Génération Ecologie,NA,2.1333333333333333
-2018-10-01,LCI,MAG,Batho Delphine,Génération Ecologie,NA,19.516666666666666
+2018-09-01,BFM TV,JT,Batho Delphine,Génération Ecologie,Génération Ecologie,37.166666666666664
+2018-09-01,France Info TV,JT,Batho Delphine,Génération Ecologie,Génération Ecologie,7.183333333333334
+2018-11-01,BFM TV,MAG,Batho Delphine,Génération Ecologie,Génération Ecologie,20.616666666666667
+2018-11-01,C NEWS,MAG,Batho Delphine,Génération Ecologie,Génération Ecologie,6.633333333333334
+2018-11-01,LCI,MAG,Batho Delphine,Génération Ecologie,Génération Ecologie,19.95
+2018-11-01,France Info TV,JT,Batho Delphine,Génération Ecologie,Génération Ecologie,1.3
+2018-11-01,France Info TV,MAG,Batho Delphine,Génération Ecologie,Génération Ecologie,6.05
+2018-08-01,France Info TV,PROG,Batho Delphine,Génération Ecologie,Génération Ecologie,2.1333333333333333
+2018-10-01,LCI,MAG,Batho Delphine,Génération Ecologie,Génération Ecologie,19.516666666666666
 2018-02-01,France Info,JT,Batho Delphine,Parti Socialiste,PS,16.533333333333335
-2018-06-01,France Inter,MAG,Batho Delphine,Génération Ecologie,NA,1.2666666666666666
-2018-06-01,France Info,JT,Batho Delphine,Génération Ecologie,NA,1.6333333333333333
-2018-06-01,France Culture,PROG,Batho Delphine,Génération Ecologie,NA,1.2166666666666666
-2018-09-01,France Inter,JT,Batho Delphine,Génération Ecologie,NA,1.35
-2018-11-01,France Info,JT,Batho Delphine,Génération Ecologie,NA,9.45
-2018-11-01,France Info,MAG,Batho Delphine,Génération Ecologie,NA,5.283333333333333
-2018-11-01,RMC,MAG,Batho Delphine,Génération Ecologie,NA,41.233333333333334
+2018-06-01,France Inter,MAG,Batho Delphine,Génération Ecologie,Génération Ecologie,1.2666666666666666
+2018-06-01,France Info,JT,Batho Delphine,Génération Ecologie,Génération Ecologie,1.6333333333333333
+2018-06-01,France Culture,PROG,Batho Delphine,Génération Ecologie,Génération Ecologie,1.2166666666666666
+2018-09-01,France Inter,JT,Batho Delphine,Génération Ecologie,Génération Ecologie,1.35
+2018-11-01,France Info,JT,Batho Delphine,Génération Ecologie,Génération Ecologie,9.45
+2018-11-01,France Info,MAG,Batho Delphine,Génération Ecologie,Génération Ecologie,5.283333333333333
+2018-11-01,RMC,MAG,Batho Delphine,Génération Ecologie,Génération Ecologie,41.233333333333334
 2018-01-01,France Inter,MAG,Batho Delphine,Parti Socialiste,PS,16.25
 2018-01-01,France Info,JT,Batho Delphine,Parti Socialiste,PS,1.5833333333333333
 2018-01-01,Radio Classique,MAG,Batho Delphine,Parti Socialiste,PS,4.883333333333334
@@ -12561,16 +12561,16 @@ month,station,prog_type,name,label,party,time
 2018-01-01,Europe 1,PROG,Batho Delphine,Parti Socialiste,PS,5.183333333333334
 2018-05-01,France Inter,JT,Batho Delphine,Parti Socialiste,PS,1.0166666666666666
 2018-05-01,France Inter,MAG,Batho Delphine,Parti Socialiste,PS,4.433333333333334
-2018-05-01,France Info,JT,Batho Delphine,Génération Ecologie,NA,8.083333333333334
-2018-05-01,RMC,MAG,Batho Delphine,Génération Ecologie,NA,6.433333333333334
-2018-05-01,RTL,JT,Batho Delphine,Génération Ecologie,NA,2.6333333333333333
-2018-05-01,RTL,MAG,Batho Delphine,Génération Ecologie,NA,7.683333333333334
-2018-10-01,France Info,JT,Batho Delphine,Génération Ecologie,NA,4.7
-2018-10-01,Radio Classique,JT,Batho Delphine,Génération Ecologie,NA,1.2333333333333334
-2018-10-01,RMC,MAG,Batho Delphine,Génération Ecologie,NA,6.366666666666666
-2018-12-01,France Inter,MAG,Batho Delphine,Génération Ecologie,NA,4.016666666666667
-2018-12-01,France Culture,MAG,Batho Delphine,Génération Ecologie,NA,20.1
-2018-12-01,France Culture,PROG,Batho Delphine,Génération Ecologie,NA,1.7333333333333334
+2018-05-01,France Info,JT,Batho Delphine,Génération Ecologie,Génération Ecologie,8.083333333333334
+2018-05-01,RMC,MAG,Batho Delphine,Génération Ecologie,Génération Ecologie,6.433333333333334
+2018-05-01,RTL,JT,Batho Delphine,Génération Ecologie,Génération Ecologie,2.6333333333333333
+2018-05-01,RTL,MAG,Batho Delphine,Génération Ecologie,Génération Ecologie,7.683333333333334
+2018-10-01,France Info,JT,Batho Delphine,Génération Ecologie,Génération Ecologie,4.7
+2018-10-01,Radio Classique,JT,Batho Delphine,Génération Ecologie,Génération Ecologie,1.2333333333333334
+2018-10-01,RMC,MAG,Batho Delphine,Génération Ecologie,Génération Ecologie,6.366666666666666
+2018-12-01,France Inter,MAG,Batho Delphine,Génération Ecologie,Génération Ecologie,4.016666666666667
+2018-12-01,France Culture,MAG,Batho Delphine,Génération Ecologie,Génération Ecologie,20.1
+2018-12-01,France Culture,PROG,Batho Delphine,Génération Ecologie,Génération Ecologie,1.7333333333333334
 2018-04-01,C8,PROG,Calmels Virginie,Les Républicains,LR,12.033333333333333
 2018-06-01,TF1,JT,Calmels Virginie,Les Républicains,LR,4
 2018-06-01,France 5,MAG,Calmels Virginie,Les Républicains,LR,1.85
@@ -14423,7 +14423,7 @@ month,station,prog_type,name,label,party,time
 2018-09-01,Canal +,MAG,Menard Emmanuelle,Divers Droite,Droite,8.016666666666667
 2018-08-01,RMC Story,MAG,Menard Emmanuelle,Divers Droite,Droite,3.8333333333333335
 2018-04-01,LCI,MAG,Menard Emmanuelle,Divers Droite,Droite,10.416666666666666
-2018-04-01,France Info TV,MAG,Menard Emmanuelle,Dvd,NA,6.45
+2018-04-01,France Info TV,MAG,Menard Emmanuelle,Divers Droite,Droite,6.45
 2018-01-01,France Info TV,JT,Menard Emmanuelle,Front National,FN,1.1333333333333333
 2018-03-01,France Info TV,MAG,Menard Emmanuelle,Front National,FN,9.05
 2018-05-01,BFM TV,MAG,Menard Emmanuelle,Divers Droite,Droite,19.05
@@ -14567,7 +14567,7 @@ month,station,prog_type,name,label,party,time
 2018-12-01,C NEWS,MAG,Nunez Laurent,Ministre,Exécutif,11.083333333333334
 2018-12-01,LCI,JT,Nunez Laurent,Ministre,Exécutif,7.8
 2018-12-01,LCI,MAG,Nunez Laurent,Ministre,Exécutif,78.45
-2018-12-01,France Info TV,JT,Nunez Laurent,Secretaire Etat,NA,53.36666666666667
+2018-12-01,France Info TV,JT,Nunez Laurent,Secretaire Etat,Exécutif,53.36666666666667
 2018-12-01,France Info TV,PROG,Nunez Laurent,Ministre,Exécutif,1.8
 2018-11-01,France Inter,MAG,Nunez Laurent,Ministre,Exécutif,1.7833333333333334
 2018-11-01,France Info,JT,Nunez Laurent,Ministre,Exécutif,2.8833333333333333
@@ -15115,39 +15115,39 @@ month,station,prog_type,name,label,party,time
 2018-10-01,Europe 1,MAG,Dubost Coralie,La République En Marche,LREM,8.25
 2018-04-01,Numéro 23,MAG,Falorni Olivier,Divers Gauche,Gauche,6.8
 2018-04-01,RMC Découverte,MAG,Falorni Olivier,Divers Gauche,Gauche,4.716666666666667
-2018-06-01,France 5,MAG,Falorni Olivier,Mouvement Radical,NA,2.1
+2018-06-01,France 5,MAG,Falorni Olivier,Mouvement Radical,Mouvement Radical,2.1
 2018-06-01,France 5,PROG,Falorni Olivier,Divers Gauche,Gauche,1.2666666666666666
 2018-05-01,France 5,PROG,Falorni Olivier,Divers Gauche,Gauche,14.9
-2018-07-01,France 5,MAG,Falorni Olivier,Mouvement Radical,NA,1.25
-2018-02-01,France Info TV,PROG,Falorni Olivier,Mouvement Radical,NA,1.1333333333333333
+2018-07-01,France 5,MAG,Falorni Olivier,Mouvement Radical,Mouvement Radical,1.25
+2018-02-01,France Info TV,PROG,Falorni Olivier,Mouvement Radical,Mouvement Radical,1.1333333333333333
 2018-04-01,C NEWS,MAG,Falorni Olivier,Divers Gauche,Gauche,13.75
 2018-01-01,LCI,MAG,Falorni Olivier,Divers Gauche,Gauche,4.45
 2018-05-01,BFM TV,JT,Falorni Olivier,Divers Gauche,Gauche,3.15
-2018-09-01,BFM TV,JT,Falorni Olivier,Mouvement Radical,NA,16.416666666666668
-2018-09-01,BFM TV,MAG,Falorni Olivier,Mouvement Radical,NA,1.2
-2018-09-01,C NEWS,JT,Falorni Olivier,Mouvement Radical,NA,5.75
-2018-09-01,C NEWS,MAG,Falorni Olivier,Mouvement Radical,NA,1.2666666666666666
-2018-07-01,LCI,JT,Falorni Olivier,Mouvement Radical,NA,3.55
-2018-07-01,France Info TV,JT,Falorni Olivier,Mouvement Radical,NA,5.833333333333333
-2018-10-01,BFM TV,JT,Falorni Olivier,Mouvement Radical,NA,6.7
-2018-10-01,BFM TV,MAG,Falorni Olivier,Mouvement Radical,NA,12.233333333333333
-2018-10-01,C NEWS,JT,Falorni Olivier,Mouvement Radical,NA,1.3166666666666667
-2018-10-01,C NEWS,MAG,Falorni Olivier,Mouvement Radical,NA,6
-2018-12-01,LCI,MAG,Falorni Olivier,Mouvement Radical,NA,2.033333333333333
-2018-06-01,BFM TV,JT,Falorni Olivier,Mouvement Radical,NA,24
+2018-09-01,BFM TV,JT,Falorni Olivier,Mouvement Radical,Mouvement Radical,16.416666666666668
+2018-09-01,BFM TV,MAG,Falorni Olivier,Mouvement Radical,Mouvement Radical,1.2
+2018-09-01,C NEWS,JT,Falorni Olivier,Mouvement Radical,Mouvement Radical,5.75
+2018-09-01,C NEWS,MAG,Falorni Olivier,Mouvement Radical,Mouvement Radical,1.2666666666666666
+2018-07-01,LCI,JT,Falorni Olivier,Mouvement Radical,Mouvement Radical,3.55
+2018-07-01,France Info TV,JT,Falorni Olivier,Mouvement Radical,Mouvement Radical,5.833333333333333
+2018-10-01,BFM TV,JT,Falorni Olivier,Mouvement Radical,Mouvement Radical,6.7
+2018-10-01,BFM TV,MAG,Falorni Olivier,Mouvement Radical,Mouvement Radical,12.233333333333333
+2018-10-01,C NEWS,JT,Falorni Olivier,Mouvement Radical,Mouvement Radical,1.3166666666666667
+2018-10-01,C NEWS,MAG,Falorni Olivier,Mouvement Radical,Mouvement Radical,6
+2018-12-01,LCI,MAG,Falorni Olivier,Mouvement Radical,Mouvement Radical,2.033333333333333
+2018-06-01,BFM TV,JT,Falorni Olivier,Mouvement Radical,Mouvement Radical,24
 2018-06-01,C NEWS,JT,Falorni Olivier,Divers Gauche,Gauche,2.4
 2018-06-01,LCI,JT,Falorni Olivier,Divers Gauche,Gauche,2.533333333333333
 2018-06-01,LCI,MAG,Falorni Olivier,Divers Gauche,Gauche,2.066666666666667
 2018-04-01,RMC,MAG,Falorni Olivier,Divers Gauche,Gauche,17.766666666666666
-2018-06-01,France Culture,JT,Falorni Olivier,Mouvement Radical,NA,1.05
-2018-09-01,France Info,JT,Falorni Olivier,Mouvement Radical,NA,11.066666666666666
-2018-09-01,RMC,MAG,Falorni Olivier,Mouvement Radical,NA,32.3
-2018-11-01,RTL,JT,Falorni Olivier,Mouvement Radical,NA,1.45
+2018-06-01,France Culture,JT,Falorni Olivier,Mouvement Radical,Mouvement Radical,1.05
+2018-09-01,France Info,JT,Falorni Olivier,Mouvement Radical,Mouvement Radical,11.066666666666666
+2018-09-01,RMC,MAG,Falorni Olivier,Mouvement Radical,Mouvement Radical,32.3
+2018-11-01,RTL,JT,Falorni Olivier,Mouvement Radical,Mouvement Radical,1.45
 2018-01-01,Sud Radio,MAG,Falorni Olivier,Divers Gauche,Gauche,13.166666666666666
 2018-05-01,France Info,JT,Falorni Olivier,Divers Gauche,Gauche,8.416666666666666
 2018-05-01,Europe 1,JT,Falorni Olivier,Divers Gauche,Gauche,1.0333333333333334
 2018-05-01,Sud Radio,JT,Falorni Olivier,Divers Gauche,Gauche,1.55
-2018-12-01,RMC,MAG,Falorni Olivier,Mouvement Radical,NA,21.533333333333335
+2018-12-01,RMC,MAG,Falorni Olivier,Mouvement Radical,Mouvement Radical,21.533333333333335
 2018-04-01,France 5,MAG,Gatignon Stephane,Parti Ecologiste,NA,11.283333333333333
 2018-04-01,C8,JT,Gatignon Stephane,Parti Ecologiste,NA,6
 2018-04-01,RMC Découverte,MAG,Gatignon Stephane,Parti Ecologiste,NA,7.6
@@ -15706,7 +15706,7 @@ month,station,prog_type,name,label,party,time
 2018-05-01,France Info TV,PROG,Mezard Jacques,Ministre,Exécutif,1.65
 2018-09-01,BFM TV,JT,Mezard Jacques,Ministre,Exécutif,9.433333333333334
 2018-09-01,C NEWS,JT,Mezard Jacques,Ministre,Exécutif,19.733333333333334
-2018-12-01,France Info TV,JT,Mezard Jacques,Mouvement Radical,NA,1.7333333333333334
+2018-12-01,France Info TV,JT,Mezard Jacques,Mouvement Radical,Mouvement Radical,1.7333333333333334
 2018-06-01,C NEWS,MAG,Mezard Jacques,Ministre,Exécutif,2.4
 2018-06-01,France Info TV,MAG,Mezard Jacques,Ministre,Exécutif,17.55
 2018-02-01,France Inter,MAG,Mezard Jacques,Ministre,Exécutif,6.833333333333333
@@ -16492,12 +16492,12 @@ month,station,prog_type,name,label,party,time
 2018-12-01,C NEWS,JT,Pannier Runacher Agnes,Ministre,Exécutif,1.8333333333333333
 2018-12-01,C NEWS,MAG,Pannier Runacher Agnes,Ministre,Exécutif,11.083333333333334
 2018-12-01,LCI,MAG,Pannier Runacher Agnes,Ministre,Exécutif,28.6
-2018-12-01,France Info TV,JT,Pannier Runacher Agnes,Secretaire Etat,NA,16.216666666666665
+2018-12-01,France Info TV,JT,Pannier Runacher Agnes,Secretaire Etat,Exécutif,16.216666666666665
 2018-12-01,France Info TV,MAG,Pannier Runacher Agnes,Ministre,Exécutif,11.783333333333333
 2018-12-01,France Info TV,PROG,Pannier Runacher Agnes,Ministre,Exécutif,22.416666666666668
 2018-11-01,France Inter,MAG,Pannier Runacher Agnes,Ministre,Exécutif,6.683333333333334
 2018-11-01,France Info,JT,Pannier Runacher Agnes,Ministre,Exécutif,17.466666666666665
-2018-11-01,BFM,MAG,Pannier Runacher Agnes,Secretaire Etat,NA,121.06666666666666
+2018-11-01,BFM,MAG,Pannier Runacher Agnes,Secretaire Etat,Exécutif,121.06666666666666
 2018-11-01,Sud Radio,MAG,Pannier Runacher Agnes,Ministre,Exécutif,12.45
 2018-10-01,France Info,JT,Pannier Runacher Agnes,Ministre,Exécutif,7.25
 2018-10-01,France Info,MAG,Pannier Runacher Agnes,Ministre,Exécutif,9.8
@@ -16529,7 +16529,7 @@ month,station,prog_type,name,label,party,time
 2018-11-01,RTL,JT,Wargon Emmanuelle,Ministre,Exécutif,1.3666666666666667
 2018-10-01,France Info,MAG,Wargon Emmanuelle,Ministre,Exécutif,4.033333333333333
 2018-10-01,France Culture,JT,Wargon Emmanuelle,Ministre,Exécutif,5.966666666666667
-2018-10-01,RMC,MAG,Wargon Emmanuelle,Secretaire Etat,NA,35.53333333333333
+2018-10-01,RMC,MAG,Wargon Emmanuelle,Secretaire Etat,Exécutif,35.53333333333333
 2018-12-01,France Inter,MAG,Wargon Emmanuelle,Ministre,Exécutif,6.2
 2018-12-01,France Info,JT,Wargon Emmanuelle,Ministre,Exécutif,59.05
 2018-12-01,RMC,MAG,Wargon Emmanuelle,Ministre,Exécutif,39.233333333333334
@@ -16800,7 +16800,7 @@ month,station,prog_type,name,label,party,time
 2018-04-01,France Inter,MAG,Taubira Christiane,Divers Gauche,Gauche,17.083333333333332
 2018-04-01,France Info,JT,Taubira Christiane,Divers Gauche,Gauche,1.0166666666666666
 2018-04-01,France Culture,MAG,Taubira Christiane,Divers Gauche,Gauche,23.766666666666666
-2018-04-01,Europe 1,JT,Taubira Christiane,Mouvement Radical,NA,1.3
+2018-04-01,Europe 1,JT,Taubira Christiane,Mouvement Radical,Mouvement Radical,1.3
 2018-06-01,France Culture,MAG,Taubira Christiane,Divers Gauche,Gauche,24.016666666666666
 2018-06-01,Europe 1,MAG,Taubira Christiane,Divers Gauche,Gauche,4.133333333333334
 2018-09-01,France Info,JT,Taubira Christiane,Divers Gauche,Gauche,1.75
@@ -17097,7 +17097,7 @@ month,station,prog_type,name,label,party,time
 2018-05-01,BFM TV,JT,Arenou Catherine,Les Républicains,LR,3.45
 2018-05-01,BFM TV,MAG,Arenou Catherine,Les Républicains,LR,2.1
 2018-05-01,C NEWS,MAG,Arenou Catherine,Les Républicains,LR,11.466666666666667
-2018-05-01,LCI,MAG,Arenou Catherine,Sans Etiquette,NA,11.333333333333334
+2018-05-01,LCI,MAG,Arenou Catherine,Sans Étiquette,Divers,11.333333333333334
 2018-04-01,France Inter,MAG,Arenou Catherine,Les Républicains,LR,8.716666666666667
 2018-04-01,France Info,JT,Arenou Catherine,Les Républicains,LR,5.816666666666666
 2018-04-01,France Culture,JT,Arenou Catherine,Les Républicains,LR,1.0833333333333333
@@ -17389,7 +17389,7 @@ month,station,prog_type,name,label,party,time
 2018-06-01,RTL,MAG,Darrieussecq Genevieve,Ministre,Exécutif,4.75
 2018-09-01,France Info,JT,Darrieussecq Genevieve,Ministre,Exécutif,11.3
 2018-11-01,France Culture,JT,Darrieussecq Genevieve,Ministre,Exécutif,5.083333333333333
-2018-11-01,Europe 1,MAG,Darrieussecq Genevieve,Secretaire Etat,NA,7.583333333333333
+2018-11-01,Europe 1,MAG,Darrieussecq Genevieve,Secretaire Etat,Exécutif,7.583333333333333
 2018-03-01,France Info,JT,Darrieussecq Genevieve,Ministre,Exécutif,52.45
 2018-05-01,Radio Classique,MAG,Darrieussecq Genevieve,Ministre,Exécutif,23.716666666666665
 2018-07-01,RTL,MAG,Darrieussecq Genevieve,Ministre,Exécutif,5.95
@@ -17823,25 +17823,25 @@ month,station,prog_type,name,label,party,time
 2018-10-01,Europe 1,MAG,Bellamy Francois Xavier,Les Républicains,LR,7.566666666666666
 2018-12-01,France Inter,MAG,Bellamy Francois Xavier,Divers Droite,Droite,14.5
 2018-12-01,France Culture,PROG,Bellamy Francois Xavier,Divers Droite,Droite,27.916666666666668
-2018-09-01,France 2,MAG,Filippetti Aurelie,Génération.s,Géné,4.6
+2018-09-01,France 2,MAG,Filippetti Aurelie,Génération.s,Génération.s,4.6
 2018-03-01,France 5,MAG,Filippetti Aurelie,Divers Gauche,Gauche,10.85
-2018-05-01,France 3,PROG,Filippetti Aurelie,Génération.s,Géné,3.6666666666666665
-2018-03-01,France Info TV,JT,Filippetti Aurelie,Génération.s,Géné,7.366666666666666
-2018-09-01,LCI,MAG,Filippetti Aurelie,Génération.s,Géné,9.533333333333333
-2018-09-01,France Info TV,JT,Filippetti Aurelie,Génération.s,Géné,7.366666666666666
-2018-09-01,France Info TV,PROG,Filippetti Aurelie,Génération.s,Géné,36.4
-2018-02-01,RTL,MAG,Filippetti Aurelie,Génération.s,Géné,20.433333333333334
-2018-09-01,France Culture,MAG,Filippetti Aurelie,Génération.s,Géné,21.216666666666665
-2018-09-01,France Culture,PROG,Filippetti Aurelie,Génération.s,Géné,11.066666666666666
-2018-09-01,Radio Classique,PROG,Filippetti Aurelie,Génération.s,Géné,5.483333333333333
-2018-11-01,France Culture,PROG,Filippetti Aurelie,Génération.s,Géné,10.283333333333333
-2018-03-01,RTL,MAG,Filippetti Aurelie,Génération.s,Géné,4.166666666666667
-2018-05-01,RTL,MAG,Filippetti Aurelie,Génération.s,Géné,6.866666666666666
-2018-08-01,France Inter,MAG,Filippetti Aurelie,Génération.s,Géné,4.9
-2018-08-01,France Culture,PROG,Filippetti Aurelie,Génération.s,Géné,10.116666666666667
-2018-10-01,France Culture,PROG,Filippetti Aurelie,Génération.s,Géné,9.35
-2018-12-01,France Inter,PROG,Filippetti Aurelie,Génération.s,Géné,8.583333333333334
-2018-12-01,France Culture,PROG,Filippetti Aurelie,Génération.s,Géné,28.25
+2018-05-01,France 3,PROG,Filippetti Aurelie,Génération.s,Génération.s,3.6666666666666665
+2018-03-01,France Info TV,JT,Filippetti Aurelie,Génération.s,Génération.s,7.366666666666666
+2018-09-01,LCI,MAG,Filippetti Aurelie,Génération.s,Génération.s,9.533333333333333
+2018-09-01,France Info TV,JT,Filippetti Aurelie,Génération.s,Génération.s,7.366666666666666
+2018-09-01,France Info TV,PROG,Filippetti Aurelie,Génération.s,Génération.s,36.4
+2018-02-01,RTL,MAG,Filippetti Aurelie,Génération.s,Génération.s,20.433333333333334
+2018-09-01,France Culture,MAG,Filippetti Aurelie,Génération.s,Génération.s,21.216666666666665
+2018-09-01,France Culture,PROG,Filippetti Aurelie,Génération.s,Génération.s,11.066666666666666
+2018-09-01,Radio Classique,PROG,Filippetti Aurelie,Génération.s,Génération.s,5.483333333333333
+2018-11-01,France Culture,PROG,Filippetti Aurelie,Génération.s,Génération.s,10.283333333333333
+2018-03-01,RTL,MAG,Filippetti Aurelie,Génération.s,Génération.s,4.166666666666667
+2018-05-01,RTL,MAG,Filippetti Aurelie,Génération.s,Génération.s,6.866666666666666
+2018-08-01,France Inter,MAG,Filippetti Aurelie,Génération.s,Génération.s,4.9
+2018-08-01,France Culture,PROG,Filippetti Aurelie,Génération.s,Génération.s,10.116666666666667
+2018-10-01,France Culture,PROG,Filippetti Aurelie,Génération.s,Génération.s,9.35
+2018-12-01,France Inter,PROG,Filippetti Aurelie,Génération.s,Génération.s,8.583333333333334
+2018-12-01,France Culture,PROG,Filippetti Aurelie,Génération.s,Génération.s,28.25
 2018-08-01,RMC Découverte,MAG,Goulet Nathalie,Union Des Démocrates Et Indépendants,UDI,7.5
 2018-03-01,BFM TV,JT,Goulet Nathalie,Union Des Démocrates Et Indépendants,UDI,5.666666666666667
 2018-03-01,LCI,MAG,Goulet Nathalie,Union Des Démocrates Et Indépendants,UDI,10.216666666666667
@@ -18102,24 +18102,24 @@ month,station,prog_type,name,label,party,time
 2018-02-01,France Inter,PROG,Habib Meyer,Union Des Démocrates Et Indépendants,UDI,1.2833333333333334
 2018-03-01,France Inter,PROG,Habib Meyer,Union Des Démocrates Et Indépendants,UDI,1.2833333333333334
 2018-03-01,France Info,JT,Habib Meyer,Union Des Démocrates Et Indépendants,UDI,1.05
-2018-04-01,BFM TV,MAG,Lalucq Aurore,Génération.s,Géné,2.933333333333333
-2018-04-01,LCI,MAG,Lalucq Aurore,Génération.s,Géné,17.983333333333334
-2018-03-01,LCI,MAG,Lalucq Aurore,Génération.s,Géné,30.4
-2018-05-01,BFM TV,JT,Lalucq Aurore,Génération.s,Géné,3.3666666666666667
-2018-05-01,LCI,MAG,Lalucq Aurore,Génération.s,Géné,43.35
-2018-09-01,C NEWS,MAG,Lalucq Aurore,Génération.s,Géné,17.75
-2018-11-01,BFM TV,MAG,Lalucq Aurore,Génération.s,Géné,3.316666666666667
-2018-11-01,C NEWS,MAG,Lalucq Aurore,Génération.s,Géné,27.116666666666667
-2018-11-01,LCI,MAG,Lalucq Aurore,Génération.s,Géné,49.35
-2018-07-01,LCI,MAG,Lalucq Aurore,Génération.s,Géné,16.866666666666667
-2018-08-01,C NEWS,MAG,Lalucq Aurore,Génération.s,Géné,19.666666666666668
-2018-08-01,LCI,MAG,Lalucq Aurore,Génération.s,Géné,94.96666666666667
-2018-10-01,C NEWS,MAG,Lalucq Aurore,Génération.s,Géné,25.05
-2018-10-01,LCI,MAG,Lalucq Aurore,Génération.s,Géné,43.65
-2018-12-01,C NEWS,MAG,Lalucq Aurore,Génération.s,Géné,24.633333333333333
-2018-06-01,LCI,MAG,Lalucq Aurore,Génération.s,Géné,32.233333333333334
-2018-02-01,France Culture,PROG,Lalucq Aurore,Génération.s,Géné,17.416666666666668
-2018-11-01,France Culture,PROG,Lalucq Aurore,Génération.s,Géné,15.666666666666666
+2018-04-01,BFM TV,MAG,Lalucq Aurore,Génération.s,Génération.s,2.933333333333333
+2018-04-01,LCI,MAG,Lalucq Aurore,Génération.s,Génération.s,17.983333333333334
+2018-03-01,LCI,MAG,Lalucq Aurore,Génération.s,Génération.s,30.4
+2018-05-01,BFM TV,JT,Lalucq Aurore,Génération.s,Génération.s,3.3666666666666667
+2018-05-01,LCI,MAG,Lalucq Aurore,Génération.s,Génération.s,43.35
+2018-09-01,C NEWS,MAG,Lalucq Aurore,Génération.s,Génération.s,17.75
+2018-11-01,BFM TV,MAG,Lalucq Aurore,Génération.s,Génération.s,3.316666666666667
+2018-11-01,C NEWS,MAG,Lalucq Aurore,Génération.s,Génération.s,27.116666666666667
+2018-11-01,LCI,MAG,Lalucq Aurore,Génération.s,Génération.s,49.35
+2018-07-01,LCI,MAG,Lalucq Aurore,Génération.s,Génération.s,16.866666666666667
+2018-08-01,C NEWS,MAG,Lalucq Aurore,Génération.s,Génération.s,19.666666666666668
+2018-08-01,LCI,MAG,Lalucq Aurore,Génération.s,Génération.s,94.96666666666667
+2018-10-01,C NEWS,MAG,Lalucq Aurore,Génération.s,Génération.s,25.05
+2018-10-01,LCI,MAG,Lalucq Aurore,Génération.s,Génération.s,43.65
+2018-12-01,C NEWS,MAG,Lalucq Aurore,Génération.s,Génération.s,24.633333333333333
+2018-06-01,LCI,MAG,Lalucq Aurore,Génération.s,Génération.s,32.233333333333334
+2018-02-01,France Culture,PROG,Lalucq Aurore,Génération.s,Génération.s,17.416666666666668
+2018-11-01,France Culture,PROG,Lalucq Aurore,Génération.s,Génération.s,15.666666666666666
 2018-11-01,Canal +,MAG,Le Brun Agnes,Les Républicains,LR,9.916666666666666
 2018-11-01,BFM TV,JT,Le Brun Agnes,Les Républicains,LR,6.3
 2018-11-01,BFM TV,MAG,Le Brun Agnes,Les Républicains,LR,6.533333333333333
@@ -18543,38 +18543,38 @@ month,station,prog_type,name,label,party,time
 2018-12-01,LCI,MAG,Janvier Caroline,La République En Marche,LREM,6.816666666666666
 2018-06-01,France Info TV,JT,Janvier Caroline,La République En Marche,LREM,12.083333333333334
 2018-02-01,France Info,JT,Janvier Caroline,La République En Marche,LREM,3.7333333333333334
-2018-12-01,RMC Story,MAG,Jouanno Chantal,Mouvement Radical,NA,24.2
-2018-12-01,BFM TV,JT,Jouanno Chantal,Mouvement Radical,NA,9.183333333333334
-2018-12-01,BFM TV,MAG,Jouanno Chantal,Mouvement Radical,NA,7.916666666666667
-2018-12-01,C NEWS,JT,Jouanno Chantal,Mouvement Radical,NA,1
-2018-12-01,LCI,JT,Jouanno Chantal,Mouvement Radical,NA,1.4833333333333334
-2018-12-01,LCI,MAG,Jouanno Chantal,Mouvement Radical,NA,9.383333333333333
+2018-12-01,RMC Story,MAG,Jouanno Chantal,Mouvement Radical,Mouvement Radical,24.2
+2018-12-01,BFM TV,JT,Jouanno Chantal,Mouvement Radical,Mouvement Radical,9.183333333333334
+2018-12-01,BFM TV,MAG,Jouanno Chantal,Mouvement Radical,Mouvement Radical,7.916666666666667
+2018-12-01,C NEWS,JT,Jouanno Chantal,Mouvement Radical,Mouvement Radical,1
+2018-12-01,LCI,JT,Jouanno Chantal,Mouvement Radical,Mouvement Radical,1.4833333333333334
+2018-12-01,LCI,MAG,Jouanno Chantal,Mouvement Radical,Mouvement Radical,9.383333333333333
 2018-06-01,France Info,JT,Jouanno Chantal,Union Des Démocrates Et Indépendants,UDI,1.2
-2018-09-01,France Culture,JT,Jouanno Chantal,Mouvement Radical,NA,1.3333333333333333
-2018-09-01,France Culture,PROG,Jouanno Chantal,Mouvement Radical,NA,31.85
-2018-11-01,France Culture,PROG,Jouanno Chantal,Mouvement Radical,NA,1.1333333333333333
-2018-12-01,France Info,JT,Jouanno Chantal,Mouvement Radical,NA,10.083333333333334
-2018-12-01,France Info,MAG,Jouanno Chantal,Mouvement Radical,NA,2.466666666666667
-2018-12-01,France Culture,JT,Jouanno Chantal,Mouvement Radical,NA,5.383333333333334
-2018-12-01,RMC,MAG,Jouanno Chantal,Mouvement Radical,NA,48.4
-2018-12-01,Europe 1,MAG,Jouanno Chantal,Mouvement Radical,NA,7.966666666666667
-2018-12-01,RTL,MAG,Jouanno Chantal,Mouvement Radical,NA,12.25
+2018-09-01,France Culture,JT,Jouanno Chantal,Mouvement Radical,Mouvement Radical,1.3333333333333333
+2018-09-01,France Culture,PROG,Jouanno Chantal,Mouvement Radical,Mouvement Radical,31.85
+2018-11-01,France Culture,PROG,Jouanno Chantal,Mouvement Radical,Mouvement Radical,1.1333333333333333
+2018-12-01,France Info,JT,Jouanno Chantal,Mouvement Radical,Mouvement Radical,10.083333333333334
+2018-12-01,France Info,MAG,Jouanno Chantal,Mouvement Radical,Mouvement Radical,2.466666666666667
+2018-12-01,France Culture,JT,Jouanno Chantal,Mouvement Radical,Mouvement Radical,5.383333333333334
+2018-12-01,RMC,MAG,Jouanno Chantal,Mouvement Radical,Mouvement Radical,48.4
+2018-12-01,Europe 1,MAG,Jouanno Chantal,Mouvement Radical,Mouvement Radical,7.966666666666667
+2018-12-01,RTL,MAG,Jouanno Chantal,Mouvement Radical,Mouvement Radical,12.25
 2018-02-01,C NEWS,MAG,Lucas Benjamin,Parti Socialiste,PS,5.35
-2018-03-01,France Info TV,MAG,Lucas Benjamin,Génération.s,Géné,8.5
-2018-05-01,LCI,MAG,Lucas Benjamin,Génération.s,Géné,12.683333333333334
-2018-11-01,BFM TV,JT,Lucas Benjamin,Génération.s,Géné,1.3
-2018-11-01,C NEWS,MAG,Lucas Benjamin,Génération.s,Géné,11.433333333333334
-2018-10-01,C NEWS,MAG,Lucas Benjamin,Génération.s,Géné,5.916666666666667
-2018-12-01,C NEWS,MAG,Lucas Benjamin,Génération.s,Géné,5.216666666666667
-2018-12-01,France Info TV,JT,Lucas Benjamin,Génération.s,Géné,8.3
-2018-06-01,C NEWS,MAG,Lucas Benjamin,Génération.s,Géné,4.85
-2018-04-01,RMC,MAG,Lucas Benjamin,Génération.s,Géné,25.2
-2018-04-01,Sud Radio,MAG,Lucas Benjamin,Génération.s,Géné,9.2
-2018-09-01,France Inter,MAG,Lucas Benjamin,Génération.s,Géné,8.733333333333333
-2018-09-01,France Info,JT,Lucas Benjamin,Génération.s,Géné,4.516666666666667
-2018-03-01,France Info,JT,Lucas Benjamin,Génération.s,Géné,25.883333333333333
-2018-03-01,Sud Radio,MAG,Lucas Benjamin,Génération.s,Géné,9.15
-2018-05-01,Sud Radio,MAG,Lucas Benjamin,Génération.s,Géné,7.766666666666667
+2018-03-01,France Info TV,MAG,Lucas Benjamin,Génération.s,Génération.s,8.5
+2018-05-01,LCI,MAG,Lucas Benjamin,Génération.s,Génération.s,12.683333333333334
+2018-11-01,BFM TV,JT,Lucas Benjamin,Génération.s,Génération.s,1.3
+2018-11-01,C NEWS,MAG,Lucas Benjamin,Génération.s,Génération.s,11.433333333333334
+2018-10-01,C NEWS,MAG,Lucas Benjamin,Génération.s,Génération.s,5.916666666666667
+2018-12-01,C NEWS,MAG,Lucas Benjamin,Génération.s,Génération.s,5.216666666666667
+2018-12-01,France Info TV,JT,Lucas Benjamin,Génération.s,Génération.s,8.3
+2018-06-01,C NEWS,MAG,Lucas Benjamin,Génération.s,Génération.s,4.85
+2018-04-01,RMC,MAG,Lucas Benjamin,Génération.s,Génération.s,25.2
+2018-04-01,Sud Radio,MAG,Lucas Benjamin,Génération.s,Génération.s,9.2
+2018-09-01,France Inter,MAG,Lucas Benjamin,Génération.s,Génération.s,8.733333333333333
+2018-09-01,France Info,JT,Lucas Benjamin,Génération.s,Génération.s,4.516666666666667
+2018-03-01,France Info,JT,Lucas Benjamin,Génération.s,Génération.s,25.883333333333333
+2018-03-01,Sud Radio,MAG,Lucas Benjamin,Génération.s,Génération.s,9.15
+2018-05-01,Sud Radio,MAG,Lucas Benjamin,Génération.s,Génération.s,7.766666666666667
 2018-02-01,LCI,MAG,Meadel Juliette,Parti Socialiste,PS,29.666666666666668
 2018-02-01,France Info TV,MAG,Meadel Juliette,Parti Socialiste,PS,11.116666666666667
 2018-01-01,LCI,MAG,Meadel Juliette,Parti Socialiste,PS,6.9
@@ -18683,19 +18683,19 @@ month,station,prog_type,name,label,party,time
 2018-08-01,RMC,MAG,Durand Pascal,Divers Gauche,Gauche,16.333333333333332
 2018-08-01,Europe 1,JT,Durand Pascal,Divers Gauche,Gauche,2.9833333333333334
 2018-06-01,France 5,MAG,Juanico Regis,Parti Socialiste,PS,1.35
-2018-07-01,France 5,MAG,Juanico Regis,Génération.s,Géné,1.15
-2018-09-01,BFM TV,JT,Juanico Regis,Génération.s,Géné,4.983333333333333
-2018-11-01,C NEWS,JT,Juanico Regis,Génération.s,Géné,1.8
-2018-12-01,BFM TV,JT,Juanico Regis,Génération.s,Géné,7.083333333333333
-2018-12-01,BFM TV,MAG,Juanico Regis,Génération.s,Géné,3.3833333333333333
-2018-06-01,BFM TV,JT,Juanico Regis,Génération.s,Géné,8.416666666666666
-2018-06-01,France Info TV,MAG,Juanico Regis,Génération.s,Géné,6.333333333333333
+2018-07-01,France 5,MAG,Juanico Regis,Génération.s,Génération.s,1.15
+2018-09-01,BFM TV,JT,Juanico Regis,Génération.s,Génération.s,4.983333333333333
+2018-11-01,C NEWS,JT,Juanico Regis,Génération.s,Génération.s,1.8
+2018-12-01,BFM TV,JT,Juanico Regis,Génération.s,Génération.s,7.083333333333333
+2018-12-01,BFM TV,MAG,Juanico Regis,Génération.s,Génération.s,3.3833333333333333
+2018-06-01,BFM TV,JT,Juanico Regis,Génération.s,Génération.s,8.416666666666666
+2018-06-01,France Info TV,MAG,Juanico Regis,Génération.s,Génération.s,6.333333333333333
 2018-04-01,France Info,JT,Juanico Regis,Parti Socialiste,PS,2.2333333333333334
 2018-04-01,RTL,MAG,Juanico Regis,Parti Socialiste,PS,2.0833333333333335
-2018-06-01,France Info,JT,Juanico Regis,Génération.s,Géné,18.95
+2018-06-01,France Info,JT,Juanico Regis,Génération.s,Génération.s,18.95
 2018-06-01,France Info,JT,Juanico Regis,Parti Socialiste,PS,4.65
 2018-06-01,RMC,MAG,Juanico Regis,Parti Socialiste,PS,29.466666666666665
-2018-09-01,France Info,JT,Juanico Regis,Génération.s,Géné,22.45
+2018-09-01,France Info,JT,Juanico Regis,Génération.s,Génération.s,22.45
 2018-05-01,RMC,MAG,Juanico Regis,Parti Socialiste,PS,4.566666666666666
 2018-01-01,France Info TV,MAG,Lamy Pascal,Parti Socialiste,PS,12.833333333333334
 2018-03-01,France Info TV,JT,Lamy Pascal,Parti Socialiste,PS,3.7
@@ -18971,7 +18971,7 @@ month,station,prog_type,name,label,party,time
 2018-05-01,France Inter,MAG,Koenig Gaspard,Parti Liberal Democrate,NA,13.666666666666666
 2018-05-01,France Info,JT,Koenig Gaspard,Parti Liberal Democrate,NA,30.083333333333332
 2018-05-01,France Culture,MAG,Koenig Gaspard,Parti Liberal Democrate,NA,19.233333333333334
-2018-02-01,LCI,MAG,Legrain Sarah,Parti De Gauche,NA,10.383333333333333
+2018-02-01,LCI,MAG,Legrain Sarah,Parti De Gauche,PG,10.383333333333333
 2018-04-01,BFM TV,JT,Legrain Sarah,La France Insoumise,LFI,4.616666666666666
 2018-04-01,LCI,MAG,Legrain Sarah,La France Insoumise,LFI,12.15
 2018-05-01,BFM TV,MAG,Legrain Sarah,La France Insoumise,LFI,7.666666666666667
@@ -19069,18 +19069,18 @@ month,station,prog_type,name,label,party,time
 2018-11-01,RTL,JT,Peyrol Benedicte,La République En Marche,LREM,5.333333333333333
 2018-10-01,France Culture,PROG,Peyrol Benedicte,La République En Marche,LREM,7.116666666666666
 2018-10-01,BFM,MAG,Peyrol Benedicte,La République En Marche,LREM,71.28333333333333
-2018-02-01,LCI,MAG,Pouzol Michel,Génération.s,Géné,49.25
+2018-02-01,LCI,MAG,Pouzol Michel,Génération.s,Génération.s,49.25
 2018-04-01,LCI,MAG,Pouzol Michel,Parti Socialiste,PS,5.6
-2018-04-01,LCI,MAG,Pouzol Michel,Génération.s,Géné,1.4166666666666667
+2018-04-01,LCI,MAG,Pouzol Michel,Génération.s,Génération.s,1.4166666666666667
 2018-01-01,LCI,MAG,Pouzol Michel,Parti Socialiste,PS,7.5
-2018-03-01,LCI,MAG,Pouzol Michel,Génération.s,Géné,23.233333333333334
-2018-05-01,LCI,MAG,Pouzol Michel,Génération.s,Géné,7.066666666666666
-2018-09-01,LCI,MAG,Pouzol Michel,Génération.s,Géné,2.683333333333333
-2018-09-01,France Info TV,PROG,Pouzol Michel,Génération.s,Géné,2.65
-2018-07-01,LCI,MAG,Pouzol Michel,Génération.s,Géné,16.683333333333334
-2018-08-01,LCI,MAG,Pouzol Michel,Génération.s,Géné,36.45
-2018-12-01,LCI,MAG,Pouzol Michel,Génération.s,Géné,58.333333333333336
-2018-06-01,LCI,MAG,Pouzol Michel,Génération.s,Géné,19
+2018-03-01,LCI,MAG,Pouzol Michel,Génération.s,Génération.s,23.233333333333334
+2018-05-01,LCI,MAG,Pouzol Michel,Génération.s,Génération.s,7.066666666666666
+2018-09-01,LCI,MAG,Pouzol Michel,Génération.s,Génération.s,2.683333333333333
+2018-09-01,France Info TV,PROG,Pouzol Michel,Génération.s,Génération.s,2.65
+2018-07-01,LCI,MAG,Pouzol Michel,Génération.s,Génération.s,16.683333333333334
+2018-08-01,LCI,MAG,Pouzol Michel,Génération.s,Génération.s,36.45
+2018-12-01,LCI,MAG,Pouzol Michel,Génération.s,Génération.s,58.333333333333336
+2018-06-01,LCI,MAG,Pouzol Michel,Génération.s,Génération.s,19
 2018-04-01,Sud Radio,MAG,Pouzol Michel,Parti Socialiste,PS,6.7
 2018-03-01,Sud Radio,MAG,Pouzol Michel,Parti Socialiste,PS,9.116666666666667
 2018-12-01,RMC Découverte,MAG,Rottner Jean,Les Républicains,LR,4.166666666666667
@@ -19295,19 +19295,19 @@ month,station,prog_type,name,label,party,time
 2018-07-01,LCI,MAG,Leconte Jean Yves,Parti Socialiste,PS,1.1666666666666667
 2018-07-01,France Info TV,JT,Leconte Jean Yves,Parti Socialiste,PS,2.566666666666667
 2018-09-01,France Info,JT,Leconte Jean Yves,Parti Socialiste,PS,1.7833333333333334
-2018-12-01,France 2,MAG,Martin Edouard,Génération.s,Géné,4.183333333333334
+2018-12-01,France 2,MAG,Martin Edouard,Génération.s,Génération.s,4.183333333333334
 2018-12-01,France 5,PROG,Martin Edouard,Parti Socialiste,PS,1.2333333333333334
 2018-04-01,France Info TV,PROG,Martin Edouard,Parti Socialiste,PS,1.2166666666666666
 2018-03-01,France Info TV,MAG,Martin Edouard,Parti Socialiste,PS,2.35
 2018-03-01,France Info TV,PROG,Martin Edouard,Parti Socialiste,PS,2.7
-2018-11-01,France Info TV,PROG,Martin Edouard,Génération.s,Géné,11.783333333333333
+2018-11-01,France Info TV,PROG,Martin Edouard,Génération.s,Génération.s,11.783333333333333
 2018-12-01,BFM TV,JT,Martin Edouard,Parti Socialiste,PS,6.65
 2018-12-01,LCI,JT,Martin Edouard,Parti Socialiste,PS,1.2333333333333334
 2018-11-01,France Culture,JT,Martin Edouard,Parti Socialiste,PS,1.15
 2018-03-01,France Inter,JT,Martin Edouard,Parti Socialiste,PS,5.9
 2018-05-01,Europe 1,PROG,Martin Edouard,Parti Socialiste,PS,4.533333333333333
 2018-10-01,France Info,JT,Martin Edouard,Parti Socialiste,PS,13.166666666666666
-2018-12-01,France Info,JT,Martin Edouard,Génération.s,Géné,4.8
+2018-12-01,France Info,JT,Martin Edouard,Génération.s,Génération.s,4.8
 2018-09-01,RMC Découverte,MAG,Mendes Ludovic,La République En Marche,LREM,4.25
 2018-07-01,France 3,JT,Mendes Ludovic,La République En Marche,LREM,5
 2018-12-01,France 2,MAG,Mendes Ludovic,La République En Marche,LREM,2.85
@@ -19387,14 +19387,14 @@ month,station,prog_type,name,label,party,time
 2018-05-01,RTL,MAG,Poulliat Eric,La République En Marche,LREM,2.783333333333333
 2018-07-01,France Inter,MAG,Poulliat Eric,La République En Marche,LREM,8.383333333333333
 2018-01-01,France Info TV,PROG,Roziere Virginie,Divers Gauche,Gauche,18.2
-2018-05-01,France Info TV,JT,Roziere Virginie,Parti Radical De Gauche,NA,2.2
-2018-05-01,France Info TV,PROG,Roziere Virginie,Parti Radical De Gauche,NA,8.35
-2018-09-01,France Info TV,MAG,Roziere Virginie,Parti Radical De Gauche,NA,2.8
-2018-07-01,France Info TV,PROG,Roziere Virginie,Parti Radical De Gauche,NA,1.1666666666666667
-2018-06-01,France Info TV,MAG,Roziere Virginie,Parti Radical De Gauche,NA,16.283333333333335
+2018-05-01,France Info TV,JT,Roziere Virginie,Parti Radical De Gauche,PRG,2.2
+2018-05-01,France Info TV,PROG,Roziere Virginie,Parti Radical De Gauche,PRG,8.35
+2018-09-01,France Info TV,MAG,Roziere Virginie,Parti Radical De Gauche,PRG,2.8
+2018-07-01,France Info TV,PROG,Roziere Virginie,Parti Radical De Gauche,PRG,1.1666666666666667
+2018-06-01,France Info TV,MAG,Roziere Virginie,Parti Radical De Gauche,PRG,16.283333333333335
 2018-06-01,France Info,JT,Roziere Virginie,Parti Socialiste,PS,1.9166666666666667
 2018-09-01,France Culture,JT,Roziere Virginie,Parti Socialiste,PS,1
-2018-11-01,France Culture,MAG,Roziere Virginie,Mouvement Radical,NA,8.966666666666667
+2018-11-01,France Culture,MAG,Roziere Virginie,Mouvement Radical,Mouvement Radical,8.966666666666667
 2018-01-01,France Info,JT,Roziere Virginie,Divers Gauche,Gauche,5.066666666666666
 2018-05-01,France Info,JT,Roziere Virginie,Parti Socialiste,PS,6.283333333333333
 2018-07-01,France Inter,MAG,Roziere Virginie,Parti Socialiste,PS,10.15
@@ -19630,17 +19630,17 @@ month,station,prog_type,name,label,party,time
 2018-07-01,France Info TV,JT,Vichnievsky Laurence,Mouvement Démocrate,MODEM,8
 2018-07-01,France Info,JT,Vichnievsky Laurence,Mouvement Démocrate,MODEM,5.433333333333334
 2018-07-01,RMC,MAG,Vichnievsky Laurence,Mouvement Démocrate,MODEM,7.666666666666667
-2018-09-01,BFM TV,JT,Asselineau Francois,Union Populaire Republicaine,NA,9.2
-2018-11-01,C NEWS,JT,Asselineau Francois,Union Populaire Republicaine,NA,5.316666666666666
-2018-10-01,LCI,JT,Asselineau Francois,Union Populaire Republicaine,NA,2.7333333333333334
-2018-12-01,BFM TV,JT,Asselineau Francois,Union Populaire Republicaine,NA,23.25
-2018-06-01,BFM TV,JT,Asselineau Francois,Union Populaire Republicaine,NA,6.283333333333333
-2018-06-01,RMC,MAG,Asselineau Francois,Union Populaire Republicaine,NA,18.466666666666665
-2018-01-01,Sud Radio,MAG,Asselineau Francois,Union Populaire Republicaine,NA,14
-2018-03-01,RMC,MAG,Asselineau Francois,Union Populaire Republicaine,NA,8.066666666666666
-2018-05-01,RMC,MAG,Asselineau Francois,Union Populaire Republicaine,NA,18.466666666666665
-2018-07-01,RMC,MAG,Asselineau Francois,Union Populaire Republicaine,NA,9.233333333333333
-2018-10-01,Sud Radio,MAG,Asselineau Francois,Union Populaire Republicaine,NA,11.966666666666667
+2018-09-01,BFM TV,JT,Asselineau Francois,Union Populaire Républicaine,NA,9.2
+2018-11-01,C NEWS,JT,Asselineau Francois,Union Populaire Républicaine,NA,5.316666666666666
+2018-10-01,LCI,JT,Asselineau Francois,Union Populaire Républicaine,NA,2.7333333333333334
+2018-12-01,BFM TV,JT,Asselineau Francois,Union Populaire Républicaine,NA,23.25
+2018-06-01,BFM TV,JT,Asselineau Francois,Union Populaire Républicaine,NA,6.283333333333333
+2018-06-01,RMC,MAG,Asselineau Francois,Union Populaire Républicaine,NA,18.466666666666665
+2018-01-01,Sud Radio,MAG,Asselineau Francois,Union Populaire Républicaine,NA,14
+2018-03-01,RMC,MAG,Asselineau Francois,Union Populaire Républicaine,NA,8.066666666666666
+2018-05-01,RMC,MAG,Asselineau Francois,Union Populaire Républicaine,NA,18.466666666666665
+2018-07-01,RMC,MAG,Asselineau Francois,Union Populaire Républicaine,NA,9.233333333333333
+2018-10-01,Sud Radio,MAG,Asselineau Francois,Union Populaire Républicaine,NA,11.966666666666667
 2018-04-01,France 2,MAG,Badinter Robert,Parti Socialiste,PS,2.1666666666666665
 2018-11-01,France 2,PROG,Badinter Robert,Parti Socialiste,PS,43.333333333333336
 2018-11-01,TMC,MAG,Badinter Robert,Parti Socialiste,PS,15.95
@@ -19740,15 +19740,15 @@ month,station,prog_type,name,label,party,time
 2018-07-01,Europe 1,JT,Diard Eric,Les Républicains,LR,2.1333333333333333
 2018-10-01,France Info,JT,Diard Eric,Les Républicains,LR,2.783333333333333
 2018-12-01,France Info,JT,Diard Eric,Les Républicains,LR,23.633333333333333
-2018-06-01,Numéro 23,MAG,Feltz Alexandre,Génération.s,Géné,5.15
+2018-06-01,Numéro 23,MAG,Feltz Alexandre,Génération.s,Génération.s,5.15
 2018-07-01,France Info TV,PROG,Feltz Alexandre,Parti Socialiste,PS,3.2666666666666666
-2018-06-01,BFM TV,JT,Feltz Alexandre,Génération.s,Géné,1.4166666666666667
+2018-06-01,BFM TV,JT,Feltz Alexandre,Génération.s,Génération.s,1.4166666666666667
 2018-06-01,France Inter,JT,Feltz Alexandre,Parti Socialiste,PS,1.4333333333333333
 2018-06-01,France Inter,MAG,Feltz Alexandre,Parti Socialiste,PS,5.583333333333333
 2018-06-01,France Info,JT,Feltz Alexandre,Parti Socialiste,PS,7.083333333333333
-2018-06-01,RMC,MAG,Feltz Alexandre,Génération.s,Géné,10.3
+2018-06-01,RMC,MAG,Feltz Alexandre,Génération.s,Génération.s,10.3
 2018-05-01,France Info,JT,Feltz Alexandre,Parti Socialiste,PS,12.233333333333333
-2018-08-01,RMC,MAG,Feltz Alexandre,Génération.s,Géné,10.933333333333334
+2018-08-01,RMC,MAG,Feltz Alexandre,Génération.s,Génération.s,10.933333333333334
 2018-10-01,Europe 1,JT,Feltz Alexandre,Parti Socialiste,PS,2.55
 2018-12-01,France Info,JT,Feltz Alexandre,Parti Socialiste,PS,5.133333333333334
 2018-01-01,Canal +,MAG,Fromantin Jean Christophe,Divers Droite,Droite,10.85
@@ -20037,15 +20037,15 @@ month,station,prog_type,name,label,party,time
 2018-07-01,France Info TV,JT,Lherbier Brigitte,Les Républicains,LR,3.75
 2018-09-01,France Info,JT,Lherbier Brigitte,Les Républicains,LR,1.1333333333333333
 2018-02-01,France Info TV,MAG,Lundy Roxane,Parti Socialiste,PS,4.95
-2018-09-01,C NEWS,MAG,Lundy Roxane,Génération.s,Géné,9.1
-2018-11-01,C NEWS,MAG,Lundy Roxane,Génération.s,Géné,13.45
-2018-10-01,C NEWS,MAG,Lundy Roxane,Génération.s,Géné,2.2333333333333334
-2018-12-01,C NEWS,MAG,Lundy Roxane,Génération.s,Géné,2.9833333333333334
+2018-09-01,C NEWS,MAG,Lundy Roxane,Génération.s,Génération.s,9.1
+2018-11-01,C NEWS,MAG,Lundy Roxane,Génération.s,Génération.s,13.45
+2018-10-01,C NEWS,MAG,Lundy Roxane,Génération.s,Génération.s,2.2333333333333334
+2018-12-01,C NEWS,MAG,Lundy Roxane,Génération.s,Génération.s,2.9833333333333334
 2018-02-01,France Info,JT,Lundy Roxane,Parti Socialiste,PS,15.05
 2018-02-01,Sud Radio,MAG,Lundy Roxane,Divers Gauche,Gauche,6.033333333333333
-2018-04-01,France Inter,MAG,Lundy Roxane,Génération.s,Géné,5.15
-2018-04-01,France Info,JT,Lundy Roxane,Génération.s,Géné,10.166666666666666
-2018-04-01,France Culture,JT,Lundy Roxane,Génération.s,Géné,5.383333333333334
+2018-04-01,France Inter,MAG,Lundy Roxane,Génération.s,Génération.s,5.15
+2018-04-01,France Info,JT,Lundy Roxane,Génération.s,Génération.s,10.166666666666666
+2018-04-01,France Culture,JT,Lundy Roxane,Génération.s,Génération.s,5.383333333333334
 2018-02-01,France 5,MAG,Marcangeli Laurent,Les Républicains,LR,1.15
 2018-02-01,BFM TV,JT,Marcangeli Laurent,Les Républicains,LR,1.8666666666666667
 2018-02-01,France Info TV,JT,Marcangeli Laurent,Les Républicains,LR,1.6
@@ -21013,13 +21013,13 @@ month,station,prog_type,name,label,party,time
 2018-05-01,France Culture,MAG,Pigenel Romain,Parti Socialiste,PS,4.583333333333333
 2018-10-01,France Culture,MAG,Pigenel Romain,Parti Socialiste,PS,10.4
 2018-12-01,France Culture,MAG,Pigenel Romain,Parti Socialiste,PS,8.233333333333333
-2018-09-01,C NEWS,MAG,Rabeh Ali,Génération.s,Géné,12.833333333333334
-2018-11-01,C NEWS,MAG,Rabeh Ali,Génération.s,Géné,11.5
-2018-10-01,C NEWS,MAG,Rabeh Ali,Génération.s,Géné,6.333333333333333
-2018-12-01,C NEWS,MAG,Rabeh Ali,Génération.s,Géné,7.85
-2018-04-01,Sud Radio,MAG,Rabeh Ali,Génération.s,Géné,3.9833333333333334
-2018-03-01,Sud Radio,MAG,Rabeh Ali,Génération.s,Géné,21.216666666666665
-2018-12-01,RMC,MAG,Rabeh Ali,Génération.s,Géné,16.666666666666668
+2018-09-01,C NEWS,MAG,Rabeh Ali,Génération.s,Génération.s,12.833333333333334
+2018-11-01,C NEWS,MAG,Rabeh Ali,Génération.s,Génération.s,11.5
+2018-10-01,C NEWS,MAG,Rabeh Ali,Génération.s,Génération.s,6.333333333333333
+2018-12-01,C NEWS,MAG,Rabeh Ali,Génération.s,Génération.s,7.85
+2018-04-01,Sud Radio,MAG,Rabeh Ali,Génération.s,Génération.s,3.9833333333333334
+2018-03-01,Sud Radio,MAG,Rabeh Ali,Génération.s,Génération.s,21.216666666666665
+2018-12-01,RMC,MAG,Rabeh Ali,Génération.s,Génération.s,16.666666666666668
 2018-04-01,BFM TV,JT,Rilhac Cecile,La République En Marche,LREM,12.283333333333333
 2018-04-01,LCI,MAG,Rilhac Cecile,La République En Marche,LREM,6
 2018-05-01,BFM TV,JT,Rilhac Cecile,La République En Marche,LREM,6.133333333333334
@@ -21049,12 +21049,12 @@ month,station,prog_type,name,label,party,time
 2018-08-01,RMC,MAG,Tan Buon,La République En Marche,LREM,5.35
 2018-08-01,Europe 1,JT,Tan Buon,La République En Marche,LREM,4.2
 2018-05-01,France Info TV,PROG,Thomas Isabelle,Parti Socialiste,PS,1.9166666666666667
-2018-11-01,France Info TV,PROG,Thomas Isabelle,Génération.s,Géné,15.416666666666666
-2018-10-01,France Info TV,MAG,Thomas Isabelle,Génération.s,Géné,3.1333333333333333
-2018-06-01,France Info TV,MAG,Thomas Isabelle,Génération.s,Géné,2.1333333333333333
-2018-09-01,RMC,JT,Thomas Isabelle,Génération.s,Géné,1.0333333333333334
+2018-11-01,France Info TV,PROG,Thomas Isabelle,Génération.s,Génération.s,15.416666666666666
+2018-10-01,France Info TV,MAG,Thomas Isabelle,Génération.s,Génération.s,3.1333333333333333
+2018-06-01,France Info TV,MAG,Thomas Isabelle,Génération.s,Génération.s,2.1333333333333333
+2018-09-01,RMC,JT,Thomas Isabelle,Génération.s,Génération.s,1.0333333333333334
 2018-01-01,France Info,JT,Thomas Isabelle,Parti Socialiste,PS,6.266666666666667
-2018-12-01,France Info,JT,Thomas Isabelle,Génération.s,Géné,1.35
+2018-12-01,France Info,JT,Thomas Isabelle,Génération.s,Génération.s,1.35
 2018-07-01,France Info TV,JT,Untermaier Cecile,Parti Socialiste,PS,2.85
 2018-12-01,BFM TV,MAG,Untermaier Cecile,Parti Socialiste,PS,1.85
 2018-12-01,C NEWS,MAG,Untermaier Cecile,Parti Socialiste,PS,1.8666666666666667
@@ -21082,12 +21082,12 @@ month,station,prog_type,name,label,party,time
 2018-06-01,LCI,MAG,Alliot Marie Michele,Les Républicains,LR,73.65
 2018-05-01,Radio Classique,JT,Alliot Marie Michele,Les Républicains,LR,2.45
 2018-08-01,France Info,JT,Alliot Marie Michele,Les Républicains,LR,8.583333333333334
-2018-09-01,France Info TV,MAG,Balas Guillaume,Génération.s,Géné,6.983333333333333
-2018-09-01,France Info TV,PROG,Balas Guillaume,Génération.s,Géné,10.4
-2018-06-01,France Info TV,PROG,Balas Guillaume,Génération.s,Géné,3.25
-2018-05-01,RMC,MAG,Balas Guillaume,Génération.s,Géné,1.2
-2018-05-01,Sud Radio,JT,Balas Guillaume,Génération.s,Géné,1.1333333333333333
-2018-08-01,France Info,JT,Balas Guillaume,Génération.s,Géné,3.8833333333333333
+2018-09-01,France Info TV,MAG,Balas Guillaume,Génération.s,Génération.s,6.983333333333333
+2018-09-01,France Info TV,PROG,Balas Guillaume,Génération.s,Génération.s,10.4
+2018-06-01,France Info TV,PROG,Balas Guillaume,Génération.s,Génération.s,3.25
+2018-05-01,RMC,MAG,Balas Guillaume,Génération.s,Génération.s,1.2
+2018-05-01,Sud Radio,JT,Balas Guillaume,Génération.s,Génération.s,1.1333333333333333
+2018-08-01,France Info,JT,Balas Guillaume,Génération.s,Génération.s,3.8833333333333333
 2018-11-01,RMC Story,MAG,Berlivet Eric,Union Des Démocrates Et Indépendants,UDI,4.25
 2018-11-01,RMC Découverte,MAG,Berlivet Eric,Union Des Démocrates Et Indépendants,UDI,2.4166666666666665
 2018-11-01,LCI,JT,Berlivet Eric,Union Des Démocrates Et Indépendants,UDI,8.133333333333333
@@ -21100,12 +21100,12 @@ month,station,prog_type,name,label,party,time
 2018-11-01,LCI,JT,Bernasconi Sabine,Les Républicains,LR,1.4
 2018-11-01,France Info TV,JT,Bernasconi Sabine,Les Républicains,LR,7.833333333333333
 2018-11-01,France Info,JT,Bernasconi Sabine,Les Républicains,LR,12.683333333333334
-2018-04-01,France Info,JT,Bouchet Christophe,Mouvement Radical,NA,3.4
-2018-11-01,France Inter,JT,Bouchet Christophe,Mouvement Radical,NA,1.8
-2018-05-01,France Info,JT,Bouchet Christophe,Mouvement Radical,NA,11.4
+2018-04-01,France Info,JT,Bouchet Christophe,Mouvement Radical,Mouvement Radical,3.4
+2018-11-01,France Inter,JT,Bouchet Christophe,Mouvement Radical,Mouvement Radical,1.8
+2018-05-01,France Info,JT,Bouchet Christophe,Mouvement Radical,Mouvement Radical,11.4
 2018-05-01,Europe 1,MAG,Bouchet Christophe,Union Des Démocrates Et Indépendants,UDI,3.35
 2018-05-01,Europe 1,PROG,Bouchet Christophe,Union Des Démocrates Et Indépendants,UDI,4.85
-2018-12-01,France Info,JT,Bouchet Christophe,Mouvement Radical,NA,6.066666666666666
+2018-12-01,France Info,JT,Bouchet Christophe,Mouvement Radical,Mouvement Radical,6.066666666666666
 2018-11-01,LCI,MAG,Bourguignon Brigitte,La République En Marche,LREM,2.066666666666667
 2018-11-01,France Info TV,JT,Bourguignon Brigitte,La République En Marche,LREM,9.066666666666666
 2018-06-01,France Inter,MAG,Bourguignon Brigitte,La République En Marche,LREM,13.4
@@ -21166,18 +21166,18 @@ month,station,prog_type,name,label,party,time
 2018-02-01,France Info,JT,De Mazieres Francois,Divers Droite,Droite,1.3333333333333333
 2018-09-01,France Culture,PROG,De Mazieres Francois,Divers Droite,Droite,8.116666666666667
 2018-01-01,Europe 1,MAG,De Mazieres Francois,Les Républicains,LR,7.666666666666667
-2018-04-01,France 5,PROG,De Saint Affrique Lorrain,"Jeanne, Au Secours !",NA,4.933333333333334
-2018-04-01,C8,PROG,De Saint Affrique Lorrain,"Jeanne, Au Secours !",NA,2.966666666666667
-2018-06-01,France 5,PROG,De Saint Affrique Lorrain,"Jeanne, Au Secours !",NA,2.466666666666667
-2018-02-01,C NEWS,JT,De Saint Affrique Lorrain,"Jeanne, Au Secours !",NA,6
-2018-06-01,C NEWS,JT,De Saint Affrique Lorrain,"Jeanne, Au Secours !",NA,1.9166666666666667
-2018-06-01,C NEWS,MAG,De Saint Affrique Lorrain,"Jeanne, Au Secours !",NA,1.9666666666666666
+2018-04-01,France 5,PROG,De Saint Affrique Lorrain,"Jeanne, Au Secours !","Jeanne, Au Secours !",4.933333333333334
+2018-04-01,C8,PROG,De Saint Affrique Lorrain,"Jeanne, Au Secours !","Jeanne, Au Secours !",2.966666666666667
+2018-06-01,France 5,PROG,De Saint Affrique Lorrain,"Jeanne, Au Secours !","Jeanne, Au Secours !",2.466666666666667
+2018-02-01,C NEWS,JT,De Saint Affrique Lorrain,"Jeanne, Au Secours !","Jeanne, Au Secours !",6
+2018-06-01,C NEWS,JT,De Saint Affrique Lorrain,"Jeanne, Au Secours !","Jeanne, Au Secours !",1.9166666666666667
+2018-06-01,C NEWS,MAG,De Saint Affrique Lorrain,"Jeanne, Au Secours !","Jeanne, Au Secours !",1.9666666666666666
 2018-01-01,C NEWS,JT,Degallaix Laurent,Union Des Démocrates Et Indépendants,UDI,1.6
 2018-06-01,BFM TV,JT,Degallaix Laurent,Union Des Démocrates Et Indépendants,UDI,1.8166666666666667
 2018-06-01,LCI,MAG,Degallaix Laurent,La République En Marche,LREM,1.3166666666666667
 2018-04-01,Europe 1,MAG,Degallaix Laurent,Union Des Démocrates Et Indépendants,UDI,3
 2018-07-01,RTL,MAG,Degallaix Laurent,Union Des Démocrates Et Indépendants,UDI,2.966666666666667
-2018-10-01,France Info,JT,Degallaix Laurent,Mouvement Radical,NA,9.366666666666667
+2018-10-01,France Info,JT,Degallaix Laurent,Mouvement Radical,Mouvement Radical,9.366666666666667
 2018-11-01,France 3,MAG,Di Martino Tony,Parti Socialiste,PS,3.35
 2018-04-01,C NEWS,JT,Di Martino Tony,Parti Socialiste,PS,9.016666666666667
 2018-04-01,France Info TV,JT,Di Martino Tony,Parti Socialiste,PS,1.1666666666666667
@@ -21286,12 +21286,12 @@ month,station,prog_type,name,label,party,time
 2018-04-01,Europe 1,MAG,Leproust Gilles,Parti Communiste Français,PCF,6.55
 2018-06-01,France Info,JT,Leproust Gilles,Parti Communiste Français,PCF,6.1
 2018-08-01,France Culture,MAG,Leproust Gilles,Parti Communiste Français,PCF,22.2
-2018-06-01,France 5,MAG,Mamere Noel,Génération.s,Géné,7.2
-2018-01-01,LCI,MAG,Mamere Noel,Génération.s,Géné,36.88333333333333
-2018-05-01,LCI,MAG,Mamere Noel,Génération.s,Géné,23.416666666666668
-2018-02-01,France Info,JT,Mamere Noel,Génération.s,Géné,1.8666666666666667
-2018-02-01,France Culture,JT,Mamere Noel,Génération.s,Géné,2.933333333333333
-2018-08-01,RTL,MAG,Mamere Noel,Génération.s,Géné,2.3
+2018-06-01,France 5,MAG,Mamere Noel,Génération.s,Génération.s,7.2
+2018-01-01,LCI,MAG,Mamere Noel,Génération.s,Génération.s,36.88333333333333
+2018-05-01,LCI,MAG,Mamere Noel,Génération.s,Génération.s,23.416666666666668
+2018-02-01,France Info,JT,Mamere Noel,Génération.s,Génération.s,1.8666666666666667
+2018-02-01,France Culture,JT,Mamere Noel,Génération.s,Génération.s,2.933333333333333
+2018-08-01,RTL,MAG,Mamere Noel,Génération.s,Génération.s,2.3
 2018-11-01,C NEWS,MAG,Mignard Jean Pierre,La République En Marche,LREM,5.733333333333333
 2018-12-01,C NEWS,MAG,Mignard Jean Pierre,La République En Marche,LREM,21
 2018-04-01,France Info,JT,Mignard Jean Pierre,La République En Marche,LREM,21.283333333333335
@@ -21594,11 +21594,11 @@ month,station,prog_type,name,label,party,time
 2018-03-01,France Info,JT,Kaiser Claude,Nouveau Parti Anticapitaliste,NPA,16.833333333333332
 2018-03-01,France Culture,JT,Kaiser Claude,Nouveau Parti Anticapitaliste,NPA,1.05
 2018-05-01,France Culture,PROG,Kaiser Claude,Nouveau Parti Anticapitaliste,NPA,12.233333333333333
-2018-04-01,LCI,MAG,Kribi Romdhane Hella,Génération.s,Géné,16.633333333333333
-2018-03-01,LCI,MAG,Kribi Romdhane Hella,Génération.s,Géné,31.133333333333333
-2018-05-01,LCI,MAG,Kribi Romdhane Hella,Génération.s,Géné,24.266666666666666
-2018-07-01,LCI,MAG,Kribi Romdhane Hella,Génération.s,Géné,10.266666666666667
-2018-12-01,LCI,MAG,Kribi Romdhane Hella,Génération.s,Géné,80.98333333333333
+2018-04-01,LCI,MAG,Kribi Romdhane Hella,Génération.s,Génération.s,16.633333333333333
+2018-03-01,LCI,MAG,Kribi Romdhane Hella,Génération.s,Génération.s,31.133333333333333
+2018-05-01,LCI,MAG,Kribi Romdhane Hella,Génération.s,Génération.s,24.266666666666666
+2018-07-01,LCI,MAG,Kribi Romdhane Hella,Génération.s,Génération.s,10.266666666666667
+2018-12-01,LCI,MAG,Kribi Romdhane Hella,Génération.s,Génération.s,80.98333333333333
 2018-02-01,France Info TV,MAG,Lang Jack,Parti Socialiste,PS,20.166666666666668
 2018-06-01,France Info TV,JT,Lang Jack,Parti Socialiste,PS,1.15
 2018-02-01,France Info,JT,Lang Jack,Parti Socialiste,PS,19.633333333333333
@@ -21642,7 +21642,7 @@ month,station,prog_type,name,label,party,time
 2018-08-01,BFM TV,JT,Martin Philippe,Parti Socialiste,PS,2.35
 2018-12-01,BFM TV,JT,Martin Philippe,Parti Socialiste,PS,1.7666666666666666
 2018-08-01,France Info,JT,Martin Philippe,Parti Socialiste,PS,4.133333333333334
-2018-08-01,France Culture,JT,Martin Philippe,Génération.s,Géné,5.6
+2018-08-01,France Culture,JT,Martin Philippe,Génération.s,Génération.s,5.6
 2018-12-01,Sud Radio,JT,Martin Philippe,Parti Socialiste,PS,1.1333333333333333
 2018-11-01,France Info TV,JT,Masson Jean Louis,Divers Droite,Droite,23.933333333333334
 2018-07-01,BFM TV,JT,Masson Jean Louis,Les Républicains,LR,2.3333333333333335
@@ -21746,9 +21746,9 @@ month,station,prog_type,name,label,party,time
 2018-02-01,France Info,JT,Schlegel Eric,Divers Droite,Droite,11.6
 2018-02-01,C NEWS,JT,Serne Pierre,EELV,EELV,2.783333333333333
 2018-02-01,LCI,MAG,Serne Pierre,EELV,EELV,30.266666666666666
-2018-11-01,France Info,JT,Serne Pierre,Génération.s,Géné,5.616666666666666
-2018-07-01,France Inter,MAG,Serne Pierre,Génération.s,Géné,10.3
-2018-12-01,Sud Radio,MAG,Serne Pierre,Génération.s,Géné,3.783333333333333
+2018-11-01,France Info,JT,Serne Pierre,Génération.s,Génération.s,5.616666666666666
+2018-07-01,France Inter,MAG,Serne Pierre,Génération.s,Génération.s,10.3
+2018-12-01,Sud Radio,MAG,Serne Pierre,Génération.s,Génération.s,3.783333333333333
 2018-08-01,RMC Story,MAG,Souyris Anne,EELV,EELV,4.983333333333333
 2018-08-01,LCI,JT,Souyris Anne,EELV,EELV,2.5833333333333335
 2018-09-01,France Culture,MAG,Souyris Anne,EELV,EELV,3.933333333333333
@@ -21842,10 +21842,10 @@ month,station,prog_type,name,label,party,time
 2018-11-01,RMC,MAG,Benquet Daniel,Agir,Agir,7.166666666666667
 2018-10-01,Europe 1,MAG,Benquet Daniel,Agir,Agir,2.35
 2018-12-01,RMC,MAG,Benquet Daniel,Agir,Agir,11.733333333333333
-2018-01-01,LCI,MAG,Bertinotti Dominique,Génération.s,Géné,10.266666666666667
-2018-11-01,France Info TV,PROG,Bertinotti Dominique,Génération.s,Géné,6.433333333333334
-2018-07-01,LCI,MAG,Bertinotti Dominique,Génération.s,Géné,8.733333333333333
-2018-01-01,RTL,MAG,Bertinotti Dominique,Génération.s,Géné,5.95
+2018-01-01,LCI,MAG,Bertinotti Dominique,Génération.s,Génération.s,10.266666666666667
+2018-11-01,France Info TV,PROG,Bertinotti Dominique,Génération.s,Génération.s,6.433333333333334
+2018-07-01,LCI,MAG,Bertinotti Dominique,Génération.s,Génération.s,8.733333333333333
+2018-01-01,RTL,MAG,Bertinotti Dominique,Génération.s,Génération.s,5.95
 2018-09-01,C NEWS,JT,Blache Pascal,Les Républicains,LR,2.55
 2018-10-01,C NEWS,JT,Blache Pascal,Les Républicains,LR,2.716666666666667
 2018-09-01,France Info,JT,Blache Pascal,Divers Droite,Droite,1.95
@@ -21946,7 +21946,7 @@ month,station,prog_type,name,label,party,time
 2018-02-01,France Info,JT,Fleury Jean Marc,EELV,EELV,7.683333333333334
 2018-01-01,France Info,JT,Fleury Jean Marc,EELV,EELV,3.6166666666666667
 2018-03-01,France Info,JT,Fleury Jean Marc,EELV,EELV,5.683333333333334
-2018-11-01,BFM TV,MAG,Fructus Arlette,Mouvement Radical,NA,2.816666666666667
+2018-11-01,BFM TV,MAG,Fructus Arlette,Mouvement Radical,Mouvement Radical,2.816666666666667
 2018-11-01,France Info TV,PROG,Fructus Arlette,Union Des Démocrates Et Indépendants,UDI,2.7666666666666666
 2018-11-01,France Inter,JT,Fructus Arlette,Union Des Démocrates Et Indépendants,UDI,3.966666666666667
 2018-11-01,France Info,JT,Fructus Arlette,Union Des Démocrates Et Indépendants,UDI,14.5
@@ -21966,10 +21966,10 @@ month,station,prog_type,name,label,party,time
 2018-04-01,LCI,JT,Gicquel Herve,Les Républicains,LR,1.2666666666666666
 2018-04-01,France Info,JT,Gicquel Herve,Les Républicains,LR,3.0833333333333335
 2018-04-01,RTL,MAG,Gicquel Herve,Les Républicains,LR,2.55
-2018-11-01,C8,PROG,Glucksmann Raphael,Place Publique,NA,12.616666666666667
-2018-11-01,France Inter,MAG,Glucksmann Raphael,Place Publique,NA,11.266666666666667
-2018-11-01,RTL,MAG,Glucksmann Raphael,Place Publique,NA,9.366666666666667
-2018-12-01,France Inter,MAG,Glucksmann Raphael,Place Publique,NA,14.166666666666666
+2018-11-01,C8,PROG,Glucksmann Raphael,Place Publique,Place Publique,12.616666666666667
+2018-11-01,France Inter,MAG,Glucksmann Raphael,Place Publique,Place Publique,11.266666666666667
+2018-11-01,RTL,MAG,Glucksmann Raphael,Place Publique,Place Publique,9.366666666666667
+2018-12-01,France Inter,MAG,Glucksmann Raphael,Place Publique,Place Publique,14.166666666666666
 2018-12-01,BFM TV,JT,Gomez Bassac Valerie,La République En Marche,LREM,11.616666666666667
 2018-12-01,C NEWS,MAG,Gomez Bassac Valerie,La République En Marche,LREM,8.35
 2018-12-01,France Info TV,JT,Gomez Bassac Valerie,La République En Marche,LREM,6.25
@@ -22106,10 +22106,10 @@ month,station,prog_type,name,label,party,time
 2018-02-01,France Info,JT,Orsucci Jean Charles,La République En Marche,LREM,3.5833333333333335
 2018-05-01,RMC,MAG,Orsucci Jean Charles,La République En Marche,LREM,11.233333333333333
 2018-07-01,France Info,JT,Orsucci Jean Charles,La République En Marche,LREM,9.683333333333334
-2018-11-01,BFM TV,MAG,Ouraoui Mehdi,Génération.s,Géné,18.3
-2018-11-01,C NEWS,MAG,Ouraoui Mehdi,Génération.s,Géné,17.25
-2018-10-01,C NEWS,MAG,Ouraoui Mehdi,Génération.s,Géné,6.466666666666667
-2018-10-01,Sud Radio,MAG,Ouraoui Mehdi,Génération.s,Géné,3.533333333333333
+2018-11-01,BFM TV,MAG,Ouraoui Mehdi,Génération.s,Génération.s,18.3
+2018-11-01,C NEWS,MAG,Ouraoui Mehdi,Génération.s,Génération.s,17.25
+2018-10-01,C NEWS,MAG,Ouraoui Mehdi,Génération.s,Génération.s,6.466666666666667
+2018-10-01,Sud Radio,MAG,Ouraoui Mehdi,Génération.s,Génération.s,3.533333333333333
 2018-11-01,France Info,JT,Palombi Francis,La République En Marche,LREM,4.066666666666666
 2018-11-01,Sud Radio,MAG,Palombi Francis,La République En Marche,LREM,10.716666666666667
 2018-12-01,France Info,JT,Palombi Francis,La République En Marche,LREM,12.6
@@ -22122,10 +22122,10 @@ month,station,prog_type,name,label,party,time
 2018-02-01,France Culture,MAG,Paul Christian,Parti Socialiste,PS,13.916666666666666
 2018-01-01,France Culture,MAG,Paul Christian,Parti Socialiste,PS,13.133333333333333
 2018-05-01,France Culture,MAG,Paul Christian,Parti Socialiste,PS,8.983333333333333
-2018-06-01,France Inter,MAG,Picard Jean Christophe,Mouvement Radical,NA,1.0666666666666667
-2018-06-01,France Info,JT,Picard Jean Christophe,Mouvement Radical,NA,12.666666666666666
-2018-06-01,France Culture,JT,Picard Jean Christophe,Mouvement Radical,NA,1.1166666666666667
-2018-11-01,France Info,JT,Picard Jean Christophe,Mouvement Radical,NA,10.45
+2018-06-01,France Inter,MAG,Picard Jean Christophe,Mouvement Radical,Mouvement Radical,1.0666666666666667
+2018-06-01,France Info,JT,Picard Jean Christophe,Mouvement Radical,Mouvement Radical,12.666666666666666
+2018-06-01,France Culture,JT,Picard Jean Christophe,Mouvement Radical,Mouvement Radical,1.1166666666666667
+2018-11-01,France Info,JT,Picard Jean Christophe,Mouvement Radical,Mouvement Radical,10.45
 2018-11-01,France Info TV,JT,Pires Beaune Christine,Parti Socialiste,PS,10.483333333333333
 2018-12-01,France Info TV,JT,Pires Beaune Christine,Parti Socialiste,PS,3.0166666666666666
 2018-09-01,France Info,JT,Pires Beaune Christine,Parti Socialiste,PS,3.1333333333333333
@@ -22220,7 +22220,7 @@ month,station,prog_type,name,label,party,time
 2018-06-01,BFM TV,JT,Balkany Patrick,Les Républicains,LR,2.75
 2018-06-01,Europe 1,MAG,Baloge Jerome,Union Des Démocrates Et Indépendants,UDI,9.5
 2018-09-01,Europe 1,JT,Baloge Jerome,Union Des Démocrates Et Indépendants,UDI,3.7333333333333334
-2018-05-01,France Inter,MAG,Baloge Jerome,Mouvement Radical,NA,1.3
+2018-05-01,France Inter,MAG,Baloge Jerome,Mouvement Radical,Mouvement Radical,1.3
 2018-03-01,France Info TV,JT,Bamana Anchya,Les Républicains,LR,12.466666666666667
 2018-02-01,France Inter,MAG,Bamana Anchya,Les Républicains,LR,6.233333333333333
 2018-03-01,France Info,JT,Bamana Anchya,Les Républicains,LR,2.7333333333333334
@@ -22314,12 +22314,12 @@ month,station,prog_type,name,label,party,time
 2018-12-01,LCI,JT,Castang Alain,Parti Socialiste,PS,1.4666666666666666
 2018-12-01,LCI,MAG,Castang Alain,Parti Socialiste,PS,5.883333333333334
 2018-09-01,France Info,JT,Castang Alain,Parti Socialiste,PS,1.05
-2018-11-01,France Info TV,JT,Chancel Lucas,Place Publique,NA,18.25
-2018-12-01,France Info TV,MAG,Chancel Lucas,Place Publique,NA,11.25
-2018-12-01,France Culture,PROG,Chancel Lucas,Place Publique,NA,14.516666666666667
-2018-09-01,C NEWS,MAG,Cherki Pascal,Génération.s,Géné,4.633333333333334
-2018-12-01,France Info TV,JT,Cherki Pascal,Génération.s,Géné,11.65
-2018-03-01,RMC,MAG,Cherki Pascal,Génération.s,Géné,25.166666666666668
+2018-11-01,France Info TV,JT,Chancel Lucas,Place Publique,Place Publique,18.25
+2018-12-01,France Info TV,MAG,Chancel Lucas,Place Publique,Place Publique,11.25
+2018-12-01,France Culture,PROG,Chancel Lucas,Place Publique,Place Publique,14.516666666666667
+2018-09-01,C NEWS,MAG,Cherki Pascal,Génération.s,Génération.s,4.633333333333334
+2018-12-01,France Info TV,JT,Cherki Pascal,Génération.s,Génération.s,11.65
+2018-03-01,RMC,MAG,Cherki Pascal,Génération.s,Génération.s,25.166666666666668
 2018-11-01,BFM TV,MAG,Chretien Alain,Les Républicains,LR,1.1666666666666667
 2018-11-01,LCI,MAG,Chretien Alain,Les Républicains,LR,1.1666666666666667
 2018-01-01,Europe 1,JT,Chretien Alain,Les Républicains,LR,3.85
@@ -22434,9 +22434,9 @@ month,station,prog_type,name,label,party,time
 2018-06-01,C NEWS,MAG,Giraud Joel,La République En Marche,LREM,2.2333333333333334
 2018-07-01,France Info,JT,Giraud Joel,La République En Marche,LREM,2.683333333333333
 2018-07-01,France Culture,MAG,Giraud Joel,La République En Marche,LREM,29.9
-2018-12-01,France Info TV,MAG,Giusti Jerome,Place Publique,NA,7.25
-2018-12-01,France Info,JT,Giusti Jerome,Place Publique,NA,17.383333333333333
-2018-12-01,France Info,MAG,Giusti Jerome,Place Publique,NA,7.333333333333333
+2018-12-01,France Info TV,MAG,Giusti Jerome,Place Publique,Place Publique,7.25
+2018-12-01,France Info,JT,Giusti Jerome,Place Publique,Place Publique,17.383333333333333
+2018-12-01,France Info,MAG,Giusti Jerome,Place Publique,Place Publique,7.333333333333333
 2018-01-01,C NEWS,MAG,Guerriau Joel,Union Des Démocrates Et Indépendants,UDI,10.266666666666667
 2018-01-01,LCI,MAG,Guerriau Joel,Union Des Démocrates Et Indépendants,UDI,45.85
 2018-01-01,RTL,MAG,Guerriau Joel,Union Des Démocrates Et Indépendants,UDI,2.3333333333333335
@@ -22447,8 +22447,8 @@ month,station,prog_type,name,label,party,time
 2018-09-01,France Inter,MAG,Gustin Philippe,Les Républicains,LR,1.2
 2018-09-01,France Info,JT,Gustin Philippe,Les Républicains,LR,14.133333333333333
 2018-08-01,France Info TV,PROG,Henartlaurent,Union Des Démocrates Et Indépendants,UDI,5.966666666666667
-2018-09-01,BFM,MAG,Henartlaurent,Mouvement Radical,NA,8.833333333333334
-2018-03-01,BFM,MAG,Henartlaurent,Mouvement Radical,NA,20.766666666666666
+2018-09-01,BFM,MAG,Henartlaurent,Mouvement Radical,Mouvement Radical,8.833333333333334
+2018-03-01,BFM,MAG,Henartlaurent,Mouvement Radical,Mouvement Radical,20.766666666666666
 2018-11-01,France Culture,MAG,Herlin Philippe,Les Républicains,LR,4.266666666666667
 2018-11-01,France Culture,PROG,Herlin Philippe,Les Républicains,LR,10.883333333333333
 2018-08-01,France Info,JT,Herlin Philippe,Les Républicains,LR,16.216666666666665
@@ -22506,9 +22506,9 @@ month,station,prog_type,name,label,party,time
 2018-01-01,LCI,MAG,Lejoindre Eric,Parti Socialiste,PS,5.516666666666667
 2018-05-01,BFM TV,JT,Lejoindre Eric,Parti Socialiste,PS,1.7333333333333334
 2018-05-01,France Info,JT,Lejoindre Eric,Parti Socialiste,PS,2.9166666666666665
-2018-08-01,RMC Découverte,MAG,Leonie Vincent,Mouvement Radical,NA,5.333333333333333
-2018-08-01,LCI,MAG,Leonie Vincent,Mouvement Radical,NA,4.433333333333334
-2018-08-01,RMC,MAG,Leonie Vincent,Mouvement Radical,NA,5.333333333333333
+2018-08-01,RMC Découverte,MAG,Leonie Vincent,Mouvement Radical,Mouvement Radical,5.333333333333333
+2018-08-01,LCI,MAG,Leonie Vincent,Mouvement Radical,Mouvement Radical,4.433333333333334
+2018-08-01,RMC,MAG,Leonie Vincent,Mouvement Radical,Mouvement Radical,5.333333333333333
 2018-07-01,France Info TV,JT,Lepick Olivier,Divers Droite,Droite,1.45
 2018-04-01,France Info,JT,Lepick Olivier,Divers Droite,Droite,32.4
 2018-03-01,France Info,JT,Lepick Olivier,Divers Droite,Droite,16.5
@@ -22536,9 +22536,9 @@ month,station,prog_type,name,label,party,time
 2018-11-01,France Inter,PROG,Mauborgne Sereine,La République En Marche,LREM,1.2333333333333334
 2018-11-01,RMC,MAG,Mauborgne Sereine,La République En Marche,LREM,17.2
 2018-05-01,France Inter,PROG,Mauborgne Sereine,La République En Marche,LREM,1.3
-2018-09-01,France Info,JT,Maus Didier,Mouvement Radical,NA,12.333333333333334
-2018-10-01,France Info,JT,Maus Didier,Mouvement Radical,NA,5.483333333333333
-2018-12-01,France Info,JT,Maus Didier,Mouvement Radical,NA,10.183333333333334
+2018-09-01,France Info,JT,Maus Didier,Mouvement Radical,Mouvement Radical,12.333333333333334
+2018-10-01,France Info,JT,Maus Didier,Mouvement Radical,Mouvement Radical,5.483333333333333
+2018-12-01,France Info,JT,Maus Didier,Mouvement Radical,Mouvement Radical,10.183333333333334
 2018-09-01,BFM TV,JT,Metairie Christian,EELV,EELV,4.25
 2018-09-01,France Info TV,JT,Metairie Christian,EELV,EELV,5.883333333333334
 2018-09-01,France Info,JT,Metairie Christian,EELV,EELV,7.833333333333333
@@ -22581,9 +22581,9 @@ month,station,prog_type,name,label,party,time
 2018-10-01,BFM TV,JT,Pociello Jacques,Divers Droite,Droite,2.316666666666667
 2018-10-01,France Info TV,JT,Pociello Jacques,Divers Droite,Droite,1.0666666666666667
 2018-10-01,France Info,JT,Pociello Jacques,Divers Droite,Droite,10.4
-2018-11-01,France Info TV,JT,Porcher Thomas,Place Publique,NA,4.733333333333333
-2018-11-01,France Info TV,MAG,Porcher Thomas,Place Publique,NA,6
-2018-12-01,France Info,JT,Porcher Thomas,Place Publique,NA,19.8
+2018-11-01,France Info TV,JT,Porcher Thomas,Place Publique,Place Publique,4.733333333333333
+2018-11-01,France Info TV,MAG,Porcher Thomas,Place Publique,Place Publique,6
+2018-12-01,France Info,JT,Porcher Thomas,Place Publique,Place Publique,19.8
 2018-03-01,BFM TV,JT,Portarrieu Jean Francois,La République En Marche,LREM,5.766666666666667
 2018-06-01,C NEWS,MAG,Portarrieu Jean Francois,La République En Marche,LREM,4.35
 2018-06-01,Sud Radio,MAG,Portarrieu Jean Francois,La République En Marche,LREM,16.4
@@ -22714,8 +22714,8 @@ month,station,prog_type,name,label,party,time
 2018-09-01,France Info,JT,Aime Jules,Parti Socialiste,PS,1.9666666666666666
 2018-05-01,France Info TV,PROG,Alexandre Rodolphe,Divers Gauche,Gauche,1.45
 2018-06-01,France Info TV,PROG,Alexandre Rodolphe,Divers Gauche,Gauche,1.1833333333333333
-2018-07-01,France Info TV,MAG,Alfonsi Francois,Femu A Corsica,NA,1.3333333333333333
-2018-06-01,France Info TV,PROG,Alfonsi Francois,Femu A Corsica,NA,1
+2018-07-01,France Info TV,MAG,Alfonsi Francois,Femu A Corsica,Femu A Corsica,1.3333333333333333
+2018-06-01,France Info TV,PROG,Alfonsi Francois,Femu A Corsica,Femu A Corsica,1
 2018-06-01,C NEWS,MAG,Arend Christophe,La République En Marche,LREM,1.7666666666666666
 2018-06-01,France Info TV,PROG,Arend Christophe,La République En Marche,LREM,1.3
 2018-12-01,France Info,JT,Auber Francois,Divers Gauche,Gauche,1.3166666666666667
@@ -22748,7 +22748,7 @@ month,station,prog_type,name,label,party,time
 2018-10-01,France Info,JT,Biemouret Gisele,Parti Socialiste,PS,3.816666666666667
 2018-07-01,BFM TV,JT,Bigot Joel,Divers Gauche,Gauche,1.2833333333333334
 2018-07-01,LCI,MAG,Bigot Joel,Divers Gauche,Gauche,1.2333333333333334
-2018-02-01,LCI,MAG,Billard Martine,Parti De Gauche,NA,10.666666666666666
+2018-02-01,LCI,MAG,Billard Martine,Parti De Gauche,PG,10.666666666666666
 2018-08-01,Sud Radio,MAG,Billard Martine,La France Insoumise,LFI,13.716666666666667
 2018-09-01,France Info,JT,Bisauta Martine,EELV,EELV,1.6333333333333333
 2018-05-01,France Info,JT,Bisauta Martine,EELV,EELV,1.2333333333333334
@@ -22897,7 +22897,7 @@ month,station,prog_type,name,label,party,time
 2018-02-01,France Info,JT,Detrait Michel,Divers Droite,Droite,1.8
 2018-03-01,France Info,JT,Detrait Michel,Divers Droite,Droite,5.15
 2018-12-01,France 3,JT,Dhumeaux Dominique,Mouvement Démocrate,MODEM,5.366666666666666
-2018-12-01,BFM TV,JT,Dhumeaux Dominique,Sans Étiquette,NA,3.6333333333333333
+2018-12-01,BFM TV,JT,Dhumeaux Dominique,Sans Étiquette,Divers,3.6333333333333333
 2018-12-01,LCI,MAG,Di Pompeo Christophe,La République En Marche,LREM,17.683333333333334
 2018-08-01,France Info,JT,Di Pompeo Christophe,La République En Marche,LREM,2.15
 2018-03-01,BFM TV,JT,Dombreval Loic,La République En Marche,LREM,7.833333333333333
@@ -22981,7 +22981,7 @@ month,station,prog_type,name,label,party,time
 2018-10-01,France Info,JT,Gerbaud Frederique,Les Républicains,LR,4.716666666666667
 2018-12-01,France Info,JT,Gerbaud Frederique,Les Républicains,LR,2.433333333333333
 2018-09-01,France Info,JT,Gernet Jean Baptiste,Parti Socialiste,PS,3.35
-2018-09-01,BFM,MAG,Gernet Jean Baptiste,Génération.s,Géné,3.45
+2018-09-01,BFM,MAG,Gernet Jean Baptiste,Génération.s,Génération.s,3.45
 2018-12-01,BFM TV,MAG,Giazzi Daniele,Les Républicains,LR,2.9
 2018-12-01,C NEWS,MAG,Giazzi Daniele,Les Républicains,LR,3.7333333333333334
 2018-11-01,BFM TV,MAG,Gilles Bruno,Les Républicains,LR,5.883333333333334
@@ -22996,8 +22996,8 @@ month,station,prog_type,name,label,party,time
 2018-03-01,France Info,JT,Gonzales Didier,Les Républicains,LR,1.1333333333333333
 2018-11-01,France Culture,PROG,Goulard Sylvie,Mouvement Démocrate,MODEM,13.533333333333333
 2018-12-01,France Culture,PROG,Goulard Sylvie,Mouvement Démocrate,MODEM,11.983333333333333
-2018-07-01,France Info,JT,Gouttebel Jean Yves,Mouvement Radical,NA,7.45
-2018-07-01,RTL,MAG,Gouttebel Jean Yves,Mouvement Radical,NA,4.55
+2018-07-01,France Info,JT,Gouttebel Jean Yves,Mouvement Radical,Mouvement Radical,7.45
+2018-07-01,RTL,MAG,Gouttebel Jean Yves,Mouvement Radical,Mouvement Radical,4.55
 2018-06-01,France Info,JT,Grandguillaume Laurent,Parti Socialiste,PS,1.9333333333333333
 2018-01-01,France Inter,MAG,Grandguillaume Laurent,Parti Socialiste,PS,5.65
 2018-05-01,LCI,MAG,Grandjean Carole,La République En Marche,LREM,2.8666666666666667
@@ -23042,8 +23042,8 @@ month,station,prog_type,name,label,party,time
 2018-01-01,France Info,JT,Jouin Patrick,Divers Gauche,Gauche,5.85
 2018-09-01,BFM TV,JT,Jourda Gisel,Parti Socialiste,PS,3.15
 2018-07-01,BFM TV,JT,Jourda Gisel,Parti Socialiste,PS,2.6
-2018-11-01,France Info TV,JT,Julie Nina,Caledonie Ensemble,NA,15.716666666666667
-2018-12-01,France Info,JT,Julie Nina,Caledonie Ensemble,NA,1.4333333333333333
+2018-11-01,France Info TV,JT,Julie Nina,Calédonie Ensemble,NA,15.716666666666667
+2018-12-01,France Info,JT,Julie Nina,Calédonie Ensemble,NA,1.4333333333333333
 2018-02-01,France Info,JT,Julien Arnaud,Les Républicains,LR,3.1
 2018-06-01,France Info,JT,Julien Arnaud,Les Républicains,LR,7.333333333333333
 2018-02-01,Europe 1,MAG,Juppe Alain,EELV,EELV,2.7333333333333334
@@ -23074,8 +23074,8 @@ month,station,prog_type,name,label,party,time
 2018-02-01,LCI,MAG,Larghero Denis,Union Des Démocrates Et Indépendants,UDI,8
 2018-09-01,C NEWS,JT,Lauch Francois Xavier,Président De La République En Débat Politique,Exécutif,6.216666666666667
 2018-09-01,C NEWS,MAG,Lauch Francois Xavier,Président De La République En Débat Politique,Exécutif,1.7333333333333334
-2018-11-01,France Info,JT,Laugier Sandra,Génération.s,Géné,13.883333333333333
-2018-11-01,France Culture,MAG,Laugier Sandra,Génération.s,Géné,3.3
+2018-11-01,France Info,JT,Laugier Sandra,Génération.s,Génération.s,13.883333333333333
+2018-11-01,France Culture,MAG,Laugier Sandra,Génération.s,Génération.s,3.3
 2018-06-01,France Info,JT,Laurent Patrice,Parti Socialiste,PS,5.366666666666666
 2018-11-01,Europe 1,MAG,Laurent Patrice,Parti Socialiste,PS,8.883333333333333
 2018-06-01,France Info,JT,Le Deaut Jean Yves,Parti Socialiste,PS,4.116666666666666
@@ -23206,8 +23206,8 @@ month,station,prog_type,name,label,party,time
 2018-05-01,France Info TV,PROG,Nicard Rene,Parti Socialiste,PS,1.85
 2018-12-01,France 2,MAG,Noel Gilles,Parti Socialiste,PS,2.6333333333333333
 2018-04-01,France Info TV,PROG,Noel Gilles,Parti Socialiste,PS,1.5333333333333334
-2018-12-01,France Info TV,MAG,Nouvian Claire,Place Publique,NA,8.8
-2018-12-01,RMC,MAG,Nouvian Claire,Place Publique,NA,14.616666666666667
+2018-12-01,France Info TV,MAG,Nouvian Claire,Place Publique,Place Publique,8.8
+2018-12-01,RMC,MAG,Nouvian Claire,Place Publique,Place Publique,14.616666666666667
 2018-01-01,BFM TV,JT,Ollivier Bertrand,La République En Marche,LREM,4.316666666666666
 2018-01-01,France Info TV,JT,Ollivier Bertrand,Divers Droite,Droite,1.9833333333333334
 2018-06-01,RMC,MAG,Paillard Christophe,Alliance Royale,NA,3.466666666666667
@@ -23238,8 +23238,8 @@ month,station,prog_type,name,label,party,time
 2018-06-01,RTL,JT,Petit Valerie,La République En Marche,LREM,1.1166666666666667
 2018-02-01,Europe 1,MAG,Pietrasanta Sebastien,Parti Socialiste,PS,8.133333333333333
 2018-03-01,RTL,MAG,Pietrasanta Sebastien,Parti Socialiste,PS,5.483333333333333
-2018-03-01,BFM TV,JT,Pinel Sylvia,Mouvement Radical,NA,7.2
-2018-12-01,BFM TV,JT,Pinel Sylvia,Mouvement Radical,NA,2.433333333333333
+2018-03-01,BFM TV,JT,Pinel Sylvia,Mouvement Radical,Mouvement Radical,7.2
+2018-12-01,BFM TV,JT,Pinel Sylvia,Mouvement Radical,Mouvement Radical,2.433333333333333
 2018-05-01,France Info,JT,Piriou Bruno,Parti Communiste Français,PCF,1.0666666666666667
 2018-05-01,RMC,MAG,Piriou Bruno,Divers Gauche,Gauche,6.066666666666666
 2018-04-01,RMC Découverte,MAG,Place Jean Vincent,Parti Ecologiste,NA,1
@@ -23302,7 +23302,7 @@ month,station,prog_type,name,label,party,time
 2018-12-01,France Info,JT,Sansu Nicolas,Parti Communiste Français,PCF,3.05
 2018-10-01,RMC Story,MAG,Satouri Mounir,EELV,EELV,3.6666666666666665
 2018-10-01,RMC,MAG,Satouri Mounir,EELV,EELV,7.333333333333333
-2018-10-01,BFM TV,MAG,Savelli Pierre,Femu A Corsica,NA,9.833333333333334
+2018-10-01,BFM TV,MAG,Savelli Pierre,Femu A Corsica,Femu A Corsica,9.833333333333334
 2018-10-01,France Info,JT,Savelli Pierre,Inseme Per A Corsica,NA,3.8666666666666667
 2018-01-01,BFM TV,JT,Schellenberger Raphael,Les Républicains,LR,1.75
 2018-01-01,RTL,JT,Schellenberger Raphael,Les Républicains,LR,1.8
@@ -23318,8 +23318,8 @@ month,station,prog_type,name,label,party,time
 2018-06-01,RTL,MAG,Serres Cousine Claude,Parti Socialiste,PS,3.65
 2018-02-01,France Info TV,PROG,Serville Gabriel,Parti Progressiste Martiniquais,NA,1
 2018-07-01,France Info,JT,Serville Gabriel,Parti Socialiste,PS,7.266666666666667
-2018-01-01,France Info TV,MAG,Slimani Laura,Génération.s,Géné,7.733333333333333
-2018-01-01,France Info,JT,Slimani Laura,Génération.s,Géné,22.616666666666667
+2018-01-01,France Info TV,MAG,Slimani Laura,Génération.s,Génération.s,7.733333333333333
+2018-01-01,France Info,JT,Slimani Laura,Génération.s,Génération.s,22.616666666666667
 2018-11-01,LCI,JT,Soret Nicolas,Parti Socialiste,PS,5.183333333333334
 2018-01-01,France Info,JT,Soret Nicolas,Parti Socialiste,PS,1.3833333333333333
 2018-08-01,France Info TV,JT,Soulary Charlotte,EELV,EELV,9.4
@@ -23378,8 +23378,8 @@ month,station,prog_type,name,label,party,time
 2018-06-01,RMC,MAG,Vanceunebrock Mialon Laur,La République En Marche,LREM,6.166666666666667
 2018-06-01,France 2,PROG,Vanceunebrock Mialon Laurence,La République En Marche,LREM,8.816666666666666
 2018-09-01,France 5,MAG,Vanceunebrock Mialon Laurence,La République En Marche,LREM,1.25
-2018-01-01,France Inter,PROG,Verchere Francoise,Parti De Gauche,NA,1.9166666666666667
-2018-01-01,France Info,JT,Verchere Francoise,Parti De Gauche,NA,5.416666666666667
+2018-01-01,France Inter,PROG,Verchere Francoise,Parti De Gauche,PG,1.9166666666666667
+2018-01-01,France Info,JT,Verchere Francoise,Parti De Gauche,PG,5.416666666666667
 2018-08-01,France 5,MAG,Verdier Jouclas Marie Christine,La République En Marche,LREM,1.35
 2018-12-01,BFM TV,MAG,Verdier Jouclas Marie Christine,La République En Marche,LREM,6.683333333333334
 2018-11-01,BFM TV,MAG,Verdier Pierre,Divers Gauche,Gauche,1.9833333333333334
@@ -23396,8 +23396,8 @@ month,station,prog_type,name,label,party,time
 2018-05-01,RMC,MAG,Villiers Andre,Union Des Démocrates Et Indépendants,UDI,10.1
 2018-12-01,C NEWS,MAG,Viry Stephane,Les Républicains,LR,3.7
 2018-12-01,France Info TV,JT,Viry Stephane,Les Républicains,LR,4.75
-2018-02-01,France Culture,PROG,Vojinovic Arnaud,Union Populaire Republicaine,NA,9.216666666666667
-2018-04-01,France Info,JT,Vojinovic Arnaud,Union Populaire Republicaine,NA,8.966666666666667
+2018-02-01,France Culture,PROG,Vojinovic Arnaud,Union Populaire Républicaine,NA,9.216666666666667
+2018-04-01,France Info,JT,Vojinovic Arnaud,Union Populaire Républicaine,NA,8.966666666666667
 2018-11-01,BFM TV,MAG,Vuillemin Eric,Les Républicains,LR,1.05
 2018-11-01,LCI,MAG,Vuillemin Eric,Les Républicains,LR,1.0666666666666667
 2018-05-01,C NEWS,JT,Zeribi Karim,EELV,EELV,3.6166666666666667
@@ -23411,7 +23411,7 @@ month,station,prog_type,name,label,party,time
 2018-11-01,France Info,JT,Aguilera Frederic,Les Républicains,LR,1.1666666666666667
 2018-09-01,France Info,JT,Ahmed Soilihi,Les Républicains,LR,1.3166666666666667
 2018-11-01,France Info TV,PROG,Aidenbaum Pierre,Parti Socialiste,PS,7.866666666666666
-2018-11-01,France Inter,PROG,Ajaltouni Nayla,Place Publique,NA,10.983333333333333
+2018-11-01,France Inter,PROG,Ajaltouni Nayla,Place Publique,Place Publique,10.983333333333333
 2018-05-01,France 3,PROG,Albanel Christine,Les Républicains,LR,3.4
 2018-09-01,France Info,JT,Alcala Dominique,Les Républicains,LR,1.35
 2018-02-01,France Inter,MAG,Allemand Patrick,Parti Socialiste,PS,4.533333333333333
@@ -23425,7 +23425,7 @@ month,station,prog_type,name,label,party,time
 2018-07-01,France Info,JT,Andries Jean Philippe,Divers Droite,Droite,1.6666666666666667
 2018-07-01,France Info,JT,Andris Regine,Rassemblement National,RN,1.1833333333333333
 2018-02-01,France Inter,JT,Angelini Jean Christophe,Pe A Corsica,NA,2.066666666666667
-2018-11-01,France Info,JT,Antier Edwige,Mouvement Radical,NA,5.433333333333334
+2018-11-01,France Info,JT,Antier Edwige,Mouvement Radical,Mouvement Radical,5.433333333333334
 2018-01-01,France Inter,MAG,Appere Nathalie,Parti Socialiste,PS,7.3
 2018-11-01,BFM TV,MAG,Araque Fausto,Les Républicains,LR,1.5833333333333333
 2018-10-01,France Inter,MAG,Arcangeli Francois,EELV,EELV,4.4
@@ -23463,7 +23463,7 @@ month,station,prog_type,name,label,party,time
 2018-03-01,France Culture,JT,Barthelemy Regine,EELV,EELV,1.4833333333333334
 2018-12-01,France Info,JT,Bas Marie Noelle,Parti Socialiste,PS,1.15
 2018-11-01,BFM TV,MAG,Bascher Jerome,Les Républicains,LR,3.966666666666667
-2018-11-01,BFM TV,MAG,Bascou Eric,Sans Étiquette,NA,1.8166666666666667
+2018-11-01,BFM TV,MAG,Bascou Eric,Sans Étiquette,Divers,1.8166666666666667
 2018-03-01,RTL,MAG,Bassereau Jean Louis,Divers Droite,Droite,3.6
 2018-11-01,France Culture,JT,Bassire Nathalie,Les Républicains,LR,6.4
 2018-12-01,France Info TV,JT,Baude Bernard,Divers Gauche,Gauche,3.2
@@ -23471,8 +23471,8 @@ month,station,prog_type,name,label,party,time
 2018-01-01,France Info,JT,Baudry Dominique,Divers Droite,Droite,1.4
 2018-03-01,France Inter,MAG,Bauer Eric,Front National,FN,3.466666666666667
 2018-02-01,LCI,MAG,Baumel Laurent,Parti Socialiste,PS,12.283333333333333
-2018-11-01,France Culture,JT,Baumont Stephane,Mouvement Radical,NA,1.0666666666666667
-2018-01-01,France Info,JT,Baylet Jean Michel,Parti Radical De Gauche,NA,1.8166666666666667
+2018-11-01,France Culture,JT,Baumont Stephane,Mouvement Radical,Mouvement Radical,1.0666666666666667
+2018-01-01,France Info,JT,Baylet Jean Michel,Parti Radical De Gauche,PRG,1.8166666666666667
 2018-03-01,BFM TV,MAG,Bazin Malgras Valerie,Les Républicains,LR,2.4833333333333334
 2018-05-01,RMC,MAG,Bazin Thibault,Les Républicains,LR,1.1333333333333333
 2018-04-01,LCI,MAG,Beauchef Frederic,Les Républicains,LR,20.283333333333335
@@ -23488,7 +23488,7 @@ month,station,prog_type,name,label,party,time
 2018-05-01,BFM,MAG,Belot Luc,Parti Socialiste,PS,29.2
 2018-10-01,France Info,JT,Ben Amor Rachid,Divers Droite,Droite,12.1
 2018-07-01,RTL,JT,Benjamin Saint Huile,Parti Socialiste,PS,1.2333333333333334
-2018-12-01,France Info TV,JT,Benlagha Farid,Place Publique,NA,7.7
+2018-12-01,France Info TV,JT,Benlagha Farid,Place Publique,Place Publique,7.7
 2018-02-01,France 5,MAG,Benmouffok Said,Parti Socialiste,PS,4.5
 2018-06-01,Europe 1,JT,Bennetto Bernard,Parti Socialiste,PS,1.5833333333333333
 2018-01-01,RMC,MAG,Bensassa Esther,EELV,EELV,9.666666666666666
@@ -23503,13 +23503,13 @@ month,station,prog_type,name,label,party,time
 2018-12-01,France Info TV,JT,Bez Eleonore,Rassemblement National,RN,14.616666666666667
 2018-05-01,France Info,JT,Bezin Daniel,Divers Droite,Droite,1.5
 2018-01-01,France Inter,MAG,Bianco Jean Louis,Parti Socialiste,PS,3.5166666666666666
-2018-02-01,France 5,MAG,Biancucci Jean,Femu A Corsica,NA,2.2
+2018-02-01,France 5,MAG,Biancucci Jean,Femu A Corsica,Femu A Corsica,2.2
 2018-12-01,RMC,JT,Bidalun Jacques,Divers Droite,Droite,1
 2018-08-01,C NEWS,JT,Bierry Frederic,Les Républicains,LR,5.95
 2018-10-01,France Info,JT,Bietry Charles,Divers Droite,Droite,10.916666666666666
 2018-09-01,France Info,JT,Bignon Jerome,Agir,Agir,1.9333333333333333
 2018-01-01,C NEWS,JT,Billon Annick,Union Des Démocrates Et Indépendants,UDI,3.25
-2018-03-01,France Culture,PROG,Biteau Benoit,Parti Radical De Gauche,NA,11.716666666666667
+2018-03-01,France Culture,PROG,Biteau Benoit,Parti Radical De Gauche,PRG,11.716666666666667
 2018-01-01,France Culture,PROG,Bitoun Pierre,La France Insoumise,LFI,7.666666666666667
 2018-05-01,France Info TV,JT,Blain Yves,Parti Socialiste,PS,2.1166666666666667
 2018-11-01,France Info TV,JT,Blaise Philippe,Divers Droite,Droite,3.85
@@ -23534,7 +23534,7 @@ month,station,prog_type,name,label,party,time
 2018-10-01,France Info,JT,Bole Cedric,Les Républicains,LR,3.5
 2018-09-01,C NEWS,MAG,Bollee Joffrey,Les Patriotes,Patriotes,7.116666666666666
 2018-06-01,France Info,JT,Bolter Flora,Parti Socialiste,PS,1.45
-2018-02-01,RMC,MAG,Bolzan Jean Jacques,Mouvement Radical,NA,11.1
+2018-02-01,RMC,MAG,Bolzan Jean Jacques,Mouvement Radical,Mouvement Radical,11.1
 2018-03-01,France Info,JT,Bonamy Jean Hugues,Union Des Démocrates Et Indépendants,UDI,1.15
 2018-02-01,LCI,MAG,Bonneau Francois,Parti Socialiste,PS,4.433333333333334
 2018-07-01,France Info,JT,Bonnefoy Nicole,Parti Socialiste,PS,3.1666666666666665
@@ -23548,13 +23548,13 @@ month,station,prog_type,name,label,party,time
 2018-09-01,France Info,JT,Bouchy Jean Michel,Divers Gauche,Gauche,2.2666666666666666
 2018-06-01,Europe 1,MAG,Boudie Florent,La République En Marche,LREM,9.45
 2018-03-01,France Culture,PROG,Boudjenah Yasmine,Parti Communiste Français,PCF,4.116666666666666
-2018-01-01,C NEWS,JT,Bouet Charlette,Parti Radical De Gauche,NA,2.1
+2018-01-01,C NEWS,JT,Bouet Charlette,Parti Radical De Gauche,PRG,2.1
 2018-02-01,France Inter,JT,Bougle Fabien,Divers Droite,Droite,2.966666666666667
 2018-11-01,France Info,JT,Bougon Herve,Divers Droite,Droite,1.6
 2018-02-01,France Info,JT,Bouldoire Pierre,Parti Socialiste,PS,2.466666666666667
 2018-02-01,LCI,MAG,Boumediene Thiery Alima,Ensemble,NA,32.8
 2018-03-01,France Info,JT,Bouquin Manon,Front National,FN,2
-2018-07-01,France Info,JT,Bourdeu Josette,Mouvement Radical,NA,3.1166666666666667
+2018-07-01,France Info,JT,Bourdeu Josette,Mouvement Radical,Mouvement Radical,3.1166666666666667
 2018-03-01,France 5,PROG,Bourdi Salah,Union Des Démocrates Et Indépendants,UDI,8.633333333333333
 2018-10-01,BFM TV,JT,Bourgi Hussein,Parti Socialiste,PS,2.35
 2018-01-01,France Culture,JT,Bournat Michel,Les Républicains,LR,5.4
@@ -23562,7 +23562,7 @@ month,station,prog_type,name,label,party,time
 2018-05-01,France Inter,MAG,Bouteghmes Mehdi,Divers Gauche,Gauche,12.733333333333333
 2018-07-01,France Info,JT,Boutruche Marc,Divers Droite,Droite,2.316666666666667
 2018-04-01,France 2,MAG,Bouvard Michel,Les Républicains,LR,1.0833333333333333
-2018-10-01,France Info,JT,Bouye Chantal,Caledonie Ensemble,NA,1.0333333333333334
+2018-10-01,France Info,JT,Bouye Chantal,Calédonie Ensemble,NA,1.0333333333333334
 2018-08-01,France Inter,MAG,Bouyssou Philippe,Parti Communiste Français,PCF,6.816666666666666
 2018-10-01,France Culture,MAG,Boyer Jean Christophe,Parti Socialiste,PS,10.216666666666667
 2018-04-01,C NEWS,JT,Boyer Jean Marc,Les Républicains,LR,6.8
@@ -23609,7 +23609,7 @@ month,station,prog_type,name,label,party,time
 2018-08-01,RTL,MAG,Cardon Christian,Divers Droite,Droite,4.8
 2018-01-01,France Info,JT,Cardosi Orsini Marie Ange,Divers Droite,Droite,1.7
 2018-11-01,LCI,MAG,Carillon Sylvie,Les Républicains,LR,2.216666666666667
-2018-11-01,BFM TV,JT,Carrasco Gerard,Sans Étiquette,NA,2.933333333333333
+2018-11-01,BFM TV,JT,Carrasco Gerard,Sans Étiquette,Divers,2.933333333333333
 2018-12-01,C NEWS,MAG,Carrere Gee Marie Claire,Les Républicains,LR,4.316666666666666
 2018-03-01,France Info TV,JT,Carroz Emmanuel,La France Insoumise,LFI,1.1666666666666667
 2018-09-01,France Info,JT,Carvalhinho Geoffrey,Les Républicains,LR,11.983333333333333
@@ -23617,7 +23617,7 @@ month,station,prog_type,name,label,party,time
 2018-02-01,LCI,MAG,Cascailh Vincent,Les Républicains,LR,29.333333333333332
 2018-09-01,France Info,JT,Caseilles Louis,Parti Socialiste,PS,2.55
 2018-07-01,France Info TV,PROG,Castanier Julia,Parti Communiste Français,PCF,1.8166666666666667
-2018-06-01,France Info TV,PROG,Castanier Michel,Sans Etiquette,NA,1
+2018-06-01,France Info TV,PROG,Castanier Michel,Sans Étiquette,Divers,1
 2018-05-01,France Info,JT,Castellani Michel,Divers Gauche,Gauche,6.633333333333334
 2018-10-01,France Info,JT,Castelli Yannick,Divers Gauche,Gauche,1.4833333333333334
 2018-10-01,France Info,JT,Castex Jean,Les Républicains,LR,2.0166666666666666
@@ -23639,7 +23639,7 @@ month,station,prog_type,name,label,party,time
 2018-07-01,France Info TV,PROG,Chanel Joseph,Divers Droite,Droite,1.45
 2018-09-01,France Culture,MAG,Charlatjean Michel,Parti Communiste Français,PCF,3.2666666666666666
 2018-06-01,BFM TV,JT,Charles Bruno,EELV,EELV,1.1333333333333333
-2018-08-01,LCI,MAG,Charnoz Sandrine,Génération.s,Géné,13.25
+2018-08-01,LCI,MAG,Charnoz Sandrine,Génération.s,Génération.s,13.25
 2018-05-01,France 2,PROG,Chateau Bernard,Divers Droite,Droite,1.1833333333333333
 2018-08-01,France Info,JT,Chaulet Edouard,Parti Communiste Français,PCF,2.3666666666666667
 2018-06-01,Europe 1,MAG,Cheminade Jacques,Solidarite Et Progres,NA,9.7
@@ -23671,12 +23671,12 @@ month,station,prog_type,name,label,party,time
 2018-12-01,France Info,JT,Combes Bernard,Parti Socialiste,PS,1.4833333333333334
 2018-10-01,France Info,JT,Combettes Roland,Parti Socialiste,PS,1.5666666666666667
 2018-07-01,France 2,PROG,Cope Jean Francois,Les Républicains,LR,1.1666666666666667
-2018-01-01,France Culture,PROG,Cordelet Laure,CAP 21,NA,3.15
+2018-01-01,France Culture,PROG,Cordelet Laure,Cap 21,Cap 21,3.15
 2018-05-01,RMC,MAG,Cordier Monique,Les Républicains,LR,19.3
 2018-07-01,France Info,JT,Cormier Bouligeon Francois,La République En Marche,LREM,3.5833333333333335
 2018-07-01,France Info,JT,Corneille Bernard,Divers Gauche,Gauche,2.1
 2018-01-01,France Info,JT,Cornet Denise,Les Patriotes,Patriotes,1.1666666666666667
-2018-10-01,France Culture,PROG,Cornillet Thierry,Mouvement Radical,NA,5.35
+2018-10-01,France Culture,PROG,Cornillet Thierry,Mouvement Radical,Mouvement Radical,5.35
 2018-05-01,France Info,JT,Cornillet Thierry,Divers Gauche,Gauche,1.3
 2018-07-01,France Info,JT,Corpart Claudine,Divers Gauche,Gauche,1.5833333333333333
 2018-02-01,Europe 1,MAG,Cottenye Joelle,Union Des Démocrates Et Indépendants,UDI,1.9666666666666666
@@ -23697,7 +23697,7 @@ month,station,prog_type,name,label,party,time
 2018-06-01,France Info,JT,D Ettore Gilles,Les Républicains,LR,2.433333333333333
 2018-11-01,C NEWS,MAG,D Hauteserre Jeanne,Les Républicains,LR,15.066666666666666
 2018-07-01,France Info,JT,Daguet Anthony,Parti Communiste Français,PCF,7.383333333333334
-2018-03-01,LCI,MAG,Dalongeville Fabrice,Parti Radical De Gauche,NA,8.3
+2018-03-01,LCI,MAG,Dalongeville Fabrice,Parti Radical De Gauche,PRG,8.3
 2018-09-01,France Info,JT,Dambach Danielle,EELV,EELV,5.066666666666666
 2018-01-01,RMC,MAG,Dantec Ronan,EELV,EELV,7.066666666666666
 2018-03-01,France Info TV,PROG,Darbois Rene,EELV,EELV,4.833333333333333
@@ -23785,7 +23785,7 @@ month,station,prog_type,name,label,party,time
 2018-04-01,France 3,PROG,Dumas Roland,Parti Socialiste,PS,11.566666666666666
 2018-09-01,France Culture,PROG,Dumignard Guy,Parti Communiste Français,PCF,16.133333333333333
 2018-04-01,France Info,JT,Dumont Laurence,Parti Socialiste,PS,5.583333333333333
-2018-03-01,France Info TV,JT,Dunoyer Philippe,Caledonie Ensemble,NA,5.433333333333334
+2018-03-01,France Info TV,JT,Dunoyer Philippe,Calédonie Ensemble,NA,5.433333333333334
 2018-07-01,France Info,JT,Dupont Jean Leonce,Les Centristes,LC,1.65
 2018-04-01,France Info,JT,Dupuy Emmanuel,Union Des Démocrates Et Indépendants,UDI,2.15
 2018-06-01,France Info TV,PROG,Duran Alain,Parti Socialiste,PS,1
@@ -23873,7 +23873,7 @@ month,station,prog_type,name,label,party,time
 2018-12-01,C NEWS,JT,Gerard Francis,Parti Socialiste,PS,2.716666666666667
 2018-04-01,France Culture,MAG,Gerard Pascale,Parti Socialiste,PS,5.916666666666667
 2018-04-01,France Culture,MAG,Germain Jean Marc,Parti Socialiste,PS,8.55
-2018-05-01,France Info,JT,Germain Philippe,Caledonie Ensemble,NA,1.8166666666666667
+2018-05-01,France Info,JT,Germain Philippe,Calédonie Ensemble,NA,1.8166666666666667
 2018-02-01,France Info,JT,Gervaise Jean Loup,Parti Socialiste,PS,6.483333333333333
 2018-12-01,BFM TV,JT,Ghomi Hadrien,La République En Marche,LREM,8.916666666666666
 2018-01-01,Radio Classique,JT,Gille Jean Patrick,Parti Socialiste,PS,1.4333333333333333
@@ -23892,8 +23892,8 @@ month,station,prog_type,name,label,party,time
 2018-11-01,LCI,MAG,Gnabaly Mohamed,Divers Gauche,Gauche,8.133333333333333
 2018-05-01,France Inter,MAG,Godfrain Jacques,Les Républicains,LR,5.066666666666666
 2018-02-01,France Info,JT,Goitschel Marielle,Les Républicains,LR,7.05
-2018-12-01,RTL,MAG,Gold Eric,Mouvement Radical,NA,5.066666666666666
-2018-07-01,France Info,JT,Goldgrab Laurence,Mouvement Radical,NA,6.933333333333334
+2018-12-01,RTL,MAG,Gold Eric,Mouvement Radical,Mouvement Radical,5.066666666666666
+2018-07-01,France Info,JT,Goldgrab Laurence,Mouvement Radical,Mouvement Radical,6.933333333333334
 2018-11-01,France Info,JT,Gonthier Daniel,Les Républicains,LR,2.2666666666666666
 2018-10-01,France Info,JT,Gonzalez Grail Ramona,Parti Socialiste,PS,3.9
 2018-03-01,France 5,MAG,Gordon Schor Muriel,Les Républicains,LR,1.05
@@ -23952,13 +23952,13 @@ month,station,prog_type,name,label,party,time
 2018-09-01,France Info,JT,Home Antoine,Parti Socialiste,PS,2.716666666666667
 2018-01-01,TMC,MAG,Houillon Philippe,Les Républicains,LR,1.2
 2018-10-01,France Info,JT,Houlley Eric,Parti Socialiste,PS,1.25
-2018-01-01,France Inter,PROG,Hue Robert,Mouvement des progressistes,NA,26.3
+2018-01-01,France Inter,PROG,Hue Robert,Mouvement des Progressistes,NA,26.3
 2018-03-01,France Info,JT,Huet Guenhael,Les Républicains,LR,2.4833333333333334
 2018-10-01,France Info,JT,Hug Gerard,Union Des Démocrates Et Indépendants,UDI,4.383333333333334
 2018-07-01,France Inter,PROG,Huisman Bruno,Parti Socialiste,PS,6.933333333333334
 2018-06-01,LCI,MAG,Hunault Alain,Les Républicains,LR,1.5833333333333333
 2018-01-01,RMC,JT,Hutin Christian,Parti Socialiste,PS,1.55
-2018-05-01,BFM,MAG,Huwart Harold,Mouvement Radical,NA,50.1
+2018-05-01,BFM,MAG,Huwart Harold,Mouvement Radical,Mouvement Radical,50.1
 2018-11-01,C NEWS,MAG,Idoux Jacques,Divers Droite,Droite,6.916666666666667
 2018-08-01,France 5,PROG,Irigoyen Jean Francois,Les Républicains,LR,1.5166666666666666
 2018-07-01,France Info,JT,Jacques Andre,La France Insoumise,LFI,5.633333333333334
@@ -23990,12 +23990,12 @@ month,station,prog_type,name,label,party,time
 2018-05-01,France 5,MAG,Julie Viot Mathilde,La France Insoumise,LFI,1.1833333333333333
 2018-02-01,Sud Radio,MAG,Juraver Philippe,Divers Gauche,Gauche,4.683333333333334
 2018-07-01,France Info TV,PROG,Karoutzos Christian,Divers Droite,Droite,1.6
-2018-12-01,France Info,JT,Karsenti Jerome,Place Publique,NA,13.933333333333334
+2018-12-01,France Info,JT,Karsenti Jerome,Place Publique,Place Publique,13.933333333333334
 2018-12-01,BFM TV,JT,Kasbarian Guillaume,La République En Marche,LREM,3.283333333333333
 2018-03-01,France Info TV,PROG,Kees Fabien,Divers Droite,Droite,1.1
 2018-03-01,Sud Radio,MAG,Kemoune Mehdi,La France Insoumise,LFI,19.75
 2018-11-01,France Info,JT,Kerdraon Ronan,Parti Socialiste,PS,1
-2018-08-01,C NEWS,MAG,Kergutuil Gaelle,Génération.s,Géné,5.35
+2018-08-01,C NEWS,MAG,Kergutuil Gaelle,Génération.s,Génération.s,5.35
 2018-12-01,France Info TV,JT,Khandjian Arthur,Divers Droite,Droite,2.6666666666666665
 2018-11-01,France Culture,MAG,Kielemoes Dominique,Parti Socialiste,PS,8.033333333333333
 2018-01-01,BFM TV,MAG,Knopfer Charles,Parti Radical,NA,2.4
@@ -24010,9 +24010,9 @@ month,station,prog_type,name,label,party,time
 2018-09-01,C NEWS,MAG,Laazar Fiona,La République En Marche,LREM,7.4
 2018-09-01,BFM TV,MAG,Lacappelle Jean Lin,Rassemblement National,RN,2.716666666666667
 2018-01-01,France Inter,MAG,Lachelache Nassim,Divers Gauche,Gauche,3.5166666666666666
-2018-03-01,C NEWS,JT,Lachenmaier Fabrice,Parti Radical De Gauche,NA,4.433333333333334
+2018-03-01,C NEWS,JT,Lachenmaier Fabrice,Parti Radical De Gauche,PRG,4.433333333333334
 2018-04-01,France Inter,JT,Lacouture Jean Claude,Les Républicains,LR,1.05
-2018-12-01,BFM,MAG,Lacroix Guillaume,Mouvement Radical,NA,9.6
+2018-12-01,BFM,MAG,Lacroix Guillaume,Mouvement Radical,Mouvement Radical,9.6
 2018-06-01,France Inter,PROG,Ladier Gisele,Divers Droite,Droite,1.7666666666666666
 2018-11-01,France Info,JT,Lafleur Isabelle,La République En Marche,LREM,2.716666666666667
 2018-11-01,RMC,MAG,Lafon Bruno,Divers Gauche,Gauche,23.9
@@ -24089,7 +24089,7 @@ month,station,prog_type,name,label,party,time
 2018-06-01,France Info,JT,Loury Jean Francois,Divers Gauche,Gauche,1
 2018-09-01,France Info,JT,Loyer Michel,Rassemblement National,RN,3.0166666666666666
 2018-02-01,France Info,JT,Lozach Jean Jacques,Parti Socialiste,PS,1.1333333333333333
-2018-12-01,LCI,MAG,Lubac Christophe,Génération.s,Géné,2.6166666666666667
+2018-12-01,LCI,MAG,Lubac Christophe,Génération.s,Génération.s,2.6166666666666667
 2018-07-01,France Culture,MAG,Lurel Victorin,Parti Socialiste,PS,25.2
 2018-07-01,BFM TV,JT,Luxembourger Patrick,Union Des Démocrates Et Indépendants,UDI,2.9166666666666665
 2018-04-01,BFM TV,JT,Mabchour Najat,EELV,EELV,2.1333333333333333
@@ -24112,10 +24112,10 @@ month,station,prog_type,name,label,party,time
 2018-08-01,France Info,JT,Marsac Jean Louis,Parti Socialiste,PS,1.2666666666666666
 2018-03-01,France Info,JT,Marti Jeanne,Front National,FN,1.2333333333333334
 2018-12-01,C NEWS,MAG,Martin Didier,La République En Marche,LREM,10.066666666666666
-2018-12-01,BFM TV,JT,Martin Laurent,Sans Étiquette,NA,2.033333333333333
+2018-12-01,BFM TV,JT,Martin Laurent,Sans Étiquette,Divers,2.033333333333333
 2018-01-01,France Info,JT,Martin Stephane,Les Républicains,LR,5.85
 2018-07-01,France Info TV,JT,Martineau David,Parti Socialiste,PS,1.1666666666666667
-2018-12-01,France Info TV,JT,Martins Jean Francois,Mouvement Radical,NA,5.366666666666666
+2018-12-01,France Info TV,JT,Martins Jean Francois,Mouvement Radical,Mouvement Radical,5.366666666666666
 2018-01-01,BFM TV,JT,Masse Jean-Michel,Divers Gauche,Gauche,3
 2018-02-01,France Info,JT,Masson Jean Marie,Divers Gauche,Gauche,2.05
 2018-06-01,TMC,MAG,Mathiasin Max,Mouvement Démocrate,MODEM,1.0666666666666667
@@ -24128,7 +24128,7 @@ month,station,prog_type,name,label,party,time
 2018-07-01,France Info TV,JT,Mazars Stephanie,La République En Marche,LREM,3.216666666666667
 2018-05-01,France Info,JT,Mehal Fadila,Mouvement Démocrate,MODEM,1.1833333333333333
 2018-12-01,France Inter,MAG,Melchior Cyrille,Les Républicains,LR,4.066666666666666
-2018-10-01,LCI,MAG,Meliane Loubna,Génération Ecologie,NA,37.75
+2018-10-01,LCI,MAG,Meliane Loubna,Génération Ecologie,Génération Ecologie,37.75
 2018-10-01,RMC,MAG,Menucci Patrick,Parti Socialiste,PS,3.566666666666667
 2018-12-01,BFM TV,JT,Menuel Gerard,Les Républicains,LR,1.75
 2018-04-01,France Info,JT,Mercher Helene,Divers Gauche,Gauche,2.033333333333333
@@ -24138,15 +24138,15 @@ month,station,prog_type,name,label,party,time
 2018-09-01,RMC,MAG,Metairie Christian,EELV,EELV,13.966666666666667
 2018-12-01,France Info,JT,Meyer Philippe,Les Républicains,LR,4.533333333333333
 2018-11-01,C NEWS,MAG,Michel Kleisbauer Philippe,Mouvement Démocrate,MODEM,7.65
-2018-11-01,France Info TV,JT,Michel Philippe,Caledonie Ensemble,NA,6.366666666666666
+2018-11-01,France Info TV,JT,Michel Philippe,Calédonie Ensemble,NA,6.366666666666666
 2018-03-01,Radio Classique,JT,Miege Benoit,Divers Droite,Droite,1.2333333333333334
 2018-11-01,France Info,JT,Migozzi Jacques,Divers Gauche,Gauche,1.1833333333333333
 2018-11-01,Sud Radio,MAG,Milienne Bruno,Mouvement Démocrate,MODEM,7.9
 2018-08-01,Europe 1,JT,Militant,Les Républicains,LR,1.7166666666666666
-2018-11-01,RMC,MAG,Militant Generations,Génération.s,Géné,5.8
+2018-11-01,RMC,MAG,Militant Generations,Génération.s,Génération.s,5.8
 2018-11-01,France Info,JT,Militant(E) Dvd,Divers Droite,Droite,5.45
 2018-11-01,France Info,JT,Militant(E) Fn,Front De Libération Nationale Kanak Et Socialiste,NA,10.45
-2018-07-01,France Info,JT,Militant(E) Generation.s,Génération.s,Géné,1.0166666666666666
+2018-07-01,France Info,JT,Militant(E) Generation.s,Génération.s,Génération.s,1.0166666666666666
 2018-02-01,C NEWS,JT,Militant(E) Les Patriotes,Les Patriotes,Patriotes,9.5
 2018-03-01,Europe 1,JT,Militant(E) Lrp,Les Républicains,LR,1.55
 2018-09-01,France Info,JT,Militant(E) Ps,Rassemblement National,RN,1.9666666666666666
@@ -24218,7 +24218,7 @@ month,station,prog_type,name,label,party,time
 2018-04-01,Sud Radio,MAG,Pastor Frederic,Les Républicains,LR,2.7333333333333334
 2018-04-01,France Info,JT,Pecchioli Pascal,Divers Gauche,Gauche,1.3
 2018-10-01,France Info TV,PROG,Pelage Camille,Divers Gauche,Gauche,1.8666666666666667
-2018-06-01,Sud Radio,MAG,Pelieu Michel,Mouvement Radical,NA,5.95
+2018-06-01,Sud Radio,MAG,Pelieu Michel,Mouvement Radical,Mouvement Radical,5.95
 2018-05-01,France Info TV,JT,Pellois Herve,La République En Marche,LREM,1.1833333333333333
 2018-05-01,France Culture,PROG,Pena Ruiz Henri,La France Insoumise,LFI,32.93333333333333
 2018-09-01,LCI,JT,Pennelle Gilles,Rassemblement National,RN,1.6666666666666667
@@ -24275,7 +24275,7 @@ month,station,prog_type,name,label,party,time
 2018-11-01,France Info TV,JT,Reignier Gerard,Front De Libération Nationale Kanak Et Socialiste,NA,4.233333333333333
 2018-11-01,France 3,MAG,Renaudin Philippe,La République En Marche,LREM,1.8166666666666667
 2018-07-01,France Info,JT,Renoult Claude,Divers Droite,Droite,6.083333333333333
-2018-07-01,France Info TV,JT,Requier Jean Claude,Parti Radical De Gauche,NA,8.8
+2018-07-01,France Info TV,JT,Requier Jean Claude,Parti Radical De Gauche,PRG,8.8
 2018-06-01,France 5,PROG,Ressiguier Muriel,La France Insoumise,LFI,1.3
 2018-07-01,France Info,JT,Restoux Marie Claire,Divers Droite,Droite,2.65
 2018-06-01,France Info,JT,Reynaud Herve,Divers Droite,Droite,5.216666666666667
@@ -24306,7 +24306,7 @@ month,station,prog_type,name,label,party,time
 2018-11-01,France Info,JT,Roudaut Stephane,Divers Droite,Droite,1.5166666666666666
 2018-07-01,France Info,JT,Roussarie Jean Pierre,Parti Socialiste,PS,1.4
 2018-11-01,BFM TV,JT,Roussel Cedric,La République En Marche,LREM,3.6666666666666665
-2018-09-01,RMC Story,MAG,Rouvier Georges,Sans Étiquette,NA,5.65
+2018-09-01,RMC Story,MAG,Rouvier Georges,Sans Étiquette,Divers,5.65
 2018-11-01,France Info TV,JT,Ruffenach Virginie,Les Républicains,LR,4.116666666666666
 2018-11-01,France Info,JT,Sabarot Henri,Divers Droite,Droite,10.816666666666666
 2018-03-01,Europe 1,MAG,Sagrafena Myriam,Parti Socialiste,PS,3.1
@@ -24323,7 +24323,7 @@ month,station,prog_type,name,label,party,time
 2018-02-01,Europe 1,MAG,Salles Rudy,Les Centristes,LC,3.1333333333333333
 2018-09-01,France Culture,JT,Salmon Alexis,Divers Droite,Droite,1.1833333333333333
 2018-09-01,C NEWS,JT,Salmon Emeric,Rassemblement National,RN,1.55
-2018-11-01,Radio Classique,JT,Salomon Dominique,Mouvement Radical,NA,1
+2018-11-01,Radio Classique,JT,Salomon Dominique,Mouvement Radical,Mouvement Radical,1
 2018-10-01,RTL,JT,Salverte Dominique,Mouvement Démocrate,MODEM,1.2
 2018-06-01,RTL,MAG,Samzun David,Parti Socialiste,PS,3.2333333333333334
 2018-11-01,BFM TV,MAG,Sandra Regol,EELV,EELV,4.8
@@ -24361,10 +24361,10 @@ month,station,prog_type,name,label,party,time
 2018-11-01,LCI,MAG,Soulier Frederic,Les Républicains,LR,38.45
 2018-12-01,France Info,JT,Souriau Yann,Divers Gauche,Gauche,1.2166666666666666
 2018-01-01,BFM TV,JT,Speissmann Stessy,Parti Socialiste,PS,1.1
-2018-12-01,France 5,MAG,Spiegel Jo,Place Publique,NA,10.616666666666667
+2018-12-01,France 5,MAG,Spiegel Jo,Place Publique,Place Publique,10.616666666666667
 2018-02-01,BFM TV,JT,Spilbauer Jean-Pierre,Divers Droite,Droite,4.183333333333334
 2018-10-01,Europe 1,MAG,Spinelli Olivier,La France Insoumise,LFI,3.4
-2018-02-01,France Culture,PROG,Spira Alfred,Génération.s,Géné,3
+2018-02-01,France Culture,PROG,Spira Alfred,Génération.s,Génération.s,3
 2018-09-01,France Culture,JT,Spire Antoine,Parti Socialiste,PS,1.6
 2018-02-01,Europe 1,MAG,Sprotti Bernard,Les Républicains,LR,2.566666666666667
 2018-12-01,France Info,JT,Stalter Bernard,Les Républicains,LR,4
@@ -24445,7 +24445,7 @@ month,station,prog_type,name,label,party,time
 2018-07-01,BFM,MAG,Vlasto Dominique,Les Républicains,LR,6.65
 2018-06-01,BFM TV,JT,Vullien Michel,Union Des Démocrates Et Indépendants,UDI,5.25
 2018-01-01,France Info,JT,Vullierme Didier,Parti Socialiste,PS,1.7833333333333334
-2018-11-01,France Inter,PROG,Waechter Antoine,Mouvement écologiste indépendant,NA,21.033333333333335
+2018-11-01,France Inter,PROG,Waechter Antoine,Mouvement Ecologiste Indépendant,NA,21.033333333333335
 2018-03-01,France Info TV,JT,Wagner Vanessa,Agir,Agir,6.516666666666667
 2018-04-01,France Culture,PROG,Waldschmidt Pascal,Divers Gauche,Gauche,17.166666666666668
 2018-11-01,France Info TV,JT,Washetine Charles,Front De Libération Nationale Kanak Et Socialiste,NA,9

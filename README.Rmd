@@ -13,12 +13,15 @@ knitr::opts_chunk$set(
 )
 
 library(csatimer)
+library(ggplot2)
+library(tidyverse)
+
 
 ```
 
 # csatimer
 
-`csatimer` provides data on how much air time French politician receive in the media. 
+`csatimer` provides data on how much airtime French politician receive in the media. 
 
 The dataset contained in the package are also [available](https://github.com/benjaminguinaudeau/csatimer/tree/master/inst/csv) in the csv-format.
 
@@ -31,59 +34,59 @@ devtools::install_github("benjaminguinaudeau/csatimer")
 
 ## Data
 
-*Last Update: January, 23 2022* 
+*Last Update: January, 29 2022* 
 
 Two types of datasets are provided: 
-  
-  * speaking time of politicians during routine period (no electoral campaigns)
-  * speaking time of candidates during political campaigns
-  
+
+* speaking time of politicians during routine period (no electoral campaigns)
+* speaking time of candidates during political campaigns
+
 ### Routine period (no electoral campaigns)
 
 Every month, the [CSA](https://www.csa.fr/csapluralisme/tableau) collects how long each political personality speaks on each of the major radio and TV stations. 
 
-This dataset can be accessed using `read_csa_routine` and is continuous between September 2017 and November 2021. 
+This dataset can be accessed using `read_csa_routine` and is continuous between September 2017 and January 2022. 
 
 ```{r}
 read_csa_routine() %>%
-  dplyr::glimpse()
+  glimpse
 ```
 
 
 It contains the following columns: 
-  
-  * month <date> `"2017-01-01"`
-  * station <chr> `"TF1", "France 2", "France Inter", ...`
-  * prog_type <chr> `"JT", "MAG", "PROG"`
-  * name <chr> `"Emmanuel Macron", "Marine Le Pen", "François Hollande", ...`
-  * label <chr> `"Président", "Parti Socialiste", "Ministre", "Les Républicains", ...`
-  * party <chr> `"Exécutif" , "Ps", "LR", ...`
-  * time <dbl> 
-  
+
+* month <date> `"2017-01-01"`
+* station <chr> `"TF1", "France 2", "France Inter", ...`
+* prog_type <chr> `"JT", "MAG", "PROG"`
+* name <chr> `"Emmanuel Macron", "Marine Le Pen", "François Hollande", ...`
+* label <chr> `"Président", "Parti Socialiste", "Ministre", "Les Républicains", ...`
+* party <chr> `"Exécutif" , "Ps", "LR", ...`
+* time <dbl> 
+
 Speaking times are measured in minutes. For instance, in September 2017, Emanuel Macron spoke 8.4 minutes on TF1.
-  
+
 `prog_type` refers to different types of TV/Radio shows: 
 
-  * `JT`: newscast
-  * `MAG`: political shows
-  * `PROG`: non-political shows
-  
+* `JT`: newscast
+* `MAG`: political shows
+* `PROG`: non-political shows
+
 ### Electoral campaigns
 
-During electoral campaigns - presidential, legislative and local - , the CSA publishes air time of campaigning candidates [data](https://www.csa.fr/Proteger/Garantie-des-droits-et-libertes/Proteger-le-pluralisme-politique/Pendant-une-election) *every two weeks*. 
+During electoral campaigns - presidential, legislative and local - , the CSA publishes airtime of campaigning candidates [data](https://www.csa.fr/Proteger/Garantie-des-droits-et-libertes/Proteger-le-pluralisme-politique/Pendant-une-election) *every two weeks*. 
 
 For each candidate, three different measures are computed: 
 
-  * `time_candidat`: speaking time of the candidate themselves
-  * `time_support`: speaking time of personalities supporting the candidate
-  * `time_mention`: speaking time of journalists mentioning the candidate
+* `time_candidat`: speaking time of the candidate themselves
+* `time_support`: speaking time of personalities supporting the candidate
+* `time_mention`: speaking time of journalists mentioning the candidate
 
 This dataset can be accessed using `read_csa_election("pres_2022")`. 
 
 Following elections are available: 
 
-  * Presidential elections 2022: `read_csa_election("pres_2022")`
-  * Presidential elections 2017: `read_csa_election("pres_2017")`
+* Presidential elections 2022: `read_csa_election("pres_2022")`
+* Presidential elections 2017: `read_csa_election("pres_2017")`
 
 ```{r}
 read_csa_election("pres_2022")  %>%
@@ -100,4 +103,82 @@ To update the data local version, use `update_csatimer()`
 # Updating data
 update_csatimer()
 ```
+
+## Example {.tabset}
+
+Here are some graphic examples using `csatimer::read_csa_routine()`
+
+### Example 1
+
+```{r}
+read_csa_routine() %>%
+  group_by(month) %>%
+  summarise(n_hours = sum(time, na.rm = T)/60) %>%
+  ggplot(aes(x = month, n_hours)) +
+  geom_line() +
+  theme_minimal() +
+  labs(x = "", y = "Monthly number of hours of political attention", title = "How much do politicians speak in the media?")
+```
+
+### Example 2
+
+
+```{r}
+read_csa_routine() %>%
+  add_station_dummies %>%
+  mutate(private = ifelse(is_private, "Private", "Public")) %>%
+  group_by(private, station, month) %>%
+  summarise(n_hours = sum(time, na.rm = T)/60) %>%
+  ungroup %>%
+  mutate(station = fct_reorder(station, n_hours)) %>%
+  ggplot(aes(x = station, n_hours, fill = private)) +
+  geom_boxplot(outlier.alpha = 0) +
+  coord_flip() +
+  labs(x = "Media outlet", y = "\nMonthly number of hours of political attention", fill = "") +
+  theme_minimal() 
+```
+
+### Example 3
+
+
+```{r}
+read_csa_routine() %>% 
+  group_by(party, name) %>%
+  summarise(n_hours = sum(time, na.rm = T)/60) %>%
+  ungroup %>%
+  slice_max(n_hours, n = 20) %>%
+  mutate(name = fct_reorder(name, n_hours)) %>%
+  ggplot(aes(x = name, y = n_hours, fill = party)) +
+  geom_col() +
+  coord_flip() +
+  theme_minimal() +
+  labs(x = "Politicians", y = "Total Number of hours")
+```
+
+### Example 4
+
+
+```{r, fig.height = 5, fig.width = 8}
+read_csa_routine() %>% 
+  filter(month > lubridate::dmy("07-01-2021")) %>%
+  filter(station %in% c("TF1", "France 2", "France 3", "C8")) %>%
+  group_by(station, party, name) %>%
+  summarise(n_hours = sum(time, na.rm = T)/60) %>%
+  ungroup %>%
+  group_by(station) %>%
+  slice_max(n_hours, n = 20) %>%
+  ungroup %>%
+  mutate(name = fct_reorder(name, n_hours)) %>%
+  ggplot(aes(x = name, y = n_hours, fill = party)) +
+  geom_col() +
+  coord_flip() +
+  theme_minimal() +
+  facet_wrap(~station, scales = "free") +
+  labs(x = "Politicians", y = "Total Number of hours") +
+  ggtitle("Which politicians obtained the highest attention on four channel since July 2022?")
+```
+
+
+
+
 

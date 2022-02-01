@@ -348,7 +348,7 @@ month,station,prog_type,name,label,party,time
 2017-07-01,BFM TV,MAG,Melenchon Jean Luc,La France Insoumise,LFI,34.65
 2017-07-01,C NEWS,JT,Melenchon Jean Luc,La France Insoumise,LFI,21.7
 2017-07-01,C NEWS,MAG,Melenchon Jean Luc,La France Insoumise,LFI,28.7
-2017-07-01,C NEWS,MAG,Melenchon Jean Luc,Parti De Gauche,NA,1.1166666666666667
+2017-07-01,C NEWS,MAG,Melenchon Jean Luc,Parti De Gauche,PG,1.1166666666666667
 2017-07-01,LCI,JT,Melenchon Jean Luc,La France Insoumise,LFI,28.733333333333334
 2017-07-01,LCI,MAG,Melenchon Jean Luc,La France Insoumise,LFI,43.983333333333334
 2017-07-01,France Info TV,JT,Melenchon Jean Luc,La France Insoumise,LFI,31.75
@@ -731,8 +731,8 @@ month,station,prog_type,name,label,party,time
 2017-08-01,BFM,JT,Castaner Christophe,Ministre,Exécutif,2.65
 2017-08-01,RMC,JT,Castaner Christophe,Ministre,Exécutif,4.116666666666666
 2017-08-01,RMC,MAG,Castaner Christophe,Ministre,Exécutif,24.2
-2017-08-01,RTL,JT,Castaner Christophe,Secretaire Etat,NA,2.2
-2017-08-01,RTL,MAG,Castaner Christophe,Secretaire Etat,NA,5.216666666666667
+2017-08-01,RTL,JT,Castaner Christophe,Secretaire Etat,Exécutif,2.2
+2017-08-01,RTL,MAG,Castaner Christophe,Secretaire Etat,Exécutif,5.216666666666667
 2017-09-01,TF1,JT,Le Pen Marine,Front National,FN,7.166666666666667
 2017-09-01,France 2,JT,Le Pen Marine,Front National,FN,10.766666666666667
 2017-09-01,France 3,JT,Le Pen Marine,Front National,FN,2.5166666666666666
@@ -842,7 +842,7 @@ month,station,prog_type,name,label,party,time
 2017-10-01,France 2,JT,Hamon Benoit,Mouvement Du 1er Juillet,NA,7.416666666666667
 2017-10-01,France 5,MAG,Hamon Benoit,Mouvement Du 1er Juillet,NA,1.65
 2017-10-01,France 5,PROG,Hamon Benoit,Mouvement Du 1er Juillet,NA,46.46666666666667
-2017-12-01,France 5,PROG,Hamon Benoit,Génération.s,Géné,1.1666666666666667
+2017-12-01,France 5,PROG,Hamon Benoit,Génération.s,Génération.s,1.1666666666666667
 2017-07-01,BFM TV,JT,Hamon Benoit,Mouvement Du 1er Juillet,NA,40.75
 2017-07-01,BFM TV,MAG,Hamon Benoit,Mouvement Du 1er Juillet,NA,43.11666666666667
 2017-07-01,C NEWS,JT,Hamon Benoit,Mouvement Du 1er Juillet,NA,16.45
@@ -868,15 +868,15 @@ month,station,prog_type,name,label,party,time
 2017-10-01,France Info TV,JT,Hamon Benoit,Mouvement Du 1er Juillet,NA,3.4833333333333334
 2017-10-01,France Info TV,MAG,Hamon Benoit,Mouvement Du 1er Juillet,NA,1.25
 2017-10-01,France Info TV,PROG,Hamon Benoit,Mouvement Du 1er Juillet,NA,1.4
-2017-12-01,BFM TV,JT,Hamon Benoit,Génération.s,Géné,1.9333333333333333
-2017-12-01,BFM TV,MAG,Hamon Benoit,Génération.s,Géné,1.5833333333333333
-2017-12-01,C NEWS,JT,Hamon Benoit,Génération.s,Géné,10.8
-2017-12-01,C NEWS,MAG,Hamon Benoit,Génération.s,Géné,2.0833333333333335
-2017-12-01,LCI,JT,Hamon Benoit,Génération.s,Géné,4.2
-2017-12-01,LCI,MAG,Hamon Benoit,Génération.s,Géné,96.61666666666666
-2017-12-01,France Info TV,JT,Hamon Benoit,Génération.s,Géné,1.5333333333333334
-2017-12-01,France Info TV,MAG,Hamon Benoit,Génération.s,Géné,5.066666666666666
-2017-12-01,France Info TV,PROG,Hamon Benoit,Génération.s,Géné,1.0166666666666666
+2017-12-01,BFM TV,JT,Hamon Benoit,Génération.s,Génération.s,1.9333333333333333
+2017-12-01,BFM TV,MAG,Hamon Benoit,Génération.s,Génération.s,1.5833333333333333
+2017-12-01,C NEWS,JT,Hamon Benoit,Génération.s,Génération.s,10.8
+2017-12-01,C NEWS,MAG,Hamon Benoit,Génération.s,Génération.s,2.0833333333333335
+2017-12-01,LCI,JT,Hamon Benoit,Génération.s,Génération.s,4.2
+2017-12-01,LCI,MAG,Hamon Benoit,Génération.s,Génération.s,96.61666666666666
+2017-12-01,France Info TV,JT,Hamon Benoit,Génération.s,Génération.s,1.5333333333333334
+2017-12-01,France Info TV,MAG,Hamon Benoit,Génération.s,Génération.s,5.066666666666666
+2017-12-01,France Info TV,PROG,Hamon Benoit,Génération.s,Génération.s,1.0166666666666666
 2017-11-01,France Info,JT,Hamon Benoit,Mouvement Du 1er Juillet,NA,42.4
 2017-11-01,France Culture,JT,Hamon Benoit,Mouvement Du 1er Juillet,NA,10.15
 2017-11-01,RMC,JT,Hamon Benoit,Mouvement Du 1er Juillet,NA,1.0666666666666667
@@ -891,13 +891,13 @@ month,station,prog_type,name,label,party,time
 2017-10-01,France Info,JT,Hamon Benoit,Mouvement Du 1er Juillet,NA,7.533333333333333
 2017-10-01,BFM,MAG,Hamon Benoit,Mouvement Du 1er Juillet,NA,10
 2017-10-01,RMC,MAG,Hamon Benoit,Mouvement Du 1er Juillet,NA,2
-2017-12-01,France Inter,JT,Hamon Benoit,Génération.s,Géné,1.1333333333333333
-2017-12-01,France Inter,MAG,Hamon Benoit,Génération.s,Géné,18.8
-2017-12-01,France Info,JT,Hamon Benoit,Génération.s,Géné,12.366666666666667
-2017-12-01,RMC,MAG,Hamon Benoit,Génération.s,Géné,2.283333333333333
-2017-12-01,Europe 1,JT,Hamon Benoit,Génération.s,Géné,3.2
-2017-12-01,RTL,JT,Hamon Benoit,Génération.s,Géné,2.0833333333333335
-2017-12-01,RTL,MAG,Hamon Benoit,Génération.s,Géné,52.25
+2017-12-01,France Inter,JT,Hamon Benoit,Génération.s,Génération.s,1.1333333333333333
+2017-12-01,France Inter,MAG,Hamon Benoit,Génération.s,Génération.s,18.8
+2017-12-01,France Info,JT,Hamon Benoit,Génération.s,Génération.s,12.366666666666667
+2017-12-01,RMC,MAG,Hamon Benoit,Génération.s,Génération.s,2.283333333333333
+2017-12-01,Europe 1,JT,Hamon Benoit,Génération.s,Génération.s,3.2
+2017-12-01,RTL,JT,Hamon Benoit,Génération.s,Génération.s,2.0833333333333335
+2017-12-01,RTL,MAG,Hamon Benoit,Génération.s,Génération.s,52.25
 2017-08-01,France Info,JT,Hamon Benoit,Mouvement Du 1er Juillet,NA,6.366666666666666
 2017-08-01,France Culture,JT,Hamon Benoit,Mouvement Du 1er Juillet,NA,1.5666666666666667
 2017-08-01,Europe 1,JT,Hamon Benoit,Mouvement Du 1er Juillet,NA,1.75
@@ -2296,7 +2296,7 @@ month,station,prog_type,name,label,party,time
 2017-10-01,M6,MAG,Schiappa Marlene,Ministre,Exécutif,2.566666666666667
 2017-07-01,BFM TV,JT,Schiappa Marlene,Ministre,Exécutif,21.133333333333333
 2017-07-01,LCI,MAG,Schiappa Marlene,Ministre,Exécutif,57.11666666666667
-2017-07-01,France Info TV,MAG,Schiappa Marlene,Secretaire Etat,NA,18.25
+2017-07-01,France Info TV,MAG,Schiappa Marlene,Secretaire Etat,Exécutif,18.25
 2017-09-01,BFM TV,JT,Schiappa Marlene,Ministre,Exécutif,4.5
 2017-09-01,BFM TV,MAG,Schiappa Marlene,Ministre,Exécutif,20.816666666666666
 2017-09-01,C NEWS,JT,Schiappa Marlene,Ministre,Exécutif,5.133333333333334
@@ -2315,7 +2315,7 @@ month,station,prog_type,name,label,party,time
 2017-11-01,France Info TV,PROG,Schiappa Marlene,Ministre,Exécutif,39.21666666666667
 2017-08-01,BFM TV,JT,Schiappa Marlene,Ministre,Exécutif,13.633333333333333
 2017-08-01,BFM TV,MAG,Schiappa Marlene,Ministre,Exécutif,10.55
-2017-08-01,France Info TV,MAG,Schiappa Marlene,Secretaire Etat,NA,16.666666666666668
+2017-08-01,France Info TV,MAG,Schiappa Marlene,Secretaire Etat,Exécutif,16.666666666666668
 2017-10-01,BFM TV,JT,Schiappa Marlene,Ministre,Exécutif,23.25
 2017-10-01,BFM TV,MAG,Schiappa Marlene,Ministre,Exécutif,36.5
 2017-10-01,C NEWS,JT,Schiappa Marlene,Ministre,Exécutif,14.05
@@ -2353,9 +2353,9 @@ month,station,prog_type,name,label,party,time
 2017-10-01,RTL,MAG,Schiappa Marlene,Ministre,Exécutif,21.7
 2017-12-01,RMC,MAG,Schiappa Marlene,Ministre,Exécutif,80.4
 2017-12-01,Europe 1,JT,Schiappa Marlene,Ministre,Exécutif,2.9
-2017-08-01,France Info,JT,Schiappa Marlene,Secretaire Etat,NA,42.75
+2017-08-01,France Info,JT,Schiappa Marlene,Secretaire Etat,Exécutif,42.75
 2017-08-01,RMC,MAG,Schiappa Marlene,Ministre,Exécutif,1.1333333333333333
-2017-08-01,Europe 1,JT,Schiappa Marlene,Secretaire Etat,NA,4
+2017-08-01,Europe 1,JT,Schiappa Marlene,Secretaire Etat,Exécutif,4
 2017-09-01,TMC,MAG,Griveaux Benjamin,Ministre,Exécutif,1.0166666666666666
 2017-11-01,France 5,PROG,Griveaux Benjamin,Ministre,Exécutif,3.2666666666666666
 2017-08-01,France 2,JT,Griveaux Benjamin,Ministre,Exécutif,7.766666666666667
@@ -2380,7 +2380,7 @@ month,station,prog_type,name,label,party,time
 2017-08-01,BFM TV,JT,Griveaux Benjamin,Ministre,Exécutif,10.5
 2017-08-01,BFM TV,MAG,Griveaux Benjamin,Ministre,Exécutif,25.833333333333332
 2017-08-01,C NEWS,MAG,Griveaux Benjamin,Ministre,Exécutif,1.0166666666666666
-2017-08-01,France Info TV,JT,Griveaux Benjamin,Secretaire Etat,NA,2.2666666666666666
+2017-08-01,France Info TV,JT,Griveaux Benjamin,Secretaire Etat,Exécutif,2.2666666666666666
 2017-10-01,C NEWS,JT,Griveaux Benjamin,Ministre,Exécutif,6.933333333333334
 2017-10-01,LCI,JT,Griveaux Benjamin,Ministre,Exécutif,7.066666666666666
 2017-10-01,LCI,MAG,Griveaux Benjamin,Ministre,Exécutif,20.383333333333333
@@ -2412,11 +2412,11 @@ month,station,prog_type,name,label,party,time
 2017-12-01,RMC,MAG,Griveaux Benjamin,Ministre,Exécutif,39.666666666666664
 2017-12-01,Europe 1,MAG,Griveaux Benjamin,Ministre,Exécutif,72.6
 2017-12-01,RTL,JT,Griveaux Benjamin,Ministre,Exécutif,1.05
-2017-08-01,France Inter,JT,Griveaux Benjamin,Secretaire Etat,NA,1.55
+2017-08-01,France Inter,JT,Griveaux Benjamin,Secretaire Etat,Exécutif,1.55
 2017-08-01,BFM,JT,Griveaux Benjamin,Ministre,Exécutif,1.0833333333333333
 2017-08-01,RMC,JT,Griveaux Benjamin,Ministre,Exécutif,1.0166666666666666
 2017-08-01,RMC,MAG,Griveaux Benjamin,Ministre,Exécutif,15.616666666666667
-2017-08-01,RTL,JT,Griveaux Benjamin,Secretaire Etat,NA,1.1166666666666667
+2017-08-01,RTL,JT,Griveaux Benjamin,Secretaire Etat,Exécutif,1.1166666666666667
 2017-07-01,France 2,JT,Faure Olivier,Parti Socialiste,PS,1.9833333333333334
 2017-07-01,France 3,JT,Faure Olivier,Parti Socialiste,PS,1.35
 2017-07-01,France 5,MAG,Faure Olivier,Parti Socialiste,PS,2.9
@@ -4155,7 +4155,7 @@ month,station,prog_type,name,label,party,time
 2017-09-01,Canal +,MAG,Simonnet Danielle,La France Insoumise,LFI,4.383333333333334
 2017-11-01,France 3,JT,Simonnet Danielle,La France Insoumise,LFI,4.966666666666667
 2017-07-01,C NEWS,MAG,Simonnet Danielle,La France Insoumise,LFI,15.566666666666666
-2017-07-01,LCI,MAG,Simonnet Danielle,Parti De Gauche,NA,13.45
+2017-07-01,LCI,MAG,Simonnet Danielle,Parti De Gauche,PG,13.45
 2017-09-01,BFM TV,JT,Simonnet Danielle,La France Insoumise,LFI,4.75
 2017-09-01,C NEWS,MAG,Simonnet Danielle,La France Insoumise,LFI,35.71666666666667
 2017-09-01,LCI,MAG,Simonnet Danielle,La France Insoumise,LFI,89.23333333333333
@@ -4664,37 +4664,37 @@ month,station,prog_type,name,label,party,time
 2017-08-01,France Culture,JT,Karoutchi Roger,Les Républicains,LR,1.3666666666666667
 2017-08-01,RMC,MAG,Karoutchi Roger,Les Républicains,LR,67.35
 2017-08-01,Europe 1,MAG,Karoutchi Roger,Les Républicains,LR,10.883333333333333
-2017-09-01,France 5,MAG,Lepage Corinne,CAP 21,NA,29.433333333333334
-2017-11-01,France 3,JT,Lepage Corinne,CAP 21,NA,4.166666666666667
-2017-10-01,France 3,JT,Lepage Corinne,CAP 21,NA,3.85
-2017-12-01,Canal +,MAG,Lepage Corinne,CAP 21,NA,3.7666666666666666
-2017-07-01,C NEWS,MAG,Lepage Corinne,CAP 21,NA,5.55
-2017-09-01,BFM TV,JT,Lepage Corinne,CAP 21,NA,2.966666666666667
-2017-09-01,BFM TV,MAG,Lepage Corinne,CAP 21,NA,6.366666666666666
-2017-11-01,BFM TV,JT,Lepage Corinne,CAP 21,NA,5.85
-2017-11-01,BFM TV,MAG,Lepage Corinne,CAP 21,NA,7.666666666666667
-2017-11-01,C NEWS,MAG,Lepage Corinne,CAP 21,NA,6.7
-2017-11-01,LCI,MAG,Lepage Corinne,CAP 21,NA,7.55
-2017-11-01,France Info TV,MAG,Lepage Corinne,CAP 21,NA,19.15
-2017-10-01,BFM TV,JT,Lepage Corinne,CAP 21,NA,4.916666666666667
-2017-12-01,C NEWS,JT,Lepage Corinne,CAP 21,NA,2.8833333333333333
-2017-12-01,C NEWS,MAG,Lepage Corinne,CAP 21,NA,3.75
-2017-12-01,LCI,MAG,Lepage Corinne,CAP 21,NA,48.55
-2017-11-01,France Info,JT,Lepage Corinne,CAP 21,NA,33.43333333333333
-2017-11-01,France Culture,JT,Lepage Corinne,CAP 21,NA,1.75
-2017-11-01,France Culture,MAG,Lepage Corinne,CAP 21,NA,23.75
-2017-11-01,BFM,MAG,Lepage Corinne,CAP 21,NA,27.766666666666666
-2017-09-01,France Inter,MAG,Lepage Corinne,CAP 21,NA,8.533333333333333
-2017-09-01,France Info,JT,Lepage Corinne,CAP 21,NA,19.9
-2017-09-01,BFM,MAG,Lepage Corinne,CAP 21,NA,10.9
-2017-09-01,RMC,MAG,Lepage Corinne,CAP 21,NA,6.55
-2017-09-01,RTL,JT,Lepage Corinne,CAP 21,NA,1.85
-2017-09-01,RTL,MAG,Lepage Corinne,CAP 21,NA,6.116666666666666
-2017-10-01,France Inter,PROG,Lepage Corinne,CAP 21,NA,12.366666666666667
-2017-10-01,France Culture,PROG,Lepage Corinne,CAP 21,NA,12.366666666666667
-2017-10-01,BFM,MAG,Lepage Corinne,CAP 21,NA,7.266666666666667
-2017-10-01,RMC,MAG,Lepage Corinne,CAP 21,NA,45.733333333333334
-2017-12-01,France Info,JT,Lepage Corinne,CAP 21,NA,5.25
+2017-09-01,France 5,MAG,Lepage Corinne,Cap 21,Cap 21,29.433333333333334
+2017-11-01,France 3,JT,Lepage Corinne,Cap 21,Cap 21,4.166666666666667
+2017-10-01,France 3,JT,Lepage Corinne,Cap 21,Cap 21,3.85
+2017-12-01,Canal +,MAG,Lepage Corinne,Cap 21,Cap 21,3.7666666666666666
+2017-07-01,C NEWS,MAG,Lepage Corinne,Cap 21,Cap 21,5.55
+2017-09-01,BFM TV,JT,Lepage Corinne,Cap 21,Cap 21,2.966666666666667
+2017-09-01,BFM TV,MAG,Lepage Corinne,Cap 21,Cap 21,6.366666666666666
+2017-11-01,BFM TV,JT,Lepage Corinne,Cap 21,Cap 21,5.85
+2017-11-01,BFM TV,MAG,Lepage Corinne,Cap 21,Cap 21,7.666666666666667
+2017-11-01,C NEWS,MAG,Lepage Corinne,Cap 21,Cap 21,6.7
+2017-11-01,LCI,MAG,Lepage Corinne,Cap 21,Cap 21,7.55
+2017-11-01,France Info TV,MAG,Lepage Corinne,Cap 21,Cap 21,19.15
+2017-10-01,BFM TV,JT,Lepage Corinne,Cap 21,Cap 21,4.916666666666667
+2017-12-01,C NEWS,JT,Lepage Corinne,Cap 21,Cap 21,2.8833333333333333
+2017-12-01,C NEWS,MAG,Lepage Corinne,Cap 21,Cap 21,3.75
+2017-12-01,LCI,MAG,Lepage Corinne,Cap 21,Cap 21,48.55
+2017-11-01,France Info,JT,Lepage Corinne,Cap 21,Cap 21,33.43333333333333
+2017-11-01,France Culture,JT,Lepage Corinne,Cap 21,Cap 21,1.75
+2017-11-01,France Culture,MAG,Lepage Corinne,Cap 21,Cap 21,23.75
+2017-11-01,BFM,MAG,Lepage Corinne,Cap 21,Cap 21,27.766666666666666
+2017-09-01,France Inter,MAG,Lepage Corinne,Cap 21,Cap 21,8.533333333333333
+2017-09-01,France Info,JT,Lepage Corinne,Cap 21,Cap 21,19.9
+2017-09-01,BFM,MAG,Lepage Corinne,Cap 21,Cap 21,10.9
+2017-09-01,RMC,MAG,Lepage Corinne,Cap 21,Cap 21,6.55
+2017-09-01,RTL,JT,Lepage Corinne,Cap 21,Cap 21,1.85
+2017-09-01,RTL,MAG,Lepage Corinne,Cap 21,Cap 21,6.116666666666666
+2017-10-01,France Inter,PROG,Lepage Corinne,Cap 21,Cap 21,12.366666666666667
+2017-10-01,France Culture,PROG,Lepage Corinne,Cap 21,Cap 21,12.366666666666667
+2017-10-01,BFM,MAG,Lepage Corinne,Cap 21,Cap 21,7.266666666666667
+2017-10-01,RMC,MAG,Lepage Corinne,Cap 21,Cap 21,45.733333333333334
+2017-12-01,France Info,JT,Lepage Corinne,Cap 21,Cap 21,5.25
 2017-10-01,Canal +,MAG,Rabault Valerie,Parti Socialiste,PS,13.233333333333333
 2017-10-01,France 5,MAG,Rabault Valerie,Parti Socialiste,PS,1.35
 2017-07-01,BFM TV,JT,Rabault Valerie,Parti Socialiste,PS,8.033333333333333
@@ -5199,15 +5199,15 @@ month,station,prog_type,name,label,party,time
 2017-10-01,France Info,JT,Lienemann Marie Noelle,Parti Socialiste,PS,1.55
 2017-10-01,RMC,MAG,Lienemann Marie Noelle,Parti Socialiste,PS,16.466666666666665
 2017-08-01,RMC,MAG,Lienemann Marie Noelle,Parti Socialiste,PS,12.733333333333333
-2017-11-01,France 5,MAG,Simeoni Gilles,Femu A Corsica,NA,1.0833333333333333
+2017-11-01,France 5,MAG,Simeoni Gilles,Femu A Corsica,Femu A Corsica,1.0833333333333333
 2017-10-01,France 5,MAG,Simeoni Gilles,Inseme Per A Corsica,NA,5.3
-2017-12-01,France 2,JT,Simeoni Gilles,Femu A Corsica,NA,9.416666666666666
-2017-12-01,France 5,MAG,Simeoni Gilles,Femu A Corsica,NA,3.2
-2017-12-01,France 5,PROG,Simeoni Gilles,Femu A Corsica,NA,1.1
+2017-12-01,France 2,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,9.416666666666666
+2017-12-01,France 5,MAG,Simeoni Gilles,Femu A Corsica,Femu A Corsica,3.2
+2017-12-01,France 5,PROG,Simeoni Gilles,Femu A Corsica,Femu A Corsica,1.1
 2017-07-01,BFM TV,JT,Simeoni Gilles,Inseme Per A Corsica,NA,14.8
 2017-07-01,BFM TV,MAG,Simeoni Gilles,Inseme Per A Corsica,NA,5.65
 2017-07-01,LCI,MAG,Simeoni Gilles,Inseme Per A Corsica,NA,4.483333333333333
-2017-11-01,BFM TV,JT,Simeoni Gilles,Femu A Corsica,NA,1.4
+2017-11-01,BFM TV,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,1.4
 2017-08-01,BFM TV,JT,Simeoni Gilles,Inseme Per A Corsica,NA,27.466666666666665
 2017-08-01,BFM TV,MAG,Simeoni Gilles,Inseme Per A Corsica,NA,1.8666666666666667
 2017-10-01,LCI,MAG,Simeoni Gilles,Inseme Per A Corsica,NA,5.916666666666667
@@ -5217,19 +5217,19 @@ month,station,prog_type,name,label,party,time
 2017-12-01,LCI,MAG,Simeoni Gilles,Inseme Per A Corsica,NA,7.15
 2017-12-01,France Info TV,JT,Simeoni Gilles,Inseme Per A Corsica,NA,10.333333333333334
 2017-12-01,France Info TV,MAG,Simeoni Gilles,Inseme Per A Corsica,NA,4.983333333333333
-2017-11-01,France Inter,MAG,Simeoni Gilles,Femu A Corsica,NA,2.15
+2017-11-01,France Inter,MAG,Simeoni Gilles,Femu A Corsica,Femu A Corsica,2.15
 2017-10-01,RMC,MAG,Simeoni Gilles,Inseme Per A Corsica,NA,10.333333333333334
 2017-10-01,RTL,MAG,Simeoni Gilles,Inseme Per A Corsica,NA,12.266666666666667
-2017-12-01,France Inter,JT,Simeoni Gilles,Femu A Corsica,NA,1.95
-2017-12-01,France Info,JT,Simeoni Gilles,Femu A Corsica,NA,38.15
-2017-12-01,France Culture,JT,Simeoni Gilles,Femu A Corsica,NA,2.9833333333333334
-2017-12-01,France Culture,MAG,Simeoni Gilles,Femu A Corsica,NA,4.016666666666667
-2017-12-01,RMC,JT,Simeoni Gilles,Femu A Corsica,NA,2.25
-2017-12-01,RMC,MAG,Simeoni Gilles,Femu A Corsica,NA,21.716666666666665
-2017-12-01,Europe 1,JT,Simeoni Gilles,Femu A Corsica,NA,6.066666666666666
-2017-12-01,Europe 1,MAG,Simeoni Gilles,Femu A Corsica,NA,20.133333333333333
-2017-12-01,RTL,JT,Simeoni Gilles,Femu A Corsica,NA,10.133333333333333
-2017-12-01,RTL,MAG,Simeoni Gilles,Femu A Corsica,NA,10.183333333333334
+2017-12-01,France Inter,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,1.95
+2017-12-01,France Info,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,38.15
+2017-12-01,France Culture,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,2.9833333333333334
+2017-12-01,France Culture,MAG,Simeoni Gilles,Femu A Corsica,Femu A Corsica,4.016666666666667
+2017-12-01,RMC,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,2.25
+2017-12-01,RMC,MAG,Simeoni Gilles,Femu A Corsica,Femu A Corsica,21.716666666666665
+2017-12-01,Europe 1,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,6.066666666666666
+2017-12-01,Europe 1,MAG,Simeoni Gilles,Femu A Corsica,Femu A Corsica,20.133333333333333
+2017-12-01,RTL,JT,Simeoni Gilles,Femu A Corsica,Femu A Corsica,10.133333333333333
+2017-12-01,RTL,MAG,Simeoni Gilles,Femu A Corsica,Femu A Corsica,10.183333333333334
 2017-07-01,C NEWS,JT,Bayou Julien,EELV,EELV,3.033333333333333
 2017-07-01,C NEWS,MAG,Bayou Julien,EELV,EELV,22.466666666666665
 2017-07-01,LCI,JT,Bayou Julien,EELV,EELV,2.1333333333333333
@@ -5541,7 +5541,7 @@ month,station,prog_type,name,label,party,time
 2017-12-01,Radio Classique,MAG,Mahjoubi Mounir,Ministre,Exécutif,8.783333333333333
 2017-12-01,BFM,MAG,Mahjoubi Mounir,Ministre,Exécutif,65.65
 2017-12-01,RMC,MAG,Mahjoubi Mounir,Ministre,Exécutif,19.433333333333334
-2017-08-01,France Inter,MAG,Mahjoubi Mounir,Secretaire Etat,NA,5.833333333333333
+2017-08-01,France Inter,MAG,Mahjoubi Mounir,Secretaire Etat,Exécutif,5.833333333333333
 2017-09-01,France 2,JT,Patriat Francois,La République En Marche,LREM,1.1166666666666667
 2017-09-01,France 3,JT,Patriat Francois,La République En Marche,LREM,4.483333333333333
 2017-09-01,TMC,MAG,Patriat Francois,La République En Marche,LREM,2.3
@@ -5644,8 +5644,8 @@ month,station,prog_type,name,label,party,time
 2017-12-01,France Culture,JT,Keller Fabienne,Les Républicains,LR,1.1666666666666667
 2017-12-01,RMC,JT,Keller Fabienne,Les Républicains,LR,1.5833333333333333
 2017-08-01,France Info,JT,Keller Fabienne,Les Républicains,LR,2.933333333333333
-2017-11-01,France Info,JT,Pinel Sylvia,Parti Radical De Gauche,NA,1.3
-2017-12-01,France Info,JT,Pinel Sylvia,Parti Radical De Gauche,NA,1.85
+2017-11-01,France Info,JT,Pinel Sylvia,Parti Radical De Gauche,PRG,1.3
+2017-12-01,France Info,JT,Pinel Sylvia,Parti Radical De Gauche,PRG,1.85
 2017-12-01,France 5,MAG,Pupponi Francois,Parti Socialiste,PS,1.4
 2017-07-01,BFM TV,JT,Pupponi Francois,Parti Socialiste,PS,13.533333333333333
 2017-07-01,LCI,MAG,Pupponi Francois,Parti Socialiste,PS,47.13333333333333
@@ -6011,8 +6011,8 @@ month,station,prog_type,name,label,party,time
 2017-10-01,C NEWS,MAG,Cherki Pascal,Mouvement Du 1er Juillet,NA,6.35
 2017-09-01,France Inter,MAG,Cherki Pascal,Mouvement Du 1er Juillet,NA,9.383333333333333
 2017-10-01,France Info,JT,Cherki Pascal,Mouvement Du 1er Juillet,NA,12.066666666666666
-2017-12-01,France Inter,MAG,Cherki Pascal,Génération.s,Géné,11.15
-2017-12-01,France Info,JT,Cherki Pascal,Génération.s,Géné,1.2333333333333334
+2017-12-01,France Inter,MAG,Cherki Pascal,Génération.s,Génération.s,11.15
+2017-12-01,France Info,JT,Cherki Pascal,Génération.s,Génération.s,1.2333333333333334
 2017-07-01,France 5,MAG,Dray Julien,Parti Socialiste,PS,1
 2017-08-01,France 5,MAG,Dray Julien,Parti Socialiste,PS,1.1
 2017-07-01,BFM TV,JT,Dray Julien,Parti Socialiste,PS,2.25
@@ -6332,7 +6332,7 @@ month,station,prog_type,name,label,party,time
 2017-10-01,France 3,JT,Lemoyne Jean Baptiste,Ministre,Exécutif,5.383333333333334
 2017-07-01,LCI,MAG,Lemoyne Jean Baptiste,Ministre,Exécutif,13.233333333333333
 2017-11-01,BFM TV,JT,Lemoyne Jean Baptiste,Ministre,Exécutif,3.8333333333333335
-2017-11-01,France Info TV,MAG,Lemoyne Jean Baptiste,Secretaire Etat,NA,18.833333333333332
+2017-11-01,France Info TV,MAG,Lemoyne Jean Baptiste,Secretaire Etat,Exécutif,18.833333333333332
 2017-10-01,BFM TV,MAG,Lemoyne Jean Baptiste,Ministre,Exécutif,19.283333333333335
 2017-12-01,BFM TV,JT,Lemoyne Jean Baptiste,Ministre,Exécutif,4.366666666666666
 2017-12-01,C NEWS,MAG,Lemoyne Jean Baptiste,Ministre,Exécutif,13.35
@@ -6349,7 +6349,7 @@ month,station,prog_type,name,label,party,time
 2017-12-01,Radio Classique,MAG,Lemoyne Jean Baptiste,Ministre,Exécutif,9.633333333333333
 2017-12-01,RMC,MAG,Lemoyne Jean Baptiste,Ministre,Exécutif,25
 2017-12-01,Europe 1,MAG,Lemoyne Jean Baptiste,Les Républicains,LR,11.9
-2017-08-01,France Info,JT,Lemoyne Jean Baptiste,Secretaire Etat,NA,12.75
+2017-08-01,France Info,JT,Lemoyne Jean Baptiste,Secretaire Etat,Exécutif,12.75
 2017-07-01,BFM TV,JT,Muselier Renaud,Les Républicains,LR,9.366666666666667
 2017-07-01,BFM TV,MAG,Muselier Renaud,Les Républicains,LR,3.6
 2017-07-01,C NEWS,JT,Muselier Renaud,Les Républicains,LR,1.6333333333333333
@@ -6796,7 +6796,7 @@ month,station,prog_type,name,label,party,time
 2017-09-01,RMC,JT,Cluzel Sophie,Ministre,Exécutif,1.1166666666666667
 2017-09-01,RMC,MAG,Cluzel Sophie,Ministre,Exécutif,7.566666666666666
 2017-12-01,RTL,MAG,Cluzel Sophie,Ministre,Exécutif,9.866666666666667
-2017-08-01,France Info,JT,Cluzel Sophie,Secretaire Etat,NA,4.583333333333333
+2017-08-01,France Info,JT,Cluzel Sophie,Secretaire Etat,Exécutif,4.583333333333333
 2017-08-01,RTL,MAG,Cluzel Sophie,Ministre,Exécutif,5.9
 2017-11-01,France 5,PROG,Cope Jean Francois,Les Républicains,LR,13.933333333333334
 2017-07-01,France 2,MAG,Cope Jean Francois,Les Républicains,LR,8.366666666666667
@@ -7144,16 +7144,16 @@ month,station,prog_type,name,label,party,time
 2017-09-01,France Info,JT,Lucas Benjamin,Parti Socialiste,PS,34.15
 2017-08-01,France Info,JT,Lucas Benjamin,Parti Socialiste,PS,31.183333333333334
 2017-07-01,BFM TV,JT,Martins Jean Francois,Parti Socialiste,PS,3.033333333333333
-2017-07-01,BFM TV,MAG,Martins Jean Francois,Parti Radical De Gauche,NA,3.65
-2017-07-01,C NEWS,JT,Martins Jean Francois,Parti Radical De Gauche,NA,4.383333333333334
-2017-07-01,C NEWS,MAG,Martins Jean Francois,Parti Radical De Gauche,NA,4.05
+2017-07-01,BFM TV,MAG,Martins Jean Francois,Parti Radical De Gauche,PRG,3.65
+2017-07-01,C NEWS,JT,Martins Jean Francois,Parti Radical De Gauche,PRG,4.383333333333334
+2017-07-01,C NEWS,MAG,Martins Jean Francois,Parti Radical De Gauche,PRG,4.05
 2017-07-01,LCI,JT,Martins Jean Francois,Parti Socialiste,PS,1.6166666666666667
 2017-07-01,France Info TV,MAG,Martins Jean Francois,Divers Droite,Droite,14.233333333333333
-2017-11-01,C NEWS,JT,Martins Jean Francois,Parti Radical De Gauche,NA,2.716666666666667
-2017-11-01,C NEWS,MAG,Martins Jean Francois,Parti Radical De Gauche,NA,7.683333333333334
-2017-08-01,C NEWS,JT,Martins Jean Francois,Parti Radical De Gauche,NA,7
+2017-11-01,C NEWS,JT,Martins Jean Francois,Parti Radical De Gauche,PRG,2.716666666666667
+2017-11-01,C NEWS,MAG,Martins Jean Francois,Parti Radical De Gauche,PRG,7.683333333333334
+2017-08-01,C NEWS,JT,Martins Jean Francois,Parti Radical De Gauche,PRG,7
 2017-11-01,France Info,JT,Martins Jean Francois,Divers Droite,Droite,17.266666666666666
-2017-12-01,RMC,MAG,Martins Jean Francois,Parti Radical De Gauche,NA,9.466666666666667
+2017-12-01,RMC,MAG,Martins Jean Francois,Parti Radical De Gauche,PRG,9.466666666666667
 2017-08-01,France Info,JT,Martins Jean Francois,Divers Droite,Droite,4.116666666666666
 2017-09-01,France Info TV,JT,Militant(E) La France Ins,La France Insoumise,LFI,3.716666666666667
 2017-09-01,France Info TV,MAG,Militant(E) La France Ins,La France Insoumise,LFI,2.316666666666667
@@ -7298,16 +7298,16 @@ month,station,prog_type,name,label,party,time
 2017-09-01,RTL,JT,Julliard Bruno,Parti Socialiste,PS,5.416666666666667
 2017-10-01,LCI,MAG,Le Guen Jean Marie,Parti Socialiste,PS,22.7
 2017-11-01,France Info,JT,Le Guen Jean Marie,Parti Socialiste,PS,15.566666666666666
-2017-09-01,BFM TV,JT,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,6.733333333333333
-2017-09-01,BFM TV,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,7.316666666666666
-2017-09-01,C NEWS,JT,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,3.6
-2017-09-01,LCI,JT,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,1.1166666666666667
-2017-09-01,LCI,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,10.183333333333334
-2017-09-01,France Info TV,JT,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,1.1
-2017-09-01,France Info TV,PROG,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,1.6666666666666667
-2017-09-01,Europe 1,JT,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,3.3333333333333335
-2017-09-01,Europe 1,PROG,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,22.166666666666668
-2017-09-01,RTL,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !",NA,4.733333333333333
+2017-09-01,BFM TV,JT,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",6.733333333333333
+2017-09-01,BFM TV,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",7.316666666666666
+2017-09-01,C NEWS,JT,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",3.6
+2017-09-01,LCI,JT,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",1.1166666666666667
+2017-09-01,LCI,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",10.183333333333334
+2017-09-01,France Info TV,JT,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",1.1
+2017-09-01,France Info TV,PROG,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",1.6666666666666667
+2017-09-01,Europe 1,JT,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",3.3333333333333335
+2017-09-01,Europe 1,PROG,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",22.166666666666668
+2017-09-01,RTL,MAG,Le Pen Jean Marie,"Jeanne, Au Secours !","Jeanne, Au Secours !",4.733333333333333
 2017-09-01,LCI,MAG,Nasrou Othman,Les Républicains,LR,4.7
 2017-11-01,BFM TV,MAG,Nasrou Othman,Les Républicains,LR,2.85
 2017-11-01,France Info TV,MAG,Nasrou Othman,Les Républicains,LR,9
@@ -7949,7 +7949,7 @@ month,station,prog_type,name,label,party,time
 2017-09-01,France Info,JT,Berberian Vanik,Mouvement Démocrate,MODEM,17.6
 2017-09-01,France Culture,JT,Berberian Vanik,Mouvement Démocrate,MODEM,1.3666666666666667
 2017-08-01,France Info,JT,Berberian Vanik,Mouvement Démocrate,MODEM,10.316666666666666
-2017-08-01,RMC,MAG,Berberian Vanik,Sans Étiquette,NA,6.6
+2017-08-01,RMC,MAG,Berberian Vanik,Sans Étiquette,Divers,6.6
 2017-09-01,C NEWS,MAG,Beschizza Bruno,Les Républicains,LR,12.633333333333333
 2017-09-01,LCI,MAG,Beschizza Bruno,Les Républicains,LR,13.733333333333333
 2017-09-01,France Info TV,JT,Beschizza Bruno,Les Républicains,LR,9.566666666666666
@@ -8094,7 +8094,7 @@ month,station,prog_type,name,label,party,time
 2017-12-01,France Info TV,MAG,Acquaviva Jean Felix,Pe A Corsica,NA,6.583333333333333
 2017-11-01,France Info,JT,Acquaviva Jean Felix,Divers Gauche,Gauche,12.2
 2017-10-01,RMC,MAG,Acquaviva Jean Felix,Pe A Corsica,NA,20.333333333333332
-2017-12-01,France Info,JT,Acquaviva Jean Felix,Femu A Corsica,NA,50.65
+2017-12-01,France Info,JT,Acquaviva Jean Felix,Femu A Corsica,Femu A Corsica,50.65
 2017-12-01,France Info,JT,Acquaviva Jean Felix,Divers Gauche,Gauche,7.5
 2017-11-01,France Info TV,PROG,Andrieu Eric,Parti Socialiste,PS,1.4166666666666667
 2017-12-01,France Info TV,PROG,Andrieu Eric,Parti Socialiste,PS,3.5
@@ -8299,7 +8299,7 @@ month,station,prog_type,name,label,party,time
 2017-11-01,France Info,JT,Cariou Emilie,La République En Marche,LREM,53.1
 2017-11-01,France Culture,JT,Cariou Emilie,La République En Marche,LREM,5.45
 2017-09-01,BFM,JT,Cariou Emilie,La République En Marche,LREM,1.1166666666666667
-2017-09-01,France 5,MAG,Castellani Michel,Femu A Corsica,NA,1.6666666666666667
+2017-09-01,France 5,MAG,Castellani Michel,Femu A Corsica,Femu A Corsica,1.6666666666666667
 2017-08-01,BFM TV,JT,Castellani Michel,Pe A Corsica,NA,3.2
 2017-12-01,France Info TV,MAG,Castellani Michel,Divers Gauche,Gauche,4.416666666666667
 2017-12-01,France Info,JT,Castellani Michel,Divers Gauche,Gauche,10.5
@@ -8416,8 +8416,8 @@ month,station,prog_type,name,label,party,time
 2017-12-01,LCI,MAG,Maire Jacques,La République En Marche,LREM,27.8
 2017-10-01,France Inter,MAG,Maire Jacques,La République En Marche,LREM,11.9
 2017-10-01,RTL,MAG,Maire Jacques,La République En Marche,LREM,1.2
-2017-12-01,LCI,JT,Mamere Noel,Génération.s,Géné,3.9166666666666665
-2017-12-01,France Info,JT,Mamere Noel,Génération.s,Géné,1.4166666666666667
+2017-12-01,LCI,JT,Mamere Noel,Génération.s,Génération.s,3.9166666666666665
+2017-12-01,France Info,JT,Mamere Noel,Génération.s,Génération.s,1.4166666666666667
 2017-08-01,BFM TV,JT,Mercier Michel,Mouvement Démocrate,MODEM,13.833333333333334
 2017-08-01,LCI,MAG,Mercier Michel,Mouvement Démocrate,MODEM,2.4
 2017-08-01,France Info TV,JT,Mercier Michel,Mouvement Démocrate,MODEM,1.3166666666666667
@@ -8461,7 +8461,7 @@ month,station,prog_type,name,label,party,time
 2017-09-01,C NEWS,MAG,Vannier Paul,La France Insoumise,LFI,10.866666666666667
 2017-11-01,C NEWS,MAG,Vannier Paul,La France Insoumise,LFI,8.35
 2017-09-01,France Info,JT,Vannier Paul,La France Insoumise,LFI,5.566666666666666
-2017-08-01,France Inter,MAG,Vannier Paul,Parti De Gauche,NA,5.433333333333334
+2017-08-01,France Inter,MAG,Vannier Paul,Parti De Gauche,PG,5.433333333333334
 2017-08-01,France Info,JT,Vannier Paul,La France Insoumise,LFI,6.55
 2017-07-01,LCI,MAG,Versini Dominique,Parti Socialiste,PS,5.75
 2017-07-01,France Info TV,JT,Versini Dominique,Divers Gauche,Gauche,1.1666666666666667
@@ -8539,8 +8539,8 @@ month,station,prog_type,name,label,party,time
 2017-08-01,BFM TV,JT,Genevard Annie,Les Républicains,LR,3.566666666666667
 2017-12-01,France Info TV,MAG,Genevard Annie,Les Républicains,LR,7.783333333333333
 2017-12-01,France 5,MAG,Gomes Philippe,Union Des Démocrates Et Indépendants,UDI,3.15
-2017-11-01,France Info,JT,Gomes Philippe,Caledonie Ensemble,NA,8.4
-2017-10-01,France Info,JT,Gomes Philippe,Caledonie Ensemble,NA,11.566666666666666
+2017-11-01,France Info,JT,Gomes Philippe,Calédonie Ensemble,NA,8.4
+2017-10-01,France Info,JT,Gomes Philippe,Calédonie Ensemble,NA,11.566666666666666
 2017-12-01,Europe 1,JT,Gomes Philippe,Union Des Démocrates Et Indépendants,UDI,1.2666666666666666
 2017-08-01,France Inter,PROG,Gomes Philippe,Divers Droite,Droite,8.3
 2017-07-01,France Info TV,JT,Grossetete Francoise,Les Républicains,LR,1.05
@@ -8595,7 +8595,7 @@ month,station,prog_type,name,label,party,time
 2017-10-01,C NEWS,MAG,Poisson Jean Frederic,Parti Chretien Democrate,NA,1.1
 2017-10-01,LCI,MAG,Poisson Jean Frederic,Parti Chretien Democrate,NA,21.183333333333334
 2017-11-01,LCI,MAG,Pouzol Michel,Parti Socialiste,PS,17.116666666666667
-2017-12-01,France Inter,PROG,Pouzol Michel,Génération.s,Géné,14.566666666666666
+2017-12-01,France Inter,PROG,Pouzol Michel,Génération.s,Génération.s,14.566666666666666
 2017-09-01,TMC,MAG,Pozmentier Caroline,Les Républicains,LR,2.566666666666667
 2017-08-01,TMC,MAG,Pozmentier Caroline,Les Républicains,LR,1.2833333333333334
 2017-10-01,France Info TV,JT,Pozmentier Caroline,Les Républicains,LR,3.2666666666666666
@@ -8633,7 +8633,7 @@ month,station,prog_type,name,label,party,time
 2017-12-01,RMC,MAG,Secheresse Jean Yves,La République En Marche,LREM,16.95
 2017-09-01,Canal +,MAG,Taubira Christiane,Divers Gauche,Gauche,6.483333333333333
 2017-10-01,France 2,MAG,Taubira Christiane,Divers Gauche,Gauche,3.7
-2017-10-01,France Info TV,JT,Taubira Christiane,Parti Radical De Gauche,NA,1.7333333333333334
+2017-10-01,France Info TV,JT,Taubira Christiane,Parti Radical De Gauche,PRG,1.7333333333333334
 2017-10-01,BFM TV,JT,Teissier Guy,Les Républicains,LR,2.183333333333333
 2017-10-01,C NEWS,JT,Teissier Guy,Les Républicains,LR,2.3
 2017-10-01,LCI,JT,Teissier Guy,Les Républicains,LR,2.1666666666666665
@@ -8699,10 +8699,10 @@ month,station,prog_type,name,label,party,time
 2017-08-01,LCI,MAG,Berdoati Eric,Les Républicains,LR,45.75
 2017-11-01,France Inter,MAG,Beres Pervenche,Parti Socialiste,PS,5.033333333333333
 2017-10-01,France Info,JT,Beres Pervenche,Parti Socialiste,PS,4.9
-2017-09-01,France Info,JT,Biteau Benoit,Parti Radical De Gauche,NA,7.033333333333333
-2017-10-01,RMC,MAG,Biteau Benoit,Parti Radical De Gauche,NA,42
-2017-08-01,France Inter,MAG,Biteau Benoit,Parti Radical De Gauche,NA,8.516666666666667
-2017-08-01,France Info,JT,Biteau Benoit,Parti Radical De Gauche,NA,9.916666666666666
+2017-09-01,France Info,JT,Biteau Benoit,Parti Radical De Gauche,PRG,7.033333333333333
+2017-10-01,RMC,MAG,Biteau Benoit,Parti Radical De Gauche,PRG,42
+2017-08-01,France Inter,MAG,Biteau Benoit,Parti Radical De Gauche,PRG,8.516666666666667
+2017-08-01,France Info,JT,Biteau Benoit,Parti Radical De Gauche,PRG,9.916666666666666
 2017-09-01,France 2,MAG,Bouamrane Karim,Parti Socialiste,PS,4.6
 2017-07-01,BFM TV,JT,Bouamrane Karim,Parti Socialiste,PS,1.65
 2017-12-01,BFM TV,JT,Bouamrane Karim,Parti Socialiste,PS,4.4
@@ -8856,9 +8856,9 @@ month,station,prog_type,name,label,party,time
 2017-12-01,France Info TV,JT,Orsucci Jean Charles,La République En Marche,LREM,1.5
 2017-11-01,France Inter,JT,Orsucci Jean Charles,La République En Marche,LREM,1.1333333333333333
 2017-12-01,France Info,JT,Orsucci Jean Charles,La République En Marche,LREM,16.8
-2017-11-01,France Info,JT,Picard Jean Christophe,Parti Radical De Gauche,NA,5.733333333333333
-2017-09-01,France Info,JT,Picard Jean Christophe,Parti Radical De Gauche,NA,5.166666666666667
-2017-10-01,France Info,JT,Picard Jean Christophe,Parti Radical De Gauche,NA,6.2
+2017-11-01,France Info,JT,Picard Jean Christophe,Parti Radical De Gauche,PRG,5.733333333333333
+2017-09-01,France Info,JT,Picard Jean Christophe,Parti Radical De Gauche,PRG,5.166666666666667
+2017-10-01,France Info,JT,Picard Jean Christophe,Parti Radical De Gauche,PRG,6.2
 2017-12-01,France Info,JT,Picard Jean Christophe,Parti Radical,NA,11.216666666666667
 2017-09-01,France Culture,MAG,Princen Nicolas,Les Républicains,LR,20.666666666666668
 2017-10-01,France Inter,MAG,Princen Nicolas,Les Républicains,LR,5.783333333333333
@@ -8898,7 +8898,7 @@ month,station,prog_type,name,label,party,time
 2017-09-01,LCI,JT,Serva Olivier,La République En Marche,LREM,1.6666666666666667
 2017-09-01,LCI,MAG,Serva Olivier,La République En Marche,LREM,4.283333333333333
 2017-09-01,France Info TV,MAG,Serva Olivier,La République En Marche,LREM,16.716666666666665
-2017-10-01,France Info TV,PROG,Serville Gabriel,Gauche Democrate Et Republicaine,NA,1.1666666666666667
+2017-10-01,France Info TV,PROG,Serville Gabriel,Gauche Démocrate Et Républicaine,NA,1.1666666666666667
 2017-10-01,France Info,JT,Serville Gabriel,Divers Gauche,Gauche,8.9
 2017-10-01,Europe 1,JT,Serville Gabriel,Parti Socialiste,PS,2.066666666666667
 2017-11-01,C NEWS,JT,Taquet Adrien,La République En Marche,LREM,3.216666666666667
@@ -8977,7 +8977,7 @@ month,station,prog_type,name,label,party,time
 2017-10-01,LCI,MAG,Chiche Guillaume,La République En Marche,LREM,20.2
 2017-09-01,Europe 1,MAG,Chiche Guillaume,La République En Marche,LREM,6.083333333333333
 2017-09-01,France 5,MAG,Clement Bernard,Parti Communiste Français,PCF,1.4
-2017-09-01,BFM TV,JT,Clement Bernard,Sans Étiquette,NA,5.25
+2017-09-01,BFM TV,JT,Clement Bernard,Sans Étiquette,Divers,5.25
 2017-09-01,France Info TV,JT,Clement Bernard,Parti Communiste Français,PCF,1.9666666666666666
 2017-12-01,LCI,MAG,Coronado Sergio,EELV,EELV,8.616666666666667
 2017-11-01,LCI,MAG,Coste Michel,La République En Marche,LREM,11.716666666666667
@@ -9067,7 +9067,7 @@ month,station,prog_type,name,label,party,time
 2017-11-01,M6,MAG,Legaret Jean Francois,Les Républicains,LR,1.8166666666666667
 2017-11-01,BFM TV,JT,Legaret Jean Francois,Les Républicains,LR,3.3
 2017-11-01,BFM TV,MAG,Legaret Jean Francois,Les Républicains,LR,1.15
-2017-10-01,BFM TV,JT,Legendre Jean Paul,Sans Étiquette,NA,1.8
+2017-10-01,BFM TV,JT,Legendre Jean Paul,Sans Étiquette,Divers,1.8
 2017-10-01,France Inter,JT,Legendre Jean Paul,Les Républicains,LR,3.5166666666666666
 2017-10-01,France Info,JT,Legendre Jean Paul,Les Républicains,LR,3.2666666666666666
 2017-07-01,BFM TV,MAG,Lejeune Etienne,Divers Gauche,Gauche,4.983333333333333
@@ -9093,7 +9093,7 @@ month,station,prog_type,name,label,party,time
 2017-10-01,C NEWS,MAG,Militant(E) La Rem,La République En Marche,LREM,8.866666666666667
 2017-10-01,LCI,MAG,Missika Jean Louis,Parti Socialiste,PS,13.65
 2017-10-01,Europe 1,MAG,Missika Jean Louis,Parti Socialiste,PS,10.75
-2017-08-01,BFM TV,JT,Morgo Christophe,Sans Étiquette,NA,3.2666666666666666
+2017-08-01,BFM TV,JT,Morgo Christophe,Sans Étiquette,Divers,3.2666666666666666
 2017-08-01,Europe 1,JT,Morgo Christophe,Divers Gauche,Gauche,1
 2017-08-01,RTL,JT,Morgo Christophe,Divers Gauche,Gauche,2.2
 2017-10-01,France Info TV,MAG,Morin Desailly Catherine,Union Des Démocrates Et Indépendants,UDI,10
@@ -9116,8 +9116,8 @@ month,station,prog_type,name,label,party,time
 2017-12-01,BFM TV,JT,Octru Michel,Divers Droite,Droite,12.233333333333333
 2017-12-01,France Info TV,JT,Octru Michel,Divers Droite,Droite,1.3
 2017-12-01,France Info,JT,Octru Michel,Divers Droite,Droite,1.5666666666666667
-2017-07-01,BFM TV,JT,Orlandi Francois,Parti Radical De Gauche,NA,23.283333333333335
-2017-10-01,France Info,JT,Orlandi Francois,Parti Radical De Gauche,NA,2.45
+2017-07-01,BFM TV,JT,Orlandi Francois,Parti Radical De Gauche,PRG,23.283333333333335
+2017-10-01,France Info,JT,Orlandi Francois,Parti Radical De Gauche,PRG,2.45
 2017-12-01,Europe 1,JT,Orlandi Francois,La République En Marche,LREM,2.433333333333333
 2017-10-01,BFM TV,JT,Pancher Bertrand,Union Des Démocrates Et Indépendants,UDI,2.1166666666666667
 2017-12-01,France Info TV,MAG,Pancher Bertrand,Union Des Démocrates Et Indépendants,UDI,11.983333333333333
@@ -9175,16 +9175,16 @@ month,station,prog_type,name,label,party,time
 2017-10-01,France 5,MAG,This Saint Jean Isabelle,Parti Socialiste,PS,1.2
 2017-11-01,BFM TV,JT,This Saint Jean Isabelle,Parti Socialiste,PS,5.766666666666667
 2017-10-01,LCI,MAG,This Saint Jean Isabelle,Parti Socialiste,PS,25.05
-2017-11-01,Europe 1,PROG,Thomas Isabelle,Parti Radical De Gauche,NA,8.35
+2017-11-01,Europe 1,PROG,Thomas Isabelle,Parti Radical De Gauche,PRG,8.35
 2017-10-01,BFM TV,JT,Thomas Rodolphe,Mouvement Démocrate,MODEM,1.7
 2017-10-01,France Info,JT,Thomas Rodolphe,Mouvement Démocrate,MODEM,6.233333333333333
 2017-10-01,RTL,MAG,Thomas Rodolphe,Mouvement Démocrate,MODEM,13.9
 2017-11-01,France Info TV,MAG,Tiegna Huguette,La République En Marche,LREM,1.2666666666666666
 2017-11-01,France Info,JT,Tiegna Huguette,La République En Marche,LREM,7.866666666666666
 2017-08-01,France Inter,MAG,Tiegna Huguette,La République En Marche,LREM,2.1666666666666665
-2017-12-01,France Inter,JT,Verchere Francoise,Parti De Gauche,NA,1.8666666666666667
+2017-12-01,France Inter,JT,Verchere Francoise,Parti De Gauche,PG,1.8666666666666667
 2017-12-01,France Info,JT,Verchere Francoise,La France Insoumise,LFI,3.7666666666666666
-2017-12-01,France Culture,JT,Verchere Francoise,Parti De Gauche,NA,1.3
+2017-12-01,France Culture,JT,Verchere Francoise,Parti De Gauche,PG,1.3
 2017-07-01,LCI,MAG,Vichnievsky Laurence,Mouvement Démocrate,MODEM,8.483333333333333
 2017-11-01,BFM TV,JT,Vichnievsky Laurence,Mouvement Démocrate,MODEM,1.35
 2017-09-01,Europe 1,MAG,Vichnievsky Laurence,La République En Marche,LREM,10.366666666666667
@@ -9243,7 +9243,7 @@ month,station,prog_type,name,label,party,time
 2017-10-01,France Culture,JT,Bonnet Oulaldj Nicolas,Parti Communiste Français,PCF,1.0166666666666666
 2017-07-01,BFM TV,JT,Bonnot Frederic,Parti Socialiste,PS,1.5666666666666667
 2017-08-01,BFM TV,JT,Bonnot Frederic,Parti Socialiste,PS,2.2
-2017-11-01,France Culture,JT,Braouezec Patrick,Ensemble !,NA,5.716666666666667
+2017-11-01,France Culture,JT,Braouezec Patrick,Ensemble,NA,5.716666666666667
 2017-09-01,France Info,JT,Braouezec Patrick,Parti Communiste Français,PCF,2.7333333333333334
 2017-10-01,Europe 1,MAG,Braouezec Patrick,Ensemble,NA,14
 2017-08-01,Europe 1,JT,Braouezec Patrick,Ensemble,NA,1.3666666666666667
@@ -9279,8 +9279,8 @@ month,station,prog_type,name,label,party,time
 2017-08-01,Europe 1,JT,Compain Jacques,Autre,NA,3
 2017-12-01,C NEWS,JT,Contassot Yves,EELV,EELV,6.7
 2017-11-01,France Info,JT,Contassot Yves,EELV,EELV,10.5
-2017-10-01,BFM TV,JT,Cordier Monique,Sans Étiquette,NA,6.333333333333333
-2017-10-01,BFM TV,MAG,Cordier Monique,Sans Étiquette,NA,1
+2017-10-01,BFM TV,JT,Cordier Monique,Sans Étiquette,Divers,6.333333333333333
+2017-10-01,BFM TV,MAG,Cordier Monique,Sans Étiquette,Divers,1
 2017-11-01,BFM TV,JT,Coutey Guillaume,Divers Gauche,Gauche,1.25
 2017-10-01,RTL,JT,Coutey Guillaume,Parti Socialiste,PS,1.2
 2017-12-01,France Info TV,MAG,Cravenne Francois David,Les Républicains,LR,4.916666666666667
@@ -9321,7 +9321,7 @@ month,station,prog_type,name,label,party,time
 2017-10-01,RMC,MAG,Descrozaille Frederic,La République En Marche,LREM,2
 2017-12-01,BFM TV,JT,Dezempte Gerard,Divers Droite,Droite,1.6666666666666667
 2017-12-01,Europe 1,JT,Dezempte Gerard,Les Républicains,LR,1.6333333333333333
-2017-09-01,BFM TV,JT,Dietrich Christophe,Sans Étiquette,NA,3.3
+2017-09-01,BFM TV,JT,Dietrich Christophe,Sans Étiquette,Divers,3.3
 2017-09-01,Europe 1,JT,Dietrich Christophe,Autre,NA,1.25
 2017-12-01,France 5,MAG,Diouron Marie Claire,Union Des Démocrates Et Indépendants,UDI,2.2
 2017-10-01,BFM TV,JT,Diouron Marie Claire,Union Des Démocrates Et Indépendants,UDI,1.9166666666666667
@@ -9447,8 +9447,8 @@ month,station,prog_type,name,label,party,time
 2017-10-01,France Culture,MAG,Manzanares Pere,EELV,EELV,3.75
 2017-07-01,France Info TV,JT,Marleix Olivier,Les Républicains,LR,1.2833333333333334
 2017-11-01,Radio Classique,MAG,Marleix Olivier,Les Républicains,LR,6.95
-2017-09-01,BFM TV,JT,Martin Joelle,Sans Étiquette,NA,6.083333333333333
-2017-09-01,BFM TV,MAG,Martin Joelle,Sans Étiquette,NA,1.0333333333333334
+2017-09-01,BFM TV,JT,Martin Joelle,Sans Étiquette,Divers,6.083333333333333
+2017-09-01,BFM TV,MAG,Martin Joelle,Sans Étiquette,Divers,1.0333333333333334
 2017-07-01,LCI,JT,Masson Jean Louis,Les Républicains,LR,1.25
 2017-07-01,LCI,MAG,Masson Jean Louis,Les Républicains,LR,1.3166666666666667
 2017-12-01,France Info,JT,Meignen Thierry,Les Républicains,LR,2.5833333333333335
@@ -9489,7 +9489,7 @@ month,station,prog_type,name,label,party,time
 2017-10-01,RMC,MAG,Motin Cendra,La République En Marche,LREM,5.066666666666666
 2017-07-01,France 5,MAG,Muguay Jean Francois,Parti Socialiste,PS,1.4
 2017-09-01,C NEWS,JT,Muguay Jean Francois,Parti Socialiste,PS,1.1666666666666667
-2017-09-01,RTL,JT,Mumbach Paul,Sans Étiquette,NA,1.75
+2017-09-01,RTL,JT,Mumbach Paul,Sans Étiquette,Divers,1.75
 2017-08-01,RTL,JT,Mumbach Paul,Divers Droite,Droite,1.1166666666666667
 2017-08-01,France 3,MAG,Naegelen Christophe,Divers Droite,Droite,4.566666666666666
 2017-08-01,BFM TV,JT,Naegelen Christophe,Divers Droite,Droite,1.5333333333333334
@@ -9545,8 +9545,8 @@ month,station,prog_type,name,label,party,time
 2017-09-01,France Info,JT,Roudaut Stephane,Les Républicains,LR,4.25
 2017-10-01,France Info TV,MAG,Sander Anne,Les Républicains,LR,1.5833333333333333
 2017-10-01,France Info TV,PROG,Sander Anne,Les Républicains,LR,1.8
-2017-08-01,BFM TV,JT,Santoni Pierre,Sans Étiquette,NA,16.333333333333332
-2017-08-01,BFM TV,MAG,Santoni Pierre,Sans Étiquette,NA,2.65
+2017-08-01,BFM TV,JT,Santoni Pierre,Sans Étiquette,Divers,16.333333333333332
+2017-08-01,BFM TV,MAG,Santoni Pierre,Sans Étiquette,Divers,2.65
 2017-09-01,France Info TV,MAG,Serne Pierre,EELV,EELV,6.5
 2017-09-01,France Info,JT,Serne Pierre,EELV,EELV,26.916666666666668
 2017-11-01,BFM TV,JT,Sorre Bertrand,La République En Marche,LREM,4.666666666666667
@@ -9595,7 +9595,7 @@ month,station,prog_type,name,label,party,time
 2017-10-01,LCI,MAG,Adam Damien,La République En Marche,LREM,106.91666666666667
 2017-09-01,BFM TV,JT,Aggoune Fatiha,Parti Communiste Français,PCF,1.1
 2017-09-01,France 5,PROG,Aguilera Frederic,Les Républicains,LR,1.6333333333333333
-2017-09-01,France Info TV,JT,Ahamadi Dit Raos Said,Divers,NA,1.1333333333333333
+2017-09-01,France Info TV,JT,Ahamadi Dit Raos Said,Divers,Divers,1.1333333333333333
 2017-08-01,LCI,MAG,Alexandre Magali,Parti Socialiste,PS,85.71666666666667
 2017-10-01,France 5,MAG,Allain Olivier,La République En Marche,LREM,1
 2017-11-01,France Info,JT,Amiable Marie Helene,Parti Communiste Français,PCF,4.033333333333333
@@ -9606,7 +9606,7 @@ month,station,prog_type,name,label,party,time
 2017-07-01,France Info TV,JT,Anziani Alain,Parti Socialiste,PS,1.2666666666666666
 2017-08-01,France Info,JT,Aragneau Alain,Divers Gauche,Gauche,1.6
 2017-08-01,France Info,JT,Arenas Munoz Rodrigo,EELV,EELV,4.85
-2017-07-01,BFM TV,JT,Arnaud Stephane,Divers,NA,14.683333333333334
+2017-07-01,BFM TV,JT,Arnaud Stephane,Divers,Divers,14.683333333333334
 2017-11-01,France Info TV,PROG,Arnell Guillaume,Divers Gauche,Gauche,1.8
 2017-08-01,France Info,JT,Arnoult Francois,Divers Droite,Droite,1.5166666666666666
 2017-11-01,France Info,JT,Aspinas Gilles,Parti Communiste Français,PCF,8.6
@@ -9615,7 +9615,7 @@ month,station,prog_type,name,label,party,time
 2017-11-01,C NEWS,JT,Averly Renaud,Les Républicains,LR,1.5166666666666666
 2017-11-01,BFM TV,MAG,Avril Gerard,La République En Marche,LREM,1.45
 2017-09-01,C NEWS,MAG,Aziere Eric,Mouvement Démocrate,MODEM,10.883333333333333
-2017-08-01,BFM TV,JT,Bacq De Paepe Christelle,Sans Étiquette,NA,3.3666666666666667
+2017-08-01,BFM TV,JT,Bacq De Paepe Christelle,Sans Étiquette,Divers,3.3666666666666667
 2017-11-01,France Info,JT,Badre Marie Pierre,Les Républicains,LR,8.133333333333333
 2017-11-01,France Info,JT,Bagarry Delphine,La République En Marche,LREM,2.6333333333333333
 2017-11-01,France Info,JT,Baguet Pierre Christophe,Les Républicains,LR,4.633333333333334
@@ -9671,12 +9671,12 @@ month,station,prog_type,name,label,party,time
 2017-12-01,France Info,JT,Bontemps Gilles,Parti Communiste Français,PCF,7.183333333333334
 2017-09-01,LCI,MAG,Borel Lincertin Josette,Parti Socialiste,PS,1.7833333333333334
 2017-11-01,LCI,JT,Borloo Jean Louis,Union Des Démocrates Et Indépendants,UDI,1.2
-2017-07-01,BFM TV,JT,Bouatjean Michel,Sans Étiquette,NA,1.3166666666666667
+2017-07-01,BFM TV,JT,Bouatjean Michel,Sans Étiquette,Divers,1.3166666666666667
 2017-10-01,C NEWS,MAG,Boudie Florent,La République En Marche,LREM,13
 2017-11-01,Europe 1,JT,Boudie Florent,Parti Socialiste,PS,1.9666666666666666
 2017-10-01,LCI,MAG,Bouillon Christophe,Parti Socialiste,PS,15.133333333333333
 2017-10-01,France Info TV,JT,Boulland Philippe,Les Républicains,LR,1.1833333333333333
-2017-08-01,France Info TV,JT,Bourdeu Josette,Parti Radical De Gauche,NA,1.1833333333333333
+2017-08-01,France Info TV,JT,Bourdeu Josette,Parti Radical De Gauche,PRG,1.1833333333333333
 2017-10-01,LCI,MAG,Bourdu Anne,Parti Liberal Democrate,NA,26.733333333333334
 2017-07-01,BFM TV,JT,Bourgeois Marie Christine,Front National,FN,2.216666666666667
 2017-09-01,LCI,JT,Bourlanges Jean Louis,Mouvement Démocrate,MODEM,32.18333333333333
@@ -9704,14 +9704,14 @@ month,station,prog_type,name,label,party,time
 2017-10-01,RTL,JT,Buisson Philippe,Parti Socialiste,PS,2.933333333333333
 2017-12-01,RMC,JT,Burkli Delphine,Les Républicains,LR,1.05
 2017-08-01,BFM TV,JT,Burre Cassou Marie Pierre,Divers Droite,Droite,4.3
-2017-08-01,BFM TV,JT,Burro Paul,Sans Étiquette,NA,3.5
+2017-08-01,BFM TV,JT,Burro Paul,Sans Étiquette,Divers,3.5
 2017-08-01,France Inter,PROG,Bussy Florent,Parti Communiste Français,PCF,9.25
 2017-12-01,France 5,MAG,Buyssechaert Eric,Les Républicains,LR,1.55
 2017-11-01,France Info,JT,Cabas David,Debout La France,DlF,3.3333333333333335
 2017-09-01,France Info,JT,Cadalen Pierre Yves,La France Insoumise,LFI,5.866666666666666
 2017-12-01,Europe 1,MAG,Cadene Nicolas,Parti Socialiste,PS,10
 2017-08-01,France Info,JT,Cadic Olivier,Union Des Démocrates Et Indépendants,UDI,8.25
-2017-07-01,BFM TV,JT,Calamuso Albert,Sans Étiquette,NA,3.1333333333333333
+2017-07-01,BFM TV,JT,Calamuso Albert,Sans Étiquette,Divers,3.1333333333333333
 2017-08-01,RMC,MAG,Calleja Philippe,Les Républicains,LR,2.783333333333333
 2017-10-01,LCI,MAG,Calmels Virginie,Les Républicains,LR,70.86666666666666
 2017-11-01,France Info,JT,Calmet Marine,EELV,EELV,13.966666666666667
@@ -9726,7 +9726,7 @@ month,station,prog_type,name,label,party,time
 2017-07-01,BFM TV,MAG,Cavard Christophe,Parti Ecologiste,NA,1.7333333333333334
 2017-12-01,LCI,JT,Cazenove Sebastien,La République En Marche,LREM,3.4833333333333334
 2017-11-01,TMC,MAG,Ceccaldi Raynaud Joelle,Les Républicains,LR,1.2
-2017-09-01,BFM TV,JT,Cerbelle Regis,Sans Étiquette,NA,1.2
+2017-09-01,BFM TV,JT,Cerbelle Regis,Sans Étiquette,Divers,1.2
 2017-09-01,France Info,JT,Cerol Nita,Les Républicains,LR,2.2666666666666666
 2017-07-01,BFM TV,JT,Chabert Maurice,Les Républicains,LR,5.516666666666667
 2017-08-01,France Info,JT,Chaboisseau Fabien,Divers Droite,Droite,2
@@ -9736,7 +9736,7 @@ month,station,prog_type,name,label,party,time
 2017-09-01,France Inter,PROG,Chaulet Edouard,Parti Communiste Français,PCF,31.2
 2017-08-01,RMC,MAG,Chauvet Vincent,La République En Marche,LREM,14
 2017-07-01,LCI,JT,Chavepeyre Luccioni Cathe,Les Républicains,LR,4.783333333333333
-2017-12-01,France 5,MAG,Chaverot Bernard,Parti Radical De Gauche,NA,1.9
+2017-12-01,France 5,MAG,Chaverot Bernard,Parti Radical De Gauche,PRG,1.9
 2017-08-01,France Info,JT,Cheminade Jacques,Solidarite Et Progres,NA,23.8
 2017-12-01,BFM,JT,Chenevez Bernard,Nous Citoyens,NA,3.5833333333333335
 2017-10-01,Europe 1,MAG,Chereau Frederic,Parti Socialiste,PS,3.8666666666666667
@@ -9750,7 +9750,7 @@ month,station,prog_type,name,label,party,time
 2017-09-01,France Info,JT,Cohen Fabien,Parti Communiste Français,PCF,2.25
 2017-11-01,France Info,JT,Cohen Pierre,Parti Socialiste,PS,7.433333333333334
 2017-11-01,France Info,JT,Colas Sylvie,Divers Gauche,Gauche,5.866666666666666
-2017-12-01,France Info,JT,Colombani Paul Andre,Femu A Corsica,NA,11.533333333333333
+2017-12-01,France Info,JT,Colombani Paul Andre,Femu A Corsica,Femu A Corsica,11.533333333333333
 2017-11-01,France Info,JT,Conte Jaubert Mireille,Divers Gauche,Gauche,2.533333333333333
 2017-08-01,France Info,JT,Conway Helene,Parti Socialiste,PS,10.916666666666666
 2017-08-01,RTL,JT,Cordier Pierre,Les Républicains,LR,1.05
@@ -9761,10 +9761,10 @@ month,station,prog_type,name,label,party,time
 2017-09-01,France Culture,MAG,Couet Emmanuel,Parti Socialiste,PS,2.8666666666666667
 2017-10-01,France Info,JT,Courtois Michel,Divers Droite,Droite,1.8666666666666667
 2017-10-01,France Info,JT,Cozic Noel,Divers Droite,Droite,4.2
-2017-07-01,BFM TV,JT,Cristiani Georges,Sans Étiquette,NA,1.5
+2017-07-01,BFM TV,JT,Cristiani Georges,Sans Étiquette,Divers,1.5
 2017-12-01,Europe 1,MAG,Cucheratyann,Parti Socialiste,PS,5.6
 2017-09-01,C NEWS,JT,Cuny Emanuelle,Les Républicains,LR,2.2
-2017-11-01,France Info,JT,Cutajar Chantal,CAP 21,NA,3.533333333333333
+2017-11-01,France Info,JT,Cutajar Chantal,Cap 21,Cap 21,3.533333333333333
 2017-12-01,France 5,MAG,Da Silva Neto Jose,Divers Droite,Droite,1.25
 2017-07-01,LCI,JT,Dagnaud Francois,Parti Socialiste,PS,1.3166666666666667
 2017-12-01,Europe 1,JT,Dahoui Yves-Michel,Parti Socialiste,PS,2.2333333333333334
@@ -9786,10 +9786,10 @@ month,station,prog_type,name,label,party,time
 2017-12-01,Europe 1,MAG,De La Nouvelle Frederic,La République En Marche,LREM,9.766666666666667
 2017-11-01,BFM TV,JT,De La Ronciere Gregoire,Divers Droite,Droite,1.6666666666666667
 2017-11-01,C NEWS,MAG,De Lasteyrie Gregoire,Les Républicains,LR,8.066666666666666
-2017-09-01,C NEWS,MAG,De Saint Affrique Lorrain,"Jeanne, Au Secours !",NA,20.566666666666666
+2017-09-01,C NEWS,MAG,De Saint Affrique Lorrain,"Jeanne, Au Secours !","Jeanne, Au Secours !",20.566666666666666
 2017-11-01,France Info,JT,De Sainte Marie Arnaud,Les Républicains,LR,1.8666666666666667
-2017-08-01,BFM TV,JT,Debertjean Luc,Sans Étiquette,NA,3.5
-2017-07-01,BFM TV,JT,Debraize Vincent,Sans Étiquette,NA,5.333333333333333
+2017-08-01,BFM TV,JT,Debertjean Luc,Sans Étiquette,Divers,3.5
+2017-07-01,BFM TV,JT,Debraize Vincent,Sans Étiquette,Divers,5.333333333333333
 2017-08-01,RTL,JT,Debre Isabelle,Les Républicains,LR,5.85
 2017-12-01,C NEWS,MAG,Deck Alexis,EELV,EELV,1.0333333333333334
 2017-10-01,France Info,JT,Decoster Francois,Union Des Démocrates Et Indépendants,UDI,2.8
@@ -9840,7 +9840,7 @@ month,station,prog_type,name,label,party,time
 2017-12-01,Europe 1,JT,Edouard Philippe,La République En Marche,LREM,3.8666666666666667
 2017-09-01,BFM TV,MAG,Engelmann Fabien,Front National,FN,1.8166666666666667
 2017-08-01,France Info,JT,Enjalbert Bruno,Divers Gauche,Gauche,7.4
-2017-11-01,France 5,MAG,Eple Herve,Parti Radical De Gauche,NA,1.7
+2017-11-01,France 5,MAG,Eple Herve,Parti Radical De Gauche,PRG,1.7
 2017-11-01,BFM,MAG,Errante Sophie,La République En Marche,LREM,23.8
 2017-11-01,France Info,JT,Eschlimann Michele,Divers Droite,Droite,2.9
 2017-11-01,Europe 1,PROG,Even Jean-Louis,Parti Socialiste,PS,5.166666666666667
@@ -9885,7 +9885,7 @@ month,station,prog_type,name,label,party,time
 2017-11-01,RMC,MAG,Gaugain Sophie,Divers Droite,Droite,10.233333333333333
 2017-11-01,Europe 1,MAG,Gausserand Patrice,Union Des Démocrates Et Indépendants,UDI,2.816666666666667
 2017-11-01,France Inter,MAG,Gelot Rateau Sandrine,Les Républicains,LR,5.95
-2017-12-01,France Culture,JT,Gemmani Stephane,Cap 21,NA,1.3
+2017-12-01,France Culture,JT,Gemmani Stephane,Cap 21,Cap 21,1.3
 2017-10-01,RMC,MAG,Gendre Gregory,Divers Gauche,Gauche,40.86666666666667
 2017-12-01,France Culture,PROG,Genevee Frederick,Parti Communiste Français,PCF,18.2
 2017-12-01,France Info TV,MAG,Geny Stephann Delphine,Ministre,Exécutif,1.1333333333333333
@@ -9896,7 +9896,7 @@ month,station,prog_type,name,label,party,time
 2017-09-01,France Culture,MAG,Gibson Pierre Emmanuel,Les Républicains,LR,5.1
 2017-12-01,RMC,JT,Gillaizeau Jacques,Parti Socialiste,PS,1
 2017-12-01,France Culture,PROG,Giovannangeli Magali,Parti Communiste Français,PCF,3.066666666666667
-2017-12-01,France Info,JT,Giovannini Fabienne,Femu A Corsica,NA,2.45
+2017-12-01,France Info,JT,Giovannini Fabienne,Femu A Corsica,Femu A Corsica,2.45
 2017-09-01,France Culture,PROG,Gipson Severine,La République En Marche,LREM,16.983333333333334
 2017-09-01,France Info,JT,Giran Jean Pierre,Les Républicains,LR,7.183333333333334
 2017-08-01,France Info,JT,Girardi Raymond,Parti Communiste Français,PCF,8.883333333333333
@@ -9908,7 +9908,7 @@ month,station,prog_type,name,label,party,time
 2017-08-01,France Inter,PROG,Goromido Joseph,Front De Libération Nationale Kanak Et Socialiste,NA,7.6
 2017-12-01,France Info TV,JT,Goueta Nicole,Les Républicains,LR,1.1166666666666667
 2017-09-01,France Culture,MAG,Gralepois Mathilde,EELV,EELV,8.016666666666667
-2017-09-01,Europe 1,MAG,Grandsimon Laurent,Parti Radical De Gauche,NA,3.15
+2017-09-01,Europe 1,MAG,Grandsimon Laurent,Parti Radical De Gauche,PRG,3.15
 2017-12-01,France Info,JT,Grau Romain,La République En Marche,LREM,2.3
 2017-12-01,C NEWS,JT,Grele Antonin,Mouvement Démocrate,MODEM,1.5166666666666666
 2017-11-01,France Info,JT,Grelet Certenais Nadine,Parti Socialiste,PS,2.9
@@ -9916,9 +9916,9 @@ month,station,prog_type,name,label,party,time
 2017-11-01,France Info,JT,Gsell Pierre,Divers Droite,Droite,3.9
 2017-08-01,RTL,MAG,Guarrido Raquel,La France Insoumise,LFI,1.5
 2017-12-01,France 5,MAG,Guilbert Max,Divers Droite,Droite,3.55
-2017-08-01,BFM TV,JT,Guillaume Jean Francois,Sans Étiquette,NA,1.9
+2017-08-01,BFM TV,JT,Guillaume Jean Francois,Sans Étiquette,Divers,1.9
 2017-11-01,France Info,JT,Guillaume Marie Celie,Les Républicains,LR,13.166666666666666
-2017-12-01,RTL,MAG,Guillo Yannick,Parti Radical De Gauche,NA,1.6166666666666667
+2017-12-01,RTL,MAG,Guillo Yannick,Parti Radical De Gauche,PRG,1.6166666666666667
 2017-11-01,C NEWS,MAG,Guiraud David,La France Insoumise,LFI,7.9
 2017-09-01,France Info,JT,Guirkinger Bernard,La République En Marche,LREM,2.65
 2017-09-01,BFM TV,JT,Gustave Dit Duflo Sylvie,La République En Marche,LREM,2.4166666666666665
@@ -9957,20 +9957,20 @@ month,station,prog_type,name,label,party,time
 2017-07-01,LCI,JT,Julien Laferriere Hubert,La République En Marche,LREM,1.2
 2017-12-01,France Info,JT,Juppe Alain,EELV,EELV,1.9833333333333334
 2017-08-01,France Info,JT,Kaczmarek Freddy,Parti Communiste Français,PCF,1.7
-2017-08-01,RTL,JT,Kees Fabien,Sans Étiquette,NA,6.4
+2017-08-01,RTL,JT,Kees Fabien,Sans Étiquette,Divers,6.4
 2017-07-01,LCI,MAG,Kekenbosch Thomas,Parti Socialiste,PS,2.6666666666666665
 2017-09-01,France Inter,JT,Kerckhove Stephen,EELV,EELV,3.0833333333333335
 2017-08-01,France Inter,JT,Kersaudy Nadine,Union Des Démocrates Et Indépendants,UDI,1
 2017-11-01,France Info,JT,Kervran Loic,La République En Marche,LREM,20.633333333333333
 2017-10-01,TMC,MAG,Khedher Anissa,La République En Marche,LREM,1.4833333333333334
 2017-12-01,C NEWS,MAG,Khiari Bariza,La République En Marche,LREM,14.15
-2017-12-01,France 5,MAG,Kotra Uregei Louis,Caledonie Ensemble,NA,1.3
+2017-12-01,France 5,MAG,Kotra Uregei Louis,Calédonie Ensemble,NA,1.3
 2017-11-01,LCI,MAG,Kuric Aina,La République En Marche,LREM,6.216666666666667
 2017-08-01,Europe 1,MAG,Kutner Jean Marie,Union Des Démocrates Et Indépendants,UDI,3.6666666666666665
 2017-07-01,France Info TV,MAG,Kuzmanovic Djordje,La France Insoumise,LFI,21.35
 2017-08-01,France Info,JT,Laborie Christophe,Union Des Démocrates Et Indépendants,UDI,1.3
 2017-10-01,LCI,JT,Lafon Carole,Parti Communiste Français,PCF,1.5333333333333334
-2017-09-01,BFM TV,JT,Lagues Baget Yves,Sans Étiquette,NA,1.3833333333333333
+2017-09-01,BFM TV,JT,Lagues Baget Yves,Sans Étiquette,Divers,1.3833333333333333
 2017-10-01,LCI,MAG,Lamy Francois,Parti Socialiste,PS,3.35
 2017-12-01,France Culture,PROG,Large Morgan,Divers Gauche,Gauche,8.983333333333333
 2017-09-01,France Info,JT,Laugier Michel,Mouvement Démocrate,MODEM,1.8666666666666667
@@ -9993,7 +9993,7 @@ month,station,prog_type,name,label,party,time
 2017-11-01,France Info,JT,Lebreton Gilles,Front National,FN,1.4
 2017-08-01,France 5,MAG,Lecleve Georges,Divers Gauche,Gauche,1
 2017-12-01,France Inter,JT,Lecocq Charlotte,La République En Marche,LREM,3.65
-2017-08-01,BFM TV,JT,Lecomte Alain,Sans Étiquette,NA,14.933333333333334
+2017-08-01,BFM TV,JT,Lecomte Alain,Sans Étiquette,Divers,14.933333333333334
 2017-08-01,France Culture,JT,Leconte Jean Yves,Parti Socialiste,PS,1.5666666666666667
 2017-07-01,LCI,JT,Lecoq Jean Pierre,Les Républicains,LR,11
 2017-09-01,France Info,JT,Leday Nicolas,Les Républicains,LR,3.5
@@ -10004,7 +10004,7 @@ month,station,prog_type,name,label,party,time
 2017-12-01,France Culture,JT,Leleux Jean Pierre,Les Républicains,LR,1.2333333333333334
 2017-10-01,France Info,JT,Lemasson Jean Claude,Divers Gauche,Gauche,5.5
 2017-10-01,RMC,MAG,Lempereur Damien,Debout La France,DlF,14.633333333333333
-2017-07-01,France Info TV,JT,Leonelli Philippe,Sans Etiquette,NA,10.183333333333334
+2017-07-01,France Info TV,JT,Leonelli Philippe,Sans Étiquette,Divers,10.183333333333334
 2017-11-01,C NEWS,JT,Lepage Claudine,Parti Socialiste,PS,5.6
 2017-10-01,BFM TV,JT,Leproust Gilles,Parti Communiste Français,PCF,1.1166666666666667
 2017-11-01,France Info TV,JT,Leroy Sebastien,Les Républicains,LR,1.2666666666666666
@@ -10024,12 +10024,12 @@ month,station,prog_type,name,label,party,time
 2017-09-01,C NEWS,MAG,Luciani Pascale,La République En Marche,LREM,5.733333333333333
 2017-11-01,France Culture,PROG,Luisin Helene,Parti Socialiste,PS,1.05
 2017-08-01,BFM TV,JT,Luquetaude,Mouvement Démocrate,MODEM,2.8333333333333335
-2017-07-01,France Info TV,JT,Maamaatuaiahutapu Heremoa,Divers,NA,3.5833333333333335
+2017-07-01,France Info TV,JT,Maamaatuaiahutapu Heremoa,Divers,Divers,3.5833333333333335
 2017-10-01,RMC,MAG,Madrelle Philippe,Parti Socialiste,PS,2
-2017-07-01,BFM TV,JT,Magne Gabriel,Sans Étiquette,NA,2.1
+2017-07-01,BFM TV,JT,Magne Gabriel,Sans Étiquette,Divers,2.1
 2017-08-01,France Info,JT,Magner Jacques Bernard,Parti Socialiste,PS,1.1333333333333333
 2017-09-01,France Info TV,PROG,Magras Michel,Les Républicains,LR,4.216666666666667
-2017-09-01,Europe 1,MAG,Mahe Jean Claude,Sans Étiquette,NA,3.2
+2017-09-01,Europe 1,MAG,Mahe Jean Claude,Sans Étiquette,Divers,3.2
 2017-10-01,Europe 1,JT,Malange Gaetan,Les Républicains,LR,1.7
 2017-12-01,France Info,JT,Malherbe Hermeline,Parti Socialiste,PS,7.233333333333333
 2017-08-01,France Info TV,JT,Mancipoz Andre,Les Républicains,LR,1.2
@@ -10043,7 +10043,7 @@ month,station,prog_type,name,label,party,time
 2017-11-01,France Info,JT,Marilleau Fabienne,La République En Marche,LREM,2.3333333333333335
 2017-09-01,RMC,MAG,Maroun Severine,Les Républicains,LR,13.033333333333333
 2017-08-01,RMC,MAG,Marsaud Alain,Les Républicains,LR,9.4
-2017-07-01,C NEWS,MAG,Martin Jean Francois,Parti Radical De Gauche,NA,9.05
+2017-07-01,C NEWS,MAG,Martin Jean Francois,Parti Radical De Gauche,PRG,9.05
 2017-08-01,France Inter,PROG,Martin Stephane,Les Républicains,LR,3.8833333333333333
 2017-10-01,France Inter,JT,Martinez Didier,Parti Socialiste,PS,1.15
 2017-12-01,France Culture,JT,Massart Alexis,Parti Radical,NA,3.9
@@ -10069,13 +10069,13 @@ month,station,prog_type,name,label,party,time
 2017-11-01,France Info,JT,Meyzonet Philippe,Divers Droite,Droite,2.3
 2017-08-01,BFM TV,JT,Miceli Thierry,Divers Gauche,Gauche,7.266666666666667
 2017-11-01,C NEWS,MAG,Michel-Kleisbauer Philippe,Mouvement Démocrate,MODEM,7.233333333333333
-2017-12-01,Europe 1,JT,Militant Femu A Corsica,Femu A Corsica,NA,4.8
+2017-12-01,Europe 1,JT,Militant Femu A Corsica,Femu A Corsica,Femu A Corsica,4.8
 2017-09-01,Europe 1,JT,Militant Fi,Front National,FN,1.9166666666666667
 2017-12-01,Europe 1,JT,Militant Modem,Mouvement Démocrate,MODEM,1.2666666666666666
-2017-12-01,France Info,JT,Militant(E) Femu A Corsica,Femu A Corsica,NA,3.25
-2017-12-01,C NEWS,MAG,Militant(E) Generations,Génération.s,Géné,2.1333333333333333
+2017-12-01,France Info,JT,Militant(E) Femu A Corsica,Femu A Corsica,Femu A Corsica,3.25
+2017-12-01,C NEWS,MAG,Militant(E) Generations,Génération.s,Génération.s,2.1333333333333333
 2017-10-01,France Info,JT,Militant(E) La Republique En Marche,La République En Marche,LREM,8.85
-2017-09-01,C NEWS,MAG,Militant(E) Pcf,Parti Radical De Gauche,NA,1.8666666666666667
+2017-09-01,C NEWS,MAG,Militant(E) Pcf,Parti Radical De Gauche,PRG,1.8666666666666667
 2017-08-01,France Info,JT,Miron Richard,Les Républicains,LR,1.1
 2017-07-01,C NEWS,JT,Misiak Brigitte,Parti Socialiste,PS,1.65
 2017-09-01,France Info,JT,Mivel Jean Louis,Divers Droite,Droite,11.25
@@ -10084,7 +10084,7 @@ month,station,prog_type,name,label,party,time
 2017-08-01,France Info,JT,Montchamp Marie Anne,La République En Marche,LREM,61.93333333333333
 2017-12-01,Europe 1,MAG,Moreau Cyril,EELV,EELV,6.033333333333333
 2017-11-01,France Inter,MAG,Morer Jean Michel,Parti Socialiste,PS,6.7
-2017-08-01,BFM TV,JT,Morganti Jean Toussaint,Sans Étiquette,NA,4.533333333333333
+2017-08-01,BFM TV,JT,Morganti Jean Toussaint,Sans Étiquette,Divers,4.533333333333333
 2017-09-01,France Info,JT,Mornal Blaise,Parti Socialiste,PS,10.866666666666667
 2017-09-01,France 5,PROG,Mougins Gauthier,Les Républicains,LR,1.2666666666666666
 2017-09-01,France Culture,PROG,Moulin Catherine,Divers Gauche,Gauche,3.7333333333333334
@@ -10092,7 +10092,7 @@ month,station,prog_type,name,label,party,time
 2017-08-01,France Info,JT,Mouzatjean,Parti Communiste Français,PCF,6.983333333333333
 2017-08-01,France Info,JT,Muller Eddie,Divers Droite,Droite,1.4333333333333333
 2017-12-01,France Culture,MAG,Munzer Deborah,Les Républicains,LR,1.7333333333333334
-2017-10-01,BFM TV,JT,Nicolas Gilles,Sans Étiquette,NA,1.3833333333333333
+2017-10-01,BFM TV,JT,Nicolas Gilles,Sans Étiquette,Divers,1.3833333333333333
 2017-11-01,France 5,MAG,Nicolin Yves,Les Républicains,LR,1.45
 2017-12-01,Europe 1,JT,Njikam Pierre De Gaetan,Les Républicains,LR,1.1333333333333333
 2017-09-01,BFM TV,MAG,Noirot Lilian,Divers Droite,Droite,5.45
@@ -10126,10 +10126,10 @@ month,station,prog_type,name,label,party,time
 2017-09-01,France Info,JT,Perole Gilles,EELV,EELV,6.35
 2017-07-01,France 2,MAG,Perraud Serge,Union Des Démocrates Et Indépendants,UDI,1.6333333333333333
 2017-11-01,C NEWS,JT,Perrault Michel,Divers Droite,Droite,2.1666666666666665
-2017-07-01,BFM TV,JT,Perrin Cedric,Sans Étiquette,NA,1
+2017-07-01,BFM TV,JT,Perrin Cedric,Sans Étiquette,Divers,1
 2017-11-01,France Info,JT,Peschanski Denis,Parti Socialiste,PS,18.633333333333333
 2017-11-01,France Inter,MAG,Petrus Annick Daniele,Parti Socialiste,PS,2.9833333333333334
-2017-09-01,BFM TV,JT,Peyret Gilbert,Sans Étiquette,NA,6.066666666666666
+2017-09-01,BFM TV,JT,Peyret Gilbert,Sans Étiquette,Divers,6.066666666666666
 2017-12-01,C NEWS,JT,Peyronnet Jean Claude,Parti Socialiste,PS,1
 2017-10-01,France 3,JT,Phinera Horth Marie Laure,Parti Socialiste Guyanais,NA,4.216666666666667
 2017-09-01,RTL,JT,Pioche Jean Claude,Divers Gauche,Gauche,1.4833333333333334
@@ -10188,10 +10188,10 @@ month,station,prog_type,name,label,party,time
 2017-11-01,France Info,JT,Rouger Guillaume,La République En Marche,LREM,2.3333333333333335
 2017-12-01,France Info TV,MAG,Rouillard Gwendal,La République En Marche,LREM,11.533333333333333
 2017-08-01,BFM TV,JT,Roussel Cedric,La République En Marche,LREM,3.8333333333333335
-2017-08-01,BFM TV,JT,Roussel Michel,Sans Étiquette,NA,4.166666666666667
+2017-08-01,BFM TV,JT,Roussel Michel,Sans Étiquette,Divers,4.166666666666667
 2017-11-01,France Inter,PROG,Rouve Jerome,Divers Droite,Droite,3.433333333333333
 2017-12-01,France Inter,MAG,Rouveyre Mathieu,Parti Socialiste,PS,1.7666666666666666
-2017-11-01,France Info,JT,Roziere Virginie,Parti Radical De Gauche,NA,15.566666666666666
+2017-11-01,France Info,JT,Roziere Virginie,Parti Radical De Gauche,PRG,15.566666666666666
 2017-10-01,France Info,JT,Ruffet Yves,Divers Droite,Droite,2.2
 2017-12-01,France Info TV,JT,Sacquepee Bernard,Les Républicains,LR,1.1
 2017-11-01,LCI,JT,Sallee Jean Philippe,La République En Marche,LREM,2.45
@@ -10210,7 +10210,7 @@ month,station,prog_type,name,label,party,time
 2017-11-01,LCI,JT,Sellier Thierry,Mouvement Démocrate,MODEM,1.2166666666666666
 2017-12-01,LCI,MAG,Sempastous Jean Bernard,La République En Marche,LREM,1.55
 2017-09-01,France 3,JT,Senee Ghislaine,EELV,EELV,2.5
-2017-07-01,BFM TV,JT,Senoble Romain,Sans Étiquette,NA,1.2833333333333334
+2017-07-01,BFM TV,JT,Senoble Romain,Sans Étiquette,Divers,1.2833333333333334
 2017-11-01,France 2,MAG,Serrus Jean Pierre,Les Républicains,LR,1.0666666666666667
 2017-08-01,France Inter,MAG,Servat Alain,Parti Socialiste,PS,4.066666666666666
 2017-09-01,France Culture,MAG,Siarri Alexandra,Les Républicains,LR,8.2
@@ -10224,14 +10224,14 @@ month,station,prog_type,name,label,party,time
 2017-12-01,LCI,JT,Strambio Richard,Divers Droite,Droite,3.066666666666667
 2017-12-01,France Info TV,JT,Strecker Marie Noelle,Divers Droite,Droite,1.75
 2017-12-01,LCI,MAG,Studer Bruno,La République En Marche,LREM,133.25
-2017-08-01,LCI,MAG,Subercaze Philippe,Parti Radical De Gauche,NA,2.716666666666667
+2017-08-01,LCI,MAG,Subercaze Philippe,Parti Radical De Gauche,PRG,2.716666666666667
 2017-07-01,France Info TV,JT,Sueur Jean Pierre,Parti Socialiste,PS,2.25
 2017-07-01,France 5,MAG,Sulzer Jean Richard,Front National,FN,1.05
 2017-09-01,France Culture,MAG,Switaj Olivier,Parti Socialiste,PS,3.3
 2017-11-01,France Info,JT,Szpiner Francis,Les Républicains,LR,27.466666666666665
 2017-09-01,LCI,MAG,Tabarot Michele,Les Républicains,LR,24.866666666666667
 2017-11-01,C NEWS,JT,Taïbi Azzedine,Parti Communiste Français,PCF,6.283333333333333
-2017-12-01,BFM TV,MAG,Taillant Robert,Sans Étiquette,NA,7.316666666666666
+2017-12-01,BFM TV,MAG,Taillant Robert,Sans Étiquette,Divers,7.316666666666666
 2017-08-01,France Culture,MAG,Talland Maurice,Parti Socialiste,PS,1.5666666666666667
 2017-10-01,RMC,JT,Tallet Maud,Parti Communiste Français,PCF,1
 2017-11-01,France Inter,MAG,Tatti Francois,Divers Gauche,Gauche,2.4
@@ -10251,7 +10251,7 @@ month,station,prog_type,name,label,party,time
 2017-08-01,France Info TV,MAG,Tintane Serge,Divers Gauche,Gauche,1.5333333333333334
 2017-11-01,RMC,MAG,Toulmet Patrick,La République En Marche,LREM,13.566666666666666
 2017-09-01,Europe 1,MAG,Tourenne Jean Louis,Parti Socialiste,PS,4.333333333333333
-2017-07-01,BFM TV,JT,Tournier Jean Claude,Sans Étiquette,NA,1.45
+2017-07-01,BFM TV,JT,Tournier Jean Claude,Sans Étiquette,Divers,1.45
 2017-11-01,France Info,JT,Toussaint Marie,EELV,EELV,10.966666666666667
 2017-10-01,France Info TV,JT,Touzeau Jean,Parti Socialiste,PS,1.3666666666666667
 2017-07-01,France Info TV,PROG,Trogrlic Laurent,Parti Socialiste,PS,1.1
