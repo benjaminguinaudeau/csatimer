@@ -6,7 +6,7 @@
 `csatimer` provides data on how much airtime French politician receive
 in the media.
 
-The dataset contained in the package are also
+The datasets contained in the package are also
 [available](https://github.com/benjaminguinaudeau/csatimer/tree/master/inst/csv)
 in the csv-format.
 
@@ -19,7 +19,7 @@ devtools::install_github("benjaminguinaudeau/csatimer")
 
 ## Data
 
-*Last Update: January, 29 2022*
+*Last Update: February, 2nd 2022*
 
 Two types of datasets are provided:
 
