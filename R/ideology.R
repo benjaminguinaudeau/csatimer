@@ -15,7 +15,7 @@ add_station_dummies <- function(.tbl){
 }
 
 
-
+#' @export
 ideo_values <- c(
   "Far-Left" = "#f20519",
   "Left" = "#e3669e",
@@ -26,6 +26,7 @@ ideo_values <- c(
   "Other" = "#aaadad"
 )
 
+#' @export
 ideo_values_nogov <- c(
   "Far-Left" = "#f20519",
   "Left" = "#e3669e",
