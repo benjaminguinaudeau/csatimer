@@ -1,663 +1,1086 @@
 type,constituency,station,candidat,date_start,date_end,time_candidat,time_support,time_mention
+presidential,national,BFM,Jadot Yannick,2022-01-30,2022-02-13,1.75,0,0.3
+presidential,national,BFM,Koenig Gaspard,2022-01-30,2022-02-13,0,0,17.8
+presidential,national,BFM,Le Pen Marine,2022-01-30,2022-02-13,0,0,5.7833
 presidential,national,BFM,Macron Emmanuel,2022-01-01,2022-01-16,0,3.9833,0
 presidential,national,BFM,Macron Emmanuel,2022-01-16,2022-01-30,2.0833,4.55,52.35
+presidential,national,BFM,Macron Emmanuel,2022-01-30,2022-02-13,7.9,7.0167,44.2167
+presidential,national,BFM,Melenchon Jean Luc,2022-01-30,2022-02-13,0,0,0.4
 presidential,national,BFM,Pecresse Valerie,2022-01-01,2022-01-16,0.1333,0,0
 presidential,national,BFM,Pecresse Valerie,2022-01-16,2022-01-30,0,0,0
+presidential,national,BFM,Pecresse Valerie,2022-01-30,2022-02-13,0,32.3167,55.7333
 presidential,national,BFM,Roussel Fabien,2022-01-16,2022-01-30,0.8667,0,0
+presidential,national,BFM,Roussel Fabien,2022-01-30,2022-02-13,0,0,2.35
 presidential,national,BFM,Zemmour Eric,2022-01-01,2022-01-16,0.6,0,1.3167
 presidential,national,BFM,Zemmour Eric,2022-01-16,2022-01-30,0,0,0
+presidential,national,BFM,Zemmour Eric,2022-01-30,2022-02-13,0,0,9.5667
 presidential,national,BFM TV,Arthaud Nathalie,2022-01-16,2022-01-30,11.75,0,0
+presidential,national,BFM TV,Arthaud Nathalie,2022-01-30,2022-02-13,1.4667,0,0.1333
 presidential,national,BFM TV,Dupont Aignan Nicolas,2022-01-01,2022-01-16,9.7167,0,0
 presidential,national,BFM TV,Dupont Aignan Nicolas,2022-01-16,2022-01-30,20.75,0,0
+presidential,national,BFM TV,Dupont Aignan Nicolas,2022-01-30,2022-02-13,0,0,0
+presidential,national,BFM TV,Furlan Philippe,2022-01-30,2022-02-13,2.1833,0,1.3333
 presidential,national,BFM TV,Grimal Fabrice,2022-01-16,2022-01-30,0.7833,0.7667,2.3833
+presidential,national,BFM TV,Grimal Fabrice,2022-01-30,2022-02-13,0,0,0
 presidential,national,BFM TV,Hidalgo Anne,2022-01-01,2022-01-16,50.9167,31.05,3.0667
 presidential,national,BFM TV,Hidalgo Anne,2022-01-16,2022-01-30,56.4,4.5167,6.9833
+presidential,national,BFM TV,Hidalgo Anne,2022-01-30,2022-02-13,2.7667,1.3167,3.3
 presidential,national,BFM TV,Jadot Yannick,2022-01-01,2022-01-16,12.3333,127.2833,1.0667
 presidential,national,BFM TV,Jadot Yannick,2022-01-16,2022-01-30,38.6833,25.3667,8.15
+presidential,national,BFM TV,Jadot Yannick,2022-01-30,2022-02-13,78.5833,39.2667,16.95
 presidential,national,BFM TV,Kazib Anasse,2022-01-16,2022-01-30,2.6833,0,1.05
+presidential,national,BFM TV,Kazib Anasse,2022-01-30,2022-02-13,0,0,0
 presidential,national,BFM TV,Koenig Gaspard,2022-01-01,2022-01-16,8.3,0,0
 presidential,national,BFM TV,Koenig Gaspard,2022-01-16,2022-01-30,0,0,0
+presidential,national,BFM TV,Koenig Gaspard,2022-01-30,2022-02-13,0,0,0
 presidential,national,BFM TV,Kuzmanovic Georges,2022-01-16,2022-01-30,2.6667,0,2.7
+presidential,national,BFM TV,Kuzmanovic Georges,2022-01-30,2022-02-13,0,0,0.95
 presidential,national,BFM TV,Langlois Alexandre,2022-01-16,2022-01-30,6.85,0,3.8667
+presidential,national,BFM TV,Langlois Alexandre,2022-01-30,2022-02-13,0,0,0
 presidential,national,BFM TV,Lassalle Jean,2022-01-16,2022-01-30,0.9667,2.1333,3.55
+presidential,national,BFM TV,Lassalle Jean,2022-01-30,2022-02-13,0,0,0
 presidential,national,BFM TV,Le Pen Marine,2022-01-01,2022-01-16,128.0667,158.8,24.5333
 presidential,national,BFM TV,Le Pen Marine,2022-01-16,2022-01-30,46.3333,257.2833,107.5
+presidential,national,BFM TV,Le Pen Marine,2022-01-30,2022-02-13,119.9667,256.1,227.5333
 presidential,national,BFM TV,Macron Emmanuel,2022-01-01,2022-01-16,63.0833,257.3833,140.6
 presidential,national,BFM TV,Macron Emmanuel,2022-01-16,2022-01-30,30.5833,129.2333,91.15
+presidential,national,BFM TV,Macron Emmanuel,2022-01-30,2022-02-13,8.8667,188.4,172.0667
 presidential,national,BFM TV,Melenchon Jean Luc,2022-01-01,2022-01-16,134.7833,187.65,40.7167
 presidential,national,BFM TV,Melenchon Jean Luc,2022-01-16,2022-01-30,78.6167,93.3833,6.7833
+presidential,national,BFM TV,Melenchon Jean Luc,2022-01-30,2022-02-13,5.9667,54,16.6167
 presidential,national,BFM TV,Montebourg Arnaud,2022-01-16,2022-01-30,0,0,2.35
+presidential,national,BFM TV,Montebourg Arnaud,2022-01-30,2022-02-13,0,0,0
 presidential,national,BFM TV,Pecresse Valerie,2022-01-01,2022-01-16,34.4333,186.5167,40.3
 presidential,national,BFM TV,Pecresse Valerie,2022-01-16,2022-01-30,130.0333,206.75,136.4167
+presidential,national,BFM TV,Pecresse Valerie,2022-01-30,2022-02-13,123.3,339.2,245.0333
 presidential,national,BFM TV,Philippot Florian,2022-01-01,2022-01-16,6.05,0,0
 presidential,national,BFM TV,Philippot Florian,2022-01-16,2022-01-30,1.9833,0,1.1333
+presidential,national,BFM TV,Philippot Florian,2022-01-30,2022-02-13,0,0,0.4167
+presidential,national,BFM TV,Poutou Philippe,2022-01-30,2022-02-13,3.7,0,0
+presidential,national,BFM TV,Rivoal Stephanie,2022-01-30,2022-02-13,2.6667,0,1.9333
+presidential,national,BFM TV,Rocca Martin,2022-01-30,2022-02-13,4.4833,0,1.5333
 presidential,national,BFM TV,Roussel Fabien,2022-01-01,2022-01-16,14.45,19.7667,2.25
 presidential,national,BFM TV,Roussel Fabien,2022-01-16,2022-01-30,20.5833,5.2667,8.85
+presidential,national,BFM TV,Roussel Fabien,2022-01-30,2022-02-13,69.6,14.2,62.6
 presidential,national,BFM TV,Taubira Christiane,2022-01-01,2022-01-16,47.0833,0.6,17.1167
 presidential,national,BFM TV,Taubira Christiane,2022-01-16,2022-01-30,51.1,8.1167,25.3333
+presidential,national,BFM TV,Taubira Christiane,2022-01-30,2022-02-13,19.7333,8.8667,29.2
 presidential,national,BFM TV,Thouy Helene,2022-01-16,2022-01-30,4.3833,0,0
+presidential,national,BFM TV,Thouy Helene,2022-01-30,2022-02-13,0.7333,3.7167,0
 presidential,national,BFM TV,Zemmour Eric,2022-01-01,2022-01-16,235.4,143.7,87.6833
 presidential,national,BFM TV,Zemmour Eric,2022-01-16,2022-01-30,155.8667,163.0167,269.9833
+presidential,national,BFM TV,Zemmour Eric,2022-01-30,2022-02-13,257.0833,132.3,206.9167
 presidential,national,C8,Arthaud Nathalie,2022-01-16,2022-01-30,1,0,0
+presidential,national,C8,Arthaud Nathalie,2022-01-30,2022-02-13,8.5833,0,0
 presidential,national,C8,Asselineau Francois,2022-01-16,2022-01-30,0.8,0,0
+presidential,national,C8,Asselineau Francois,2022-01-30,2022-02-13,6.9333,0,0
 presidential,national,C8,Dupont Aignan Nicolas,2022-01-16,2022-01-30,1.85,0,0
+presidential,national,C8,Dupont Aignan Nicolas,2022-01-30,2022-02-13,17.0333,0,0
 presidential,national,C8,Hidalgo Anne,2022-01-16,2022-01-30,2.9,0,3.3667
+presidential,national,C8,Hidalgo Anne,2022-01-30,2022-02-13,21.6667,0,0
 presidential,national,C8,Jadot Yannick,2022-01-16,2022-01-30,4,0,1.4167
+presidential,national,C8,Jadot Yannick,2022-01-30,2022-02-13,33.7167,0,-0
 presidential,national,C8,Koenig Gaspard,2022-01-01,2022-01-16,0.9833,0,0.3333
 presidential,national,C8,Koenig Gaspard,2022-01-16,2022-01-30,0,0,0
+presidential,national,C8,Koenig Gaspard,2022-01-30,2022-02-13,0,0,0
 presidential,national,C8,Lassalle Jean,2022-01-01,2022-01-16,7,0,0
 presidential,national,C8,Lassalle Jean,2022-01-16,2022-01-30,0,0,0
+presidential,national,C8,Lassalle Jean,2022-01-30,2022-02-13,0,0,0
 presidential,national,C8,Le Pen Marine,2022-01-01,2022-01-16,0.2833,34.5833,0
 presidential,national,C8,Le Pen Marine,2022-01-16,2022-01-30,8.6667,10.4667,4.8667
+presidential,national,C8,Le Pen Marine,2022-01-30,2022-02-13,66.1667,30,0.8667
 presidential,national,C8,Macron Emmanuel,2022-01-01,2022-01-16,0.3333,61.8667,12.9667
 presidential,national,C8,Macron Emmanuel,2022-01-16,2022-01-30,2.35,6.3,11.15
+presidential,national,C8,Macron Emmanuel,2022-01-30,2022-02-13,10.3333,60.55,8.1667
 presidential,national,C8,Melenchon Jean Luc,2022-01-01,2022-01-16,0.1333,14.9167,0
 presidential,national,C8,Melenchon Jean Luc,2022-01-16,2022-01-30,99.2333,43.8333,5.2667
+presidential,national,C8,Melenchon Jean Luc,2022-01-30,2022-02-13,1.2667,19.2833,0
 presidential,national,C8,Montebourg Arnaud,2022-01-16,2022-01-30,0.65,0,0
+presidential,national,C8,Montebourg Arnaud,2022-01-30,2022-02-13,0,0,0
 presidential,national,C8,Pecresse Valerie,2022-01-01,2022-01-16,1.65,0.1667,5.2333
 presidential,national,C8,Pecresse Valerie,2022-01-16,2022-01-30,16.5833,21.9333,11.8833
+presidential,national,C8,Pecresse Valerie,2022-01-30,2022-02-13,67.0333,0,1.5
 presidential,national,C8,Philippot Florian,2022-01-01,2022-01-16,20.8333,0,0
 presidential,national,C8,Philippot Florian,2022-01-16,2022-01-30,0,0,0
+presidential,national,C8,Philippot Florian,2022-01-30,2022-02-13,0,0,0
 presidential,national,C8,Poutou Philippe,2022-01-16,2022-01-30,0.75,0,0
+presidential,national,C8,Poutou Philippe,2022-01-30,2022-02-13,6.6667,0,0
 presidential,national,C8,Roussel Fabien,2022-01-01,2022-01-16,0.1,0,0
 presidential,national,C8,Roussel Fabien,2022-01-16,2022-01-30,1.9333,0,0
+presidential,national,C8,Roussel Fabien,2022-01-30,2022-02-13,15.4167,1.0167,0.1833
 presidential,national,C8,Taubira Christiane,2022-01-01,2022-01-16,0.5333,0,1.7
 presidential,national,C8,Taubira Christiane,2022-01-16,2022-01-30,1.45,0,0.1667
+presidential,national,C8,Taubira Christiane,2022-01-30,2022-02-13,12.3667,0,0.6667
+presidential,national,C8,Thouy Helene,2022-01-30,2022-02-13,0.5333,0,0.9167
 presidential,national,C8,Zemmour Eric,2022-01-01,2022-01-16,17.7667,14.0667,4.4167
 presidential,national,C8,Zemmour Eric,2022-01-16,2022-01-30,27.6,12.3,0.5333
+presidential,national,C8,Zemmour Eric,2022-01-30,2022-02-13,7.6667,11.2167,22.9
 presidential,national,C NEWS,Arthaud Nathalie,2022-01-16,2022-01-30,0.6667,0,0
+presidential,national,C NEWS,Arthaud Nathalie,2022-01-30,2022-02-13,4.1667,0,1.05
+presidential,national,C NEWS,Asselineau Francois,2022-01-30,2022-02-13,2.8667,0,0
 presidential,national,C NEWS,Dupont Aignan Nicolas,2022-01-01,2022-01-16,27.8167,0,0.1167
 presidential,national,C NEWS,Dupont Aignan Nicolas,2022-01-16,2022-01-30,39.25,0,6.9833
+presidential,national,C NEWS,Dupont Aignan Nicolas,2022-01-30,2022-02-13,31.6833,0,7.0833
 presidential,national,C NEWS,Hidalgo Anne,2022-01-01,2022-01-16,81.1333,55.3667,21.25
 presidential,national,C NEWS,Hidalgo Anne,2022-01-16,2022-01-30,106.35,150.05,42.8833
+presidential,national,C NEWS,Hidalgo Anne,2022-01-30,2022-02-13,17.6333,84.7667,10.9
 presidential,national,C NEWS,Jadot Yannick,2022-01-01,2022-01-16,31.4167,68.4,5.4167
 presidential,national,C NEWS,Jadot Yannick,2022-01-16,2022-01-30,205.3333,60.15,33.85
+presidential,national,C NEWS,Jadot Yannick,2022-01-30,2022-02-13,19.7333,53.45,0.6333
 presidential,national,C NEWS,Koenig Gaspard,2022-01-01,2022-01-16,21.4833,0,0
 presidential,national,C NEWS,Koenig Gaspard,2022-01-16,2022-01-30,19.3833,0,0.65
+presidential,national,C NEWS,Koenig Gaspard,2022-01-30,2022-02-13,0,0,0.2167
 presidential,national,C NEWS,Kuzmanovic Georges,2022-01-16,2022-01-30,10.7833,0,0
+presidential,national,C NEWS,Kuzmanovic Georges,2022-01-30,2022-02-13,0,0,0
 presidential,national,C NEWS,Larrouturou Pierre,2022-01-16,2022-01-30,6.8333,0,0
+presidential,national,C NEWS,Larrouturou Pierre,2022-01-30,2022-02-13,0,0,0
 presidential,national,C NEWS,Lassalle Jean,2022-01-16,2022-01-30,0.2167,1.7833,15.3167
+presidential,national,C NEWS,Lassalle Jean,2022-01-30,2022-02-13,0,0,0
 presidential,national,C NEWS,Le Pen Marine,2022-01-01,2022-01-16,53.4333,231.9667,159.5667
 presidential,national,C NEWS,Le Pen Marine,2022-01-16,2022-01-30,149.6167,398.8,213.2833
+presidential,national,C NEWS,Le Pen Marine,2022-01-30,2022-02-13,169.5167,343.25,299
 presidential,national,C NEWS,Macron Emmanuel,2022-01-01,2022-01-16,70.75,338.9333,338.3333
 presidential,national,C NEWS,Macron Emmanuel,2022-01-16,2022-01-30,9.8833,422.0333,278.8333
+presidential,national,C NEWS,Macron Emmanuel,2022-01-30,2022-02-13,36.0167,668.45,240.5
 presidential,national,C NEWS,Melenchon Jean Luc,2022-01-01,2022-01-16,154.9167,228.7667,79.5333
 presidential,national,C NEWS,Melenchon Jean Luc,2022-01-16,2022-01-30,42.1,135.65,40.8167
+presidential,national,C NEWS,Melenchon Jean Luc,2022-01-30,2022-02-13,102.5167,142.05,48.7
 presidential,national,C NEWS,Montebourg Arnaud,2022-01-01,2022-01-16,0,13.3333,0
 presidential,national,C NEWS,Montebourg Arnaud,2022-01-16,2022-01-30,3.15,0,0
+presidential,national,C NEWS,Montebourg Arnaud,2022-01-30,2022-02-13,0,0,0
 presidential,national,C NEWS,Pecresse Valerie,2022-01-01,2022-01-16,51.7833,523.5667,152.0833
 presidential,national,C NEWS,Pecresse Valerie,2022-01-16,2022-01-30,23.9,404.3167,130.2167
+presidential,national,C NEWS,Pecresse Valerie,2022-01-30,2022-02-13,160.0667,320.7333,260.75
 presidential,national,C NEWS,Philippot Florian,2022-01-01,2022-01-16,44.9333,0,0
 presidential,national,C NEWS,Philippot Florian,2022-01-16,2022-01-30,24.8167,0,2.0333
+presidential,national,C NEWS,Philippot Florian,2022-01-30,2022-02-13,0,0,0
 presidential,national,C NEWS,Poutou Philippe,2022-01-16,2022-01-30,13.1667,2.7833,2.6
+presidential,national,C NEWS,Poutou Philippe,2022-01-30,2022-02-13,7.9167,0,-0
 presidential,national,C NEWS,Roussel Fabien,2022-01-01,2022-01-16,59.6,11.9333,21.7833
 presidential,national,C NEWS,Roussel Fabien,2022-01-16,2022-01-30,19.05,30.9667,11.85
+presidential,national,C NEWS,Roussel Fabien,2022-01-30,2022-02-13,92.9667,30.9833,73.2167
 presidential,national,C NEWS,Taubira Christiane,2022-01-01,2022-01-16,63.6833,0,40.65
 presidential,national,C NEWS,Taubira Christiane,2022-01-16,2022-01-30,12.25,7.6167,8.9
+presidential,national,C NEWS,Taubira Christiane,2022-01-30,2022-02-13,27.7667,10.4167,27.9333
 presidential,national,C NEWS,Thouy Helene,2022-01-01,2022-01-16,12.6667,0,0
 presidential,national,C NEWS,Thouy Helene,2022-01-16,2022-01-30,0,0,0
+presidential,national,C NEWS,Thouy Helene,2022-01-30,2022-02-13,13.25,0,7.5667
 presidential,national,C NEWS,Zemmour Eric,2022-01-01,2022-01-16,112.55,196.5167,213.1167
 presidential,national,C NEWS,Zemmour Eric,2022-01-16,2022-01-30,162.45,149.2,538.0333
+presidential,national,C NEWS,Zemmour Eric,2022-01-30,2022-02-13,203,119.7333,205.2667
 presidential,national,Euronews,Hidalgo Anne,2022-01-01,2022-01-16,0,0,3.5833
 presidential,national,Euronews,Hidalgo Anne,2022-01-16,2022-01-30,0,0,0
+presidential,national,Euronews,Hidalgo Anne,2022-01-30,2022-02-13,0,0,0
 presidential,national,Euronews,Jadot Yannick,2022-01-01,2022-01-16,0,0,3.5833
 presidential,national,Euronews,Jadot Yannick,2022-01-16,2022-01-30,21.1833,0,12.7667
+presidential,national,Euronews,Jadot Yannick,2022-01-30,2022-02-13,0,0,3.9
 presidential,national,Euronews,Le Pen Marine,2022-01-16,2022-01-30,0,0,1.7333
+presidential,national,Euronews,Le Pen Marine,2022-01-30,2022-02-13,0,0,0
 presidential,national,Euronews,Macron Emmanuel,2022-01-16,2022-01-30,0,0,11.6167
+presidential,national,Euronews,Macron Emmanuel,2022-01-30,2022-02-13,36.4,0,71.7333
 presidential,national,Euronews,Melenchon Jean Luc,2022-01-01,2022-01-16,0,0,4.3
 presidential,national,Euronews,Melenchon Jean Luc,2022-01-16,2022-01-30,0,0,12.1333
+presidential,national,Euronews,Melenchon Jean Luc,2022-01-30,2022-02-13,0,0,1.7333
 presidential,national,Euronews,Pecresse Valerie,2022-01-16,2022-01-30,0,0,10.4
+presidential,national,Euronews,Pecresse Valerie,2022-01-30,2022-02-13,3.0333,0,7.7
 presidential,national,Euronews,Taubira Christiane,2022-01-01,2022-01-16,15.05,0,32.4167
 presidential,national,Euronews,Taubira Christiane,2022-01-16,2022-01-30,0,0,0
+presidential,national,Euronews,Taubira Christiane,2022-01-30,2022-02-13,12.5667,0,13.1
 presidential,national,Euronews,Zemmour Eric,2022-01-16,2022-01-30,0,0,5.4167
+presidential,national,Euronews,Zemmour Eric,2022-01-30,2022-02-13,0,0,0
 presidential,national,Europe 1,Hidalgo Anne,2022-01-01,2022-01-16,43.85,85,36.4167
 presidential,national,Europe 1,Hidalgo Anne,2022-01-16,2022-01-30,1.55,18.2333,0.25
+presidential,national,Europe 1,Hidalgo Anne,2022-01-30,2022-02-13,0.55,19,-0
 presidential,national,Europe 1,Jadot Yannick,2022-01-01,2022-01-16,1.4833,26.3333,0
 presidential,national,Europe 1,Jadot Yannick,2022-01-16,2022-01-30,3.5667,13.5167,0.9333
+presidential,national,Europe 1,Jadot Yannick,2022-01-30,2022-02-13,1.1167,0.2,3.5167
+presidential,national,Europe 1,Koenig Gaspard,2022-01-30,2022-02-13,12.15,0,0
 presidential,national,Europe 1,Lassalle Jean,2022-01-16,2022-01-30,27.35,0,0
+presidential,national,Europe 1,Lassalle Jean,2022-01-30,2022-02-13,0,0,0
 presidential,national,Europe 1,Le Pen Marine,2022-01-01,2022-01-16,34.2667,78.1167,15.5167
 presidential,national,Europe 1,Le Pen Marine,2022-01-16,2022-01-30,15.9833,3.5,9.95
+presidential,national,Europe 1,Le Pen Marine,2022-01-30,2022-02-13,102.1333,19.1333,10.9833
 presidential,national,Europe 1,Macron Emmanuel,2022-01-01,2022-01-16,8.8167,70.8,101.3667
 presidential,national,Europe 1,Macron Emmanuel,2022-01-16,2022-01-30,93.1833,122.8167,11.85
+presidential,national,Europe 1,Macron Emmanuel,2022-01-30,2022-02-13,15.9833,63.05,10.7667
 presidential,national,Europe 1,Melenchon Jean Luc,2022-01-01,2022-01-16,4.25,14.8,0
 presidential,national,Europe 1,Melenchon Jean Luc,2022-01-16,2022-01-30,1.6833,0,3.45
+presidential,national,Europe 1,Melenchon Jean Luc,2022-01-30,2022-02-13,15.1833,0,0
 presidential,national,Europe 1,Pecresse Valérie,2022-01-01,2022-01-16,51.5833,158.7,32.3833
 presidential,national,Europe 1,Pecresse Valérie,2022-01-16,2022-01-30,44.8333,145.7,6.4333
+presidential,national,Europe 1,Pecresse Valérie,2022-01-30,2022-02-13,43.85,129.4167,1.8167
 presidential,national,Europe 1,Roussel Fabien,2022-01-01,2022-01-16,30.75,0,6.8333
 presidential,national,Europe 1,Roussel Fabien,2022-01-16,2022-01-30,27.6333,0,2.9833
+presidential,national,Europe 1,Roussel Fabien,2022-01-30,2022-02-13,9.65,0,-0
 presidential,national,Europe 1,Taubira Christiane,2022-01-01,2022-01-16,6.05,0,0.6167
 presidential,national,Europe 1,Taubira Christiane,2022-01-16,2022-01-30,2.5167,0,1.4
+presidential,national,Europe 1,Taubira Christiane,2022-01-30,2022-02-13,3.9833,0.2,0
 presidential,national,Europe 1,Zemmour Eric,2022-01-01,2022-01-16,49.1167,39.05,20.4
 presidential,national,Europe 1,Zemmour Eric,2022-01-16,2022-01-30,60.2,11.1333,6.4167
+presidential,national,Europe 1,Zemmour Eric,2022-01-30,2022-02-13,18.4333,34.3167,3.3833
 presidential,national,France 2,Arthaud Nathalie,2022-01-16,2022-01-30,0,0.2333,0
+presidential,national,France 2,Arthaud Nathalie,2022-01-30,2022-02-13,0,0.2333,0.05
 presidential,national,France 2,Asselineau Francois,2022-01-16,2022-01-30,10.4167,0,0.8833
+presidential,national,France 2,Asselineau Francois,2022-01-30,2022-02-13,0,0,0
 presidential,national,France 2,Dupont Aignan Nicolas,2022-01-01,2022-01-16,10,0,1.1667
 presidential,national,France 2,Dupont Aignan Nicolas,2022-01-16,2022-01-30,5.4167,0,0.65
+presidential,national,France 2,Dupont Aignan Nicolas,2022-01-30,2022-02-13,9.9167,0,1.05
 presidential,national,France 2,Hidalgo Anne,2022-01-01,2022-01-16,11.7167,0.7667,0.6
 presidential,national,France 2,Hidalgo Anne,2022-01-16,2022-01-30,19.4,0.7667,2.1167
+presidential,national,France 2,Hidalgo Anne,2022-01-30,2022-02-13,0.9167,6.4667,2.2667
 presidential,national,France 2,Jadot Yannick,2022-01-01,2022-01-16,0.6,0,1.6333
 presidential,national,France 2,Jadot Yannick,2022-01-16,2022-01-30,11.3,0,3.5667
+presidential,national,France 2,Jadot Yannick,2022-01-30,2022-02-13,0.95,10.1833,1.0167
+presidential,national,France 2,Kazib Anasse,2022-01-30,2022-02-13,0.5167,0,0.7667
 presidential,national,France 2,Koenig Gaspard,2022-01-01,2022-01-16,10.0167,0,1.0333
 presidential,national,France 2,Koenig Gaspard,2022-01-16,2022-01-30,0,0,0
+presidential,national,France 2,Koenig Gaspard,2022-01-30,2022-02-13,0.3167,0,0.3167
 presidential,national,France 2,Larrouturou Pierre,2022-01-16,2022-01-30,9.7167,0,0.7667
+presidential,national,France 2,Larrouturou Pierre,2022-01-30,2022-02-13,0,0,0
 presidential,national,France 2,Lassalle Jean,2022-01-16,2022-01-30,4.8167,0,0.1667
+presidential,national,France 2,Lassalle Jean,2022-01-30,2022-02-13,0,0,0
 presidential,national,France 2,Le Pen Marine,2022-01-01,2022-01-16,0.7167,6.45,4.6667
 presidential,national,France 2,Le Pen Marine,2022-01-16,2022-01-30,1.3333,10.8667,3.9667
+presidential,national,France 2,Le Pen Marine,2022-01-30,2022-02-13,22.9667,11.7333,8.6167
 presidential,national,France 2,Macron Emmanuel,2022-01-01,2022-01-16,0.55,6.1167,1.1667
 presidential,national,France 2,Macron Emmanuel,2022-01-16,2022-01-30,1.0333,18,4.5333
+presidential,national,France 2,Macron Emmanuel,2022-01-30,2022-02-13,0.4667,25.95,13.55
 presidential,national,France 2,Melenchon Jean Luc,2022-01-01,2022-01-16,5.8833,10.6,7.45
 presidential,national,France 2,Melenchon Jean Luc,2022-01-16,2022-01-30,0.6833,2.6833,1.75
+presidential,national,France 2,Melenchon Jean Luc,2022-01-30,2022-02-13,125.1667,11.35,40.9
 presidential,national,France 2,Pecresse Valerie,2022-01-01,2022-01-16,40.3167,4.8833,9.8667
 presidential,national,France 2,Pecresse Valerie,2022-01-16,2022-01-30,2.2333,11.5167,2.8667
+presidential,national,France 2,Pecresse Valerie,2022-01-30,2022-02-13,1.9667,17.8667,10.25
 presidential,national,France 2,Philippot Florian,2022-01-01,2022-01-16,0,0,0.2167
 presidential,national,France 2,Philippot Florian,2022-01-16,2022-01-30,0,0,0
+presidential,national,France 2,Philippot Florian,2022-01-30,2022-02-13,0,0,0.1167
 presidential,national,France 2,Poutou Philippe,2022-01-16,2022-01-30,18.3167,0,2.8333
+presidential,national,France 2,Poutou Philippe,2022-01-30,2022-02-13,4.5833,0,0.1667
 presidential,national,France 2,Roussel Fabien,2022-01-16,2022-01-30,10.5,5.8167,7.6333
+presidential,national,France 2,Roussel Fabien,2022-01-30,2022-02-13,0.8333,5.0333,3
 presidential,national,France 2,Taubira Christiane,2022-01-01,2022-01-16,11.1167,0,5.3833
 presidential,national,France 2,Taubira Christiane,2022-01-16,2022-01-30,0.2667,0,2.4833
+presidential,national,France 2,Taubira Christiane,2022-01-30,2022-02-13,1.1833,0,2.3667
+presidential,national,France 2,Thouy Helene,2022-01-30,2022-02-13,0.5667,0,0.3833
 presidential,national,France 2,Zemmour Eric,2022-01-01,2022-01-16,13.1833,0,3.3
 presidential,national,France 2,Zemmour Eric,2022-01-16,2022-01-30,1.3833,10.3,7.9
+presidential,national,France 2,Zemmour Eric,2022-01-30,2022-02-13,25.1667,1.1167,13.0667
 presidential,national,France 24,Arthaud Nathalie,2022-01-16,2022-01-30,28.1833,0,0
+presidential,national,France 24,Arthaud Nathalie,2022-01-30,2022-02-13,0,0,0
 presidential,national,France 24,Dupont Aignan Nicolas,2022-01-16,2022-01-30,2.3833,0,0
+presidential,national,France 24,Dupont Aignan Nicolas,2022-01-30,2022-02-13,28.0667,0,0.9667
 presidential,national,France 24,Hidalgo Anne,2022-01-01,2022-01-16,2.8333,12.6167,4.7167
 presidential,national,France 24,Hidalgo Anne,2022-01-16,2022-01-30,0.7833,0,6.1667
+presidential,national,France 24,Hidalgo Anne,2022-01-30,2022-02-13,40.1333,0,17.4833
 presidential,national,France 24,Jadot Yannick,2022-01-01,2022-01-16,1.7333,29.85,1.1
 presidential,national,France 24,Jadot Yannick,2022-01-16,2022-01-30,27.7,0,11.7667
+presidential,national,France 24,Jadot Yannick,2022-01-30,2022-02-13,1.2333,1.2667,11.35
 presidential,national,France 24,Larrouturou Pierre,2022-01-01,2022-01-16,0,0,0.35
 presidential,national,France 24,Larrouturou Pierre,2022-01-16,2022-01-30,0,0,0
+presidential,national,France 24,Larrouturou Pierre,2022-01-30,2022-02-13,0,0,0.05
 presidential,national,France 24,Le Pen Marine,2022-01-01,2022-01-16,5.3667,0,2.3333
 presidential,national,France 24,Le Pen Marine,2022-01-16,2022-01-30,9.8,26.1167,5.8833
+presidential,national,France 24,Le Pen Marine,2022-01-30,2022-02-13,10.8167,2.2333,87.95
 presidential,national,France 24,Macron Emmanuel,2022-01-01,2022-01-16,8.7333,75.6333,217.7
 presidential,national,France 24,Macron Emmanuel,2022-01-16,2022-01-30,9.4,7.65,20.6667
+presidential,national,France 24,Macron Emmanuel,2022-01-30,2022-02-13,20.5667,0,84.9833
 presidential,national,France 24,Melenchon Jean Luc,2022-01-01,2022-01-16,4.3167,28.15,29.9
 presidential,national,France 24,Melenchon Jean Luc,2022-01-16,2022-01-30,2.9833,21.95,6.2833
+presidential,national,France 24,Melenchon Jean Luc,2022-01-30,2022-02-13,10.1333,0,24.0833
 presidential,national,France 24,Pecresse Valerie,2022-01-01,2022-01-16,14.6833,18.9667,18.85
 presidential,national,France 24,Pecresse Valerie,2022-01-16,2022-01-30,0.9333,2.6667,10.6667
+presidential,national,France 24,Pecresse Valerie,2022-01-30,2022-02-13,9.9667,0,86.05
 presidential,national,France 24,Roussel Fabien,2022-01-01,2022-01-16,0,0,0.2667
 presidential,national,France 24,Roussel Fabien,2022-01-16,2022-01-30,29.5833,0,7.8667
+presidential,national,France 24,Roussel Fabien,2022-01-30,2022-02-13,4.05,0.2667,14.7333
 presidential,national,France 24,Taubira Christiane,2022-01-01,2022-01-16,9,0,40.95
 presidential,national,France 24,Taubira Christiane,2022-01-16,2022-01-30,9.15,0,11.3333
+presidential,national,France 24,Taubira Christiane,2022-01-30,2022-02-13,13.0667,0,22
 presidential,national,France 24,Zemmour Eric,2022-01-01,2022-01-16,1.1,0,13.1667
 presidential,national,France 24,Zemmour Eric,2022-01-16,2022-01-30,4.7333,0,19.15
+presidential,national,France 24,Zemmour Eric,2022-01-30,2022-02-13,13.8167,1.1667,55.4
 presidential,national,France 3,Arthaud Nathalie,2022-01-01,2022-01-16,0.1,0,0
 presidential,national,France 3,Arthaud Nathalie,2022-01-16,2022-01-30,0,0,0
+presidential,national,France 3,Arthaud Nathalie,2022-01-30,2022-02-13,0.4167,0,0.6167
 presidential,national,France 3,Asselineau Francois,2022-01-16,2022-01-30,0.6667,0,0.0667
+presidential,national,France 3,Asselineau Francois,2022-01-30,2022-02-13,0,0,0
 presidential,national,France 3,Dupont Aignan Nicolas,2022-01-01,2022-01-16,0.2333,0,0
 presidential,national,France 3,Dupont Aignan Nicolas,2022-01-16,2022-01-30,0.15,0,0
+presidential,national,France 3,Dupont Aignan Nicolas,2022-01-30,2022-02-13,9.85,0,0.8333
 presidential,national,France 3,Hidalgo Anne,2022-01-01,2022-01-16,0.8333,0,0.7
 presidential,national,France 3,Hidalgo Anne,2022-01-16,2022-01-30,1.4167,0.3833,0.6333
+presidential,national,France 3,Hidalgo Anne,2022-01-30,2022-02-13,21.3833,0,0.9167
 presidential,national,France 3,Jadot Yannick,2022-01-01,2022-01-16,0.9333,0.1167,0.8333
 presidential,national,France 3,Jadot Yannick,2022-01-16,2022-01-30,1.3333,0.3833,2.65
+presidential,national,France 3,Jadot Yannick,2022-01-30,2022-02-13,0.3167,0.5167,0.15
 presidential,national,France 3,Lassalle Jean,2022-01-01,2022-01-16,0.1333,0,0
 presidential,national,France 3,Lassalle Jean,2022-01-16,2022-01-30,0,0.1667,0.1167
+presidential,national,France 3,Lassalle Jean,2022-01-30,2022-02-13,0.1667,0,0.1167
 presidential,national,France 3,Le Pen Marine,2022-01-01,2022-01-16,1.9667,0.0667,2.3
 presidential,national,France 3,Le Pen Marine,2022-01-16,2022-01-30,26.35,0.2167,1.1
+presidential,national,France 3,Le Pen Marine,2022-01-30,2022-02-13,0.5167,0.6,3.2333
 presidential,national,France 3,Macron Emmanuel,2022-01-01,2022-01-16,0.15,0,0.3333
 presidential,national,France 3,Macron Emmanuel,2022-01-16,2022-01-30,0.1167,0,2.3667
+presidential,national,France 3,Macron Emmanuel,2022-01-30,2022-02-13,1.1333,3.6333,4.45
 presidential,national,France 3,Melenchon Jean Luc,2022-01-01,2022-01-16,1.6,0.1667,2.55
 presidential,national,France 3,Melenchon Jean Luc,2022-01-16,2022-01-30,0.15,0,0.1167
+presidential,national,France 3,Melenchon Jean Luc,2022-01-30,2022-02-13,0.7,0.0667,2.95
 presidential,national,France 3,Pecresse Valerie,2022-01-01,2022-01-16,1.0833,0.15,0.9167
 presidential,national,France 3,Pecresse Valerie,2022-01-16,2022-01-30,24.25,0.5,2.3833
+presidential,national,France 3,Pecresse Valerie,2022-01-30,2022-02-13,1.1167,1.2833,5.85
 presidential,national,France 3,Philippot Florian,2022-01-01,2022-01-16,0.1833,0,0
 presidential,national,France 3,Philippot Florian,2022-01-16,2022-01-30,0,0,0
+presidential,national,France 3,Philippot Florian,2022-01-30,2022-02-13,0,0,0
 presidential,national,France 3,Poutou Philippe,2022-01-16,2022-01-30,0.05,0,0
+presidential,national,France 3,Poutou Philippe,2022-01-30,2022-02-13,0,0,0.0667
 presidential,national,France 3,Roussel Fabien,2022-01-01,2022-01-16,21.35,0,0.75
 presidential,national,France 3,Roussel Fabien,2022-01-16,2022-01-30,0.2,0,0.2167
+presidential,national,France 3,Roussel Fabien,2022-01-30,2022-02-13,2.8,1.35,3.9833
 presidential,national,France 3,Taubira Christiane,2022-01-01,2022-01-16,0.8,0.1,2.4
 presidential,national,France 3,Taubira Christiane,2022-01-16,2022-01-30,0.2167,0,0.5167
+presidential,national,France 3,Taubira Christiane,2022-01-30,2022-02-13,14.6833,0,2.3833
 presidential,national,France 3,Thouy Helene,2022-01-01,2022-01-16,0.1167,0,0
 presidential,national,France 3,Thouy Helene,2022-01-16,2022-01-30,0.1833,0,0
+presidential,national,France 3,Thouy Helene,2022-01-30,2022-02-13,0,0,0.3
 presidential,national,France 3,Zemmour Eric,2022-01-01,2022-01-16,20.8833,0.35,2.95
 presidential,national,France 3,Zemmour Eric,2022-01-16,2022-01-30,1.4333,0.9167,2.5833
+presidential,national,France 3,Zemmour Eric,2022-01-30,2022-02-13,0.5333,0.5,2.45
 presidential,national,France 5,Arthaud Nathalie,2022-01-01,2022-01-16,0.1333,0,0
 presidential,national,France 5,Arthaud Nathalie,2022-01-16,2022-01-30,0.2,0,0
+presidential,national,France 5,Arthaud Nathalie,2022-01-30,2022-02-13,0,0,0
+presidential,national,France 5,Asselineau Francois,2022-01-30,2022-02-13,0.25,0,0
 presidential,national,France 5,Dupont Aignan Nicolas,2022-01-01,2022-01-16,0,0,0.25
 presidential,national,France 5,Dupont Aignan Nicolas,2022-01-16,2022-01-30,3.0667,0,0
+presidential,national,France 5,Dupont Aignan Nicolas,2022-01-30,2022-02-13,37.45,0,2.7
 presidential,national,France 5,Hidalgo Anne,2022-01-01,2022-01-16,2.05,2.4333,0
 presidential,national,France 5,Hidalgo Anne,2022-01-16,2022-01-30,41.65,2.4,0.25
+presidential,national,France 5,Hidalgo Anne,2022-01-30,2022-02-13,53.7667,1.3,5.1333
 presidential,national,France 5,Jadot Yannick,2022-01-01,2022-01-16,2.1,0.95,0
 presidential,national,France 5,Jadot Yannick,2022-01-16,2022-01-30,49.6333,12.7833,2.6333
+presidential,national,France 5,Jadot Yannick,2022-01-30,2022-02-13,5.7667,1.3833,0.5333
 presidential,national,France 5,Koenig Gaspard,2022-01-01,2022-01-16,2.0333,0,3.2333
 presidential,national,France 5,Koenig Gaspard,2022-01-16,2022-01-30,0,0,0
+presidential,national,France 5,Koenig Gaspard,2022-01-30,2022-02-13,0,0,0
 presidential,national,France 5,Larrouturou Pierre,2022-01-01,2022-01-16,0.3333,0,0
 presidential,national,France 5,Larrouturou Pierre,2022-01-16,2022-01-30,0,0,0
+presidential,national,France 5,Larrouturou Pierre,2022-01-30,2022-02-13,0,0,0
+presidential,national,France 5,Lassalle Jean,2022-01-30,2022-02-13,5.7333,0,1.5
 presidential,national,France 5,Le Pen Marine,2022-01-01,2022-01-16,7.2,5.75,7.5667
 presidential,national,France 5,Le Pen Marine,2022-01-16,2022-01-30,11.8833,1.75,3.5833
+presidential,national,France 5,Le Pen Marine,2022-01-30,2022-02-13,51.4,12.4167,26.1333
 presidential,national,France 5,Macron Emmanuel,2022-01-01,2022-01-16,4.0167,0,2.15
 presidential,national,France 5,Macron Emmanuel,2022-01-16,2022-01-30,7.4833,18.1833,10.25
+presidential,national,France 5,Macron Emmanuel,2022-01-30,2022-02-13,4.5333,10.5167,69.7167
 presidential,national,France 5,Melenchon Jean Luc,2022-01-01,2022-01-16,5.6167,8.7333,0.9333
 presidential,national,France 5,Melenchon Jean Luc,2022-01-16,2022-01-30,43.9,0.8667,0.35
+presidential,national,France 5,Melenchon Jean Luc,2022-01-30,2022-02-13,5.5667,22.8167,4.6
 presidential,national,France 5,Pecresse Valerie,2022-01-01,2022-01-16,48.1167,5.5,14.9667
 presidential,national,France 5,Pecresse Valerie,2022-01-16,2022-01-30,9.8167,2.5167,3.0833
+presidential,national,France 5,Pecresse Valerie,2022-01-30,2022-02-13,44.9833,15.0833,34.6333
 presidential,national,France 5,Philippot Florian,2022-01-16,2022-01-30,0.3667,0,0
+presidential,national,France 5,Philippot Florian,2022-01-30,2022-02-13,1.4333,0,0
 presidential,national,France 5,Poutou Philippe,2022-01-01,2022-01-16,0,0.2,0
 presidential,national,France 5,Poutou Philippe,2022-01-16,2022-01-30,0.9333,0,0
+presidential,national,France 5,Poutou Philippe,2022-01-30,2022-02-13,0.1333,0,0
 presidential,national,France 5,Roussel Fabien,2022-01-01,2022-01-16,1.4,1.7667,2.4
 presidential,national,France 5,Roussel Fabien,2022-01-16,2022-01-30,2.4167,1.1333,2
+presidential,national,France 5,Roussel Fabien,2022-01-30,2022-02-13,97.1333,3.3167,30.6833
 presidential,national,France 5,Taubira Christiane,2022-01-01,2022-01-16,1.55,0,4.8667
 presidential,national,France 5,Taubira Christiane,2022-01-16,2022-01-30,70.7,0,2.1667
+presidential,national,France 5,Taubira Christiane,2022-01-30,2022-02-13,8.1,10.8667,7.05
 presidential,national,France 5,Thouy Helene,2022-01-01,2022-01-16,0,1.9333,0
 presidential,national,France 5,Thouy Helene,2022-01-16,2022-01-30,0,0,0
+presidential,national,France 5,Thouy Helene,2022-01-30,2022-02-13,0,0,0
 presidential,national,France 5,Zemmour Eric,2022-01-01,2022-01-16,13.5833,30.6333,8.2333
 presidential,national,France 5,Zemmour Eric,2022-01-16,2022-01-30,53.35,11.8833,8.3333
+presidential,national,France 5,Zemmour Eric,2022-01-30,2022-02-13,13.1167,12.0667,10.65
+presidential,national,France Culture,Arthaud Nathalie,2022-01-30,2022-02-13,0,0,0.2833
 presidential,national,France Culture,Dupont Aignan Nicolas,2022-01-01,2022-01-16,1.3833,0,0
 presidential,national,France Culture,Dupont Aignan Nicolas,2022-01-16,2022-01-30,0.3,0,0
+presidential,national,France Culture,Dupont Aignan Nicolas,2022-01-30,2022-02-13,0,0,0
 presidential,national,France Culture,Hidalgo Anne,2022-01-01,2022-01-16,1.3,0.2833,2.7167
 presidential,national,France Culture,Hidalgo Anne,2022-01-16,2022-01-30,1.1167,4.4167,3.1667
+presidential,national,France Culture,Hidalgo Anne,2022-01-30,2022-02-13,0.1667,0,1.4833
 presidential,national,France Culture,Jadot Yannick,2022-01-01,2022-01-16,0.8167,0.95,0
 presidential,national,France Culture,Jadot Yannick,2022-01-16,2022-01-30,1.6167,25.3,2.8333
+presidential,national,France Culture,Jadot Yannick,2022-01-30,2022-02-13,0.7667,0,4.25
 presidential,national,France Culture,Koenig Gaspard,2022-01-01,2022-01-16,0.3333,0,1.35
 presidential,national,France Culture,Koenig Gaspard,2022-01-16,2022-01-30,0,0,0
+presidential,national,France Culture,Koenig Gaspard,2022-01-30,2022-02-13,0,0,0
+presidential,national,France Culture,Kuzmanovic Georges,2022-01-30,2022-02-13,0.2333,0,0
 presidential,national,France Culture,Larrouturou Pierre,2022-01-01,2022-01-16,0.35,0,0
 presidential,national,France Culture,Larrouturou Pierre,2022-01-16,2022-01-30,0,0,0
+presidential,national,France Culture,Larrouturou Pierre,2022-01-30,2022-02-13,0,0,0
+presidential,national,France Culture,Lassalle Jean,2022-01-30,2022-02-13,0.3167,0,0
 presidential,national,France Culture,Le Pen Marine,2022-01-01,2022-01-16,1.2333,0,0
 presidential,national,France Culture,Le Pen Marine,2022-01-16,2022-01-30,2.9333,0.65,3.1333
+presidential,national,France Culture,Le Pen Marine,2022-01-30,2022-02-13,0.6667,20.45,8.65
 presidential,national,France Culture,Macron Emmanuel,2022-01-01,2022-01-16,5.95,4.4,20.7
 presidential,national,France Culture,Macron Emmanuel,2022-01-16,2022-01-30,3.6833,2.0667,25.3333
+presidential,national,France Culture,Macron Emmanuel,2022-01-30,2022-02-13,4.8,4,50.5333
 presidential,national,France Culture,Melenchon Jean Luc,2022-01-01,2022-01-16,3.3833,0.95,5.3333
 presidential,national,France Culture,Melenchon Jean Luc,2022-01-16,2022-01-30,2.8667,2.6167,8.0333
+presidential,national,France Culture,Melenchon Jean Luc,2022-01-30,2022-02-13,0.8833,21.9167,2
 presidential,national,France Culture,Montebourg Arnaud,2022-01-16,2022-01-30,0,0,1.1
+presidential,national,France Culture,Montebourg Arnaud,2022-01-30,2022-02-13,0,0,0
 presidential,national,France Culture,Pecresse Valerie,2022-01-01,2022-01-16,1.2333,8.05,3.1333
 presidential,national,France Culture,Pecresse Valerie,2022-01-16,2022-01-30,0.4833,0,3.1833
+presidential,national,France Culture,Pecresse Valerie,2022-01-30,2022-02-13,1.75,1.3167,9.65
+presidential,national,France Culture,Philippot Florian,2022-01-30,2022-02-13,0.3667,0,0
 presidential,national,France Culture,Poutou Philippe,2022-01-01,2022-01-16,0.1333,0,0
 presidential,national,France Culture,Poutou Philippe,2022-01-16,2022-01-30,0,0,0
+presidential,national,France Culture,Poutou Philippe,2022-01-30,2022-02-13,0,0,0
 presidential,national,France Culture,Roussel Fabien,2022-01-01,2022-01-16,0.2,0.25,0
 presidential,national,France Culture,Roussel Fabien,2022-01-16,2022-01-30,1.2,0.2333,1.55
+presidential,national,France Culture,Roussel Fabien,2022-01-30,2022-02-13,1.8,0.6833,10.2
 presidential,national,France Culture,Taubira Christiane,2022-01-01,2022-01-16,2.65,0,3.1667
 presidential,national,France Culture,Taubira Christiane,2022-01-16,2022-01-30,0,0,0.15
+presidential,national,France Culture,Taubira Christiane,2022-01-30,2022-02-13,2.6333,2.8333,10.2667
 presidential,national,France Culture,Zemmour Eric,2022-01-01,2022-01-16,2.3667,1.3333,2
 presidential,national,France Culture,Zemmour Eric,2022-01-16,2022-01-30,0.8833,1.8333,11.5667
+presidential,national,France Culture,Zemmour Eric,2022-01-30,2022-02-13,1.15,0,5.7333
 presidential,national,France Info,Agueb Porterie Anna,2022-01-16,2022-01-30,6.6833,0,0
+presidential,national,France Info,Agueb Porterie Anna,2022-01-30,2022-02-13,0,0,0
 presidential,national,France Info,Arthaud Nathalie,2022-01-16,2022-01-30,13.5833,0,0
-presidential,national,France Info,Asselineau Francois,2022-01-01,2022-01-16,0,7.6667,0
+presidential,national,France Info,Arthaud Nathalie,2022-01-30,2022-02-13,10.85,0,0
+presidential,national,France Info,Asselineau Francois,2022-01-01,2022-01-16,0,7.6667,10.9167
 presidential,national,France Info,Asselineau Francois,2022-01-16,2022-01-30,0,0,0
+presidential,national,France Info,Asselineau Francois,2022-01-30,2022-02-13,0,0,0
 presidential,national,France Info,Dupont Aignan Nicolas,2022-01-01,2022-01-16,0.3667,0,0
 presidential,national,France Info,Dupont Aignan Nicolas,2022-01-16,2022-01-30,10.2833,0,13.5667
+presidential,national,France Info,Dupont Aignan Nicolas,2022-01-30,2022-02-13,0,0,0
 presidential,national,France Info,Governatori Jean Marc,2022-01-16,2022-01-30,0.05,0,0
+presidential,national,France Info,Governatori Jean Marc,2022-01-30,2022-02-13,0,0,0
 presidential,national,France Info,Grimal Fabrice,2022-01-16,2022-01-30,1.3167,0,0
+presidential,national,France Info,Grimal Fabrice,2022-01-30,2022-02-13,0,0,0
 presidential,national,France Info,Hidalgo Anne,2022-01-01,2022-01-16,22.6333,26.7667,18.7833
 presidential,national,France Info,Hidalgo Anne,2022-01-16,2022-01-30,44.0167,33.65,22.8333
+presidential,national,France Info,Hidalgo Anne,2022-01-30,2022-02-13,8.4333,23.25,43.5833
 presidential,national,France Info,Jadot Yannick,2022-01-01,2022-01-16,12.4167,30.55,0
 presidential,national,France Info,Jadot Yannick,2022-01-16,2022-01-30,69.25,18.4833,71.5
+presidential,national,France Info,Jadot Yannick,2022-01-30,2022-02-13,6.5167,84.5833,30.05
 presidential,national,France Info,Koenig Gaspard,2022-01-16,2022-01-30,0,0,0.7
+presidential,national,France Info,Koenig Gaspard,2022-01-30,2022-02-13,0,0,0
 presidential,national,France Info,Lam Yaya,2022-01-16,2022-01-30,0.5333,0,0
+presidential,national,France Info,Lam Yaya,2022-01-30,2022-02-13,0,0,0
 presidential,national,France Info,Larrouturou Pierre,2022-01-01,2022-01-16,4.5333,0,0
 presidential,national,France Info,Larrouturou Pierre,2022-01-16,2022-01-30,0,0,0
+presidential,national,France Info,Larrouturou Pierre,2022-01-30,2022-02-13,0,0,0
+presidential,national,France Info,Lassalle Jean,2022-01-30,2022-02-13,0.3333,0,0
 presidential,national,France Info,Le Pen Marine,2022-01-01,2022-01-16,46.8,20.6833,8.7833
 presidential,national,France Info,Le Pen Marine,2022-01-16,2022-01-30,40.55,78.65,101.15
+presidential,national,France Info,Le Pen Marine,2022-01-30,2022-02-13,30.55,39.3,88.55
 presidential,national,France Info,Macron Emmanuel,2022-01-01,2022-01-16,50.95,98.1333,166.8667
 presidential,national,France Info,Macron Emmanuel,2022-01-16,2022-01-30,18.4,51.1833,155.8833
+presidential,national,France Info,Macron Emmanuel,2022-01-30,2022-02-13,27.2167,139.3667,200.4833
 presidential,national,France Info,Melenchon Jean Luc,2022-01-01,2022-01-16,33.7,65.7667,37.4333
 presidential,national,France Info,Melenchon Jean Luc,2022-01-16,2022-01-30,20.9,22.6667,27.6
+presidential,national,France Info,Melenchon Jean Luc,2022-01-30,2022-02-13,17.1,31.2667,64
 presidential,national,France Info,Montebourg Arnaud,2022-01-01,2022-01-16,0.5333,0,0
 presidential,national,France Info,Montebourg Arnaud,2022-01-16,2022-01-30,0.1333,0,10.1833
+presidential,national,France Info,Montebourg Arnaud,2022-01-30,2022-02-13,0,0,0
 presidential,national,France Info,Pecresse Valerie,2022-01-01,2022-01-16,104.1833,95.9667,43.3333
 presidential,national,France Info,Pecresse Valerie,2022-01-16,2022-01-30,19.55,49.3167,20.9167
+presidential,national,France Info,Pecresse Valerie,2022-01-30,2022-02-13,30.55,107.7333,185.2167
+presidential,national,France Info,Philippot Florian,2022-01-30,2022-02-13,7.9167,0,0
 presidential,national,France Info,Pignol Gerard,2022-01-16,2022-01-30,0.1333,0,0
-presidential,national,France Info,Poutou Philippe,2022-01-01,2022-01-16,0,11.1,0
+presidential,national,France Info,Pignol Gerard,2022-01-30,2022-02-13,0,0,0
+presidential,national,France Info,Poutou Philippe,2022-01-01,2022-01-16,0,11.1,13.65
 presidential,national,France Info,Poutou Philippe,2022-01-16,2022-01-30,0,0,0
-presidential,national,France Info,Rocca Martin,2022-01-01,2022-01-16,7.3833,0,0
+presidential,national,France Info,Poutou Philippe,2022-01-30,2022-02-13,0,0,0.6833
+presidential,national,France Info,Rocca Martin,2022-01-01,2022-01-16,7.3833,0,13.7
 presidential,national,France Info,Rocca Martin,2022-01-16,2022-01-30,0,0,0
+presidential,national,France Info,Rocca Martin,2022-01-30,2022-02-13,0,0,0
 presidential,national,France Info,Roussel Fabien,2022-01-01,2022-01-16,10.6,0,0
 presidential,national,France Info,Roussel Fabien,2022-01-16,2022-01-30,75.6167,5.0333,43.95
+presidential,national,France Info,Roussel Fabien,2022-01-30,2022-02-13,10.5667,8.1167,70.3
 presidential,national,France Info,Taubira Christiane,2022-01-01,2022-01-16,41.15,8.3,27.8833
 presidential,national,France Info,Taubira Christiane,2022-01-16,2022-01-30,21.9667,15.6667,42.6333
+presidential,national,France Info,Taubira Christiane,2022-01-30,2022-02-13,47.8,7.1667,78.1833
 presidential,national,France Info,Thouy Helene,2022-01-16,2022-01-30,0.5667,0,0
+presidential,national,France Info,Thouy Helene,2022-01-30,2022-02-13,13.8167,13.4667,22.3667
 presidential,national,France Info,Zemmour Eric,2022-01-01,2022-01-16,20.8167,19.2833,16.6833
 presidential,national,France Info,Zemmour Eric,2022-01-16,2022-01-30,25.0333,60.6667,55.9833
+presidential,national,France Info,Zemmour Eric,2022-01-30,2022-02-13,30.8667,39.0667,82.4167
 presidential,national,France Info TV,Agueb Porterie Anna,2022-01-16,2022-01-30,8.7,0,0
+presidential,national,France Info TV,Agueb Porterie Anna,2022-01-30,2022-02-13,0,0,0
 presidential,national,France Info TV,Arthaud Nathalie,2022-01-01,2022-01-16,14.8833,0,0
 presidential,national,France Info TV,Arthaud Nathalie,2022-01-16,2022-01-30,0,7.5667,0
+presidential,national,France Info TV,Arthaud Nathalie,2022-01-30,2022-02-13,13.3833,0,0.9333
 presidential,national,France Info TV,Asselineau Francois,2022-01-16,2022-01-30,10.5333,0,0
+presidential,national,France Info TV,Asselineau Francois,2022-01-30,2022-02-13,0,0,0
 presidential,national,France Info TV,Dupont Aignan Nicolas,2022-01-01,2022-01-16,18.3333,0,0
 presidential,national,France Info TV,Dupont Aignan Nicolas,2022-01-16,2022-01-30,1.6667,0,0.2667
+presidential,national,France Info TV,Dupont Aignan Nicolas,2022-01-30,2022-02-13,0,0,0
 presidential,national,France Info TV,Hidalgo Anne,2022-01-01,2022-01-16,66.1333,29.9833,2
 presidential,national,France Info TV,Hidalgo Anne,2022-01-16,2022-01-30,99.7833,59.6167,1.0333
+presidential,national,France Info TV,Hidalgo Anne,2022-01-30,2022-02-13,29.8,57.55,1.3667
 presidential,national,France Info TV,Jadot Yannick,2022-01-01,2022-01-16,57.7333,23.65,0
 presidential,national,France Info TV,Jadot Yannick,2022-01-16,2022-01-30,119.2667,31.2,21.2333
+presidential,national,France Info TV,Jadot Yannick,2022-01-30,2022-02-13,2.5667,90.4,4
 presidential,national,France Info TV,Larrouturou Pierre,2022-01-01,2022-01-16,0.2167,0,0
 presidential,national,France Info TV,Larrouturou Pierre,2022-01-16,2022-01-30,11.7,0,0
+presidential,national,France Info TV,Larrouturou Pierre,2022-01-30,2022-02-13,0,0,0
+presidential,national,France Info TV,Lassalle Jean,2022-01-30,2022-02-13,12.15,0,0
 presidential,national,France Info TV,Le Pen Marine,2022-01-01,2022-01-16,27.9333,18.2333,0
 presidential,national,France Info TV,Le Pen Marine,2022-01-16,2022-01-30,66.8833,122.5167,39.9
+presidential,national,France Info TV,Le Pen Marine,2022-01-30,2022-02-13,73.2167,42.7667,37.3
 presidential,national,France Info TV,Macron Emmanuel,2022-01-01,2022-01-16,24.5,124.6667,16.85
 presidential,national,France Info TV,Macron Emmanuel,2022-01-16,2022-01-30,10.4833,86.55,35.8833
+presidential,national,France Info TV,Macron Emmanuel,2022-01-30,2022-02-13,68.1667,162.8833,51.0333
 presidential,national,France Info TV,Marchandise Charlotte,2022-01-16,2022-01-30,9.35,0,0
+presidential,national,France Info TV,Marchandise Charlotte,2022-01-30,2022-02-13,0,0,0
 presidential,national,France Info TV,Melenchon Jean Luc,2022-01-01,2022-01-16,110,81.8167,5.9667
 presidential,national,France Info TV,Melenchon Jean Luc,2022-01-16,2022-01-30,43.5167,80.9333,10.5667
+presidential,national,France Info TV,Melenchon Jean Luc,2022-01-30,2022-02-13,4.9333,65.05,7.5833
 presidential,national,France Info TV,Pecresse Valerie,2022-01-01,2022-01-16,46.3667,138.9167,0.8667
 presidential,national,France Info TV,Pecresse Valerie,2022-01-16,2022-01-30,8.1667,66.7167,3.4833
+presidential,national,France Info TV,Pecresse Valerie,2022-01-30,2022-02-13,69.35,178.8833,28.4333
 presidential,national,France Info TV,Philippot Florian,2022-01-01,2022-01-16,3.4,0,0
 presidential,national,France Info TV,Philippot Florian,2022-01-16,2022-01-30,0,0,0
+presidential,national,France Info TV,Philippot Florian,2022-01-30,2022-02-13,0,0,0
 presidential,national,France Info TV,Rocca Martin,2022-01-16,2022-01-30,4.0833,0,0
+presidential,national,France Info TV,Rocca Martin,2022-01-30,2022-02-13,0,0,0
 presidential,national,France Info TV,Roussel Fabien,2022-01-01,2022-01-16,5.3167,0,0
 presidential,national,France Info TV,Roussel Fabien,2022-01-16,2022-01-30,23.8167,13.7333,3.1833
+presidential,national,France Info TV,Roussel Fabien,2022-01-30,2022-02-13,67.8833,29.75,49.0333
 presidential,national,France Info TV,Taubira Christiane,2022-01-01,2022-01-16,50.7333,4.1833,3.0167
 presidential,national,France Info TV,Taubira Christiane,2022-01-16,2022-01-30,26.4167,29.2,12.4167
+presidential,national,France Info TV,Taubira Christiane,2022-01-30,2022-02-13,43.5833,12.7667,9.2667
 presidential,national,France Info TV,Thouy Helene,2022-01-01,2022-01-16,16.2,0,0
 presidential,national,France Info TV,Thouy Helene,2022-01-16,2022-01-30,0,0,0
+presidential,national,France Info TV,Thouy Helene,2022-01-30,2022-02-13,11.1333,0,0.6167
 presidential,national,France Info TV,Zemmour Eric,2022-01-01,2022-01-16,25.4833,53.6333,2
 presidential,national,France Info TV,Zemmour Eric,2022-01-16,2022-01-30,17.3833,62.6833,7.4
+presidential,national,France Info TV,Zemmour Eric,2022-01-30,2022-02-13,85.45,44.6667,30.8
 presidential,national,France Inter,Arthaud Nathalie,2022-01-01,2022-01-16,11.9667,0,0
 presidential,national,France Inter,Arthaud Nathalie,2022-01-16,2022-01-30,0,0,0
+presidential,national,France Inter,Arthaud Nathalie,2022-01-30,2022-02-13,0.9833,0.6333,2.85
 presidential,national,France Inter,Asselineau Francois,2022-01-01,2022-01-16,0.0833,0,0
 presidential,national,France Inter,Asselineau Francois,2022-01-16,2022-01-30,0,0,0
+presidential,national,France Inter,Asselineau Francois,2022-01-30,2022-02-13,0,0,0
 presidential,national,France Inter,Dupont Aignan Nicolas,2022-01-01,2022-01-16,14.9,0,0
 presidential,national,France Inter,Dupont Aignan Nicolas,2022-01-16,2022-01-30,0.2833,0,1.1333
+presidential,national,France Inter,Dupont Aignan Nicolas,2022-01-30,2022-02-13,0,0,0
 presidential,national,France Inter,Governatori Jean Marc,2022-01-16,2022-01-30,0,0,0.7
+presidential,national,France Inter,Governatori Jean Marc,2022-01-30,2022-02-13,0,0,0
 presidential,national,France Inter,Hidalgo Anne,2022-01-01,2022-01-16,48.8167,1.6333,0.55
 presidential,national,France Inter,Hidalgo Anne,2022-01-16,2022-01-30,3.45,1.2667,5.75
+presidential,national,France Inter,Hidalgo Anne,2022-01-30,2022-02-13,2.0667,1.35,12.9833
 presidential,national,France Inter,Jadot Yannick,2022-01-01,2022-01-16,43.25,7.2167,0
 presidential,national,France Inter,Jadot Yannick,2022-01-16,2022-01-30,52.8167,10.3833,14.85
+presidential,national,France Inter,Jadot Yannick,2022-01-30,2022-02-13,4.3667,2.7167,4.2333
 presidential,national,France Inter,Koenig Gaspard,2022-01-01,2022-01-16,0.15,0,0
 presidential,national,France Inter,Koenig Gaspard,2022-01-16,2022-01-30,0,0,0
+presidential,national,France Inter,Koenig Gaspard,2022-01-30,2022-02-13,0,0,0
 presidential,national,France Inter,Larrouturou Pierre,2022-01-01,2022-01-16,11.2667,0,0
 presidential,national,France Inter,Larrouturou Pierre,2022-01-16,2022-01-30,0.6,0,0
+presidential,national,France Inter,Larrouturou Pierre,2022-01-30,2022-02-13,0,0,0
 presidential,national,France Inter,Lassalle Jean,2022-01-01,2022-01-16,0.4,0,0
 presidential,national,France Inter,Lassalle Jean,2022-01-16,2022-01-30,0,0,0
+presidential,national,France Inter,Lassalle Jean,2022-01-30,2022-02-13,0.2667,0,0
 presidential,national,France Inter,Le Pen Marine,2022-01-01,2022-01-16,5.0333,7.45,5.2333
 presidential,national,France Inter,Le Pen Marine,2022-01-16,2022-01-30,46.5833,2.5667,28.1
+presidential,national,France Inter,Le Pen Marine,2022-01-30,2022-02-13,6,3.9167,22.25
 presidential,national,France Inter,Macron Emmanuel,2022-01-01,2022-01-16,7.4833,9.9333,19.4833
 presidential,national,France Inter,Macron Emmanuel,2022-01-16,2022-01-30,4.4167,29.9,39.1667
+presidential,national,France Inter,Macron Emmanuel,2022-01-30,2022-02-13,6.8167,52.5667,43.55
 presidential,national,France Inter,Melenchon Jean Luc,2022-01-01,2022-01-16,53.4,4.6333,25.2333
 presidential,national,France Inter,Melenchon Jean Luc,2022-01-16,2022-01-30,3.35,25.3,3.65
+presidential,national,France Inter,Melenchon Jean Luc,2022-01-30,2022-02-13,4.5333,0.8167,7.5833
 presidential,national,France Inter,Montebourg Arnaud,2022-01-01,2022-01-16,0.1167,0,0
 presidential,national,France Inter,Montebourg Arnaud,2022-01-16,2022-01-30,0,0,0
+presidential,national,France Inter,Montebourg Arnaud,2022-01-30,2022-02-13,0,0,0
 presidential,national,France Inter,Pecresse Valerie,2022-01-01,2022-01-16,6.6167,18.6667,16.6833
 presidential,national,France Inter,Pecresse Valerie,2022-01-16,2022-01-30,13.9667,1.3333,20.5167
+presidential,national,France Inter,Pecresse Valerie,2022-01-30,2022-02-13,5.4,35.2833,38.1833
+presidential,national,France Inter,Philippot Florian,2022-01-30,2022-02-13,0.6833,0,0
 presidential,national,France Inter,Poutou Philippe,2022-01-16,2022-01-30,13.9333,0,0
+presidential,national,France Inter,Poutou Philippe,2022-01-30,2022-02-13,0.65,0,1.2
 presidential,national,France Inter,Rocca Martin,2022-01-16,2022-01-30,0.4167,0,0
+presidential,national,France Inter,Rocca Martin,2022-01-30,2022-02-13,0,0,0
 presidential,national,France Inter,Roussel Fabien,2022-01-01,2022-01-16,0.9,0.2667,0
 presidential,national,France Inter,Roussel Fabien,2022-01-16,2022-01-30,2.8333,0,3.95
+presidential,national,France Inter,Roussel Fabien,2022-01-30,2022-02-13,2.2167,0.7,13.6167
 presidential,national,France Inter,Taubira Christiane,2022-01-01,2022-01-16,4.3667,1.2333,12.8333
 presidential,national,France Inter,Taubira Christiane,2022-01-16,2022-01-30,21,0,6.1333
+presidential,national,France Inter,Taubira Christiane,2022-01-30,2022-02-13,5.55,2.0167,12.8
 presidential,national,France Inter,Thouy Helene,2022-01-01,2022-01-16,12.7667,0,0
 presidential,national,France Inter,Thouy Helene,2022-01-16,2022-01-30,0,0,0
+presidential,national,France Inter,Thouy Helene,2022-01-30,2022-02-13,0.4833,0,1.1833
 presidential,national,France Inter,Zemmour Eric,2022-01-01,2022-01-16,3.3333,3.8,6.5
 presidential,national,France Inter,Zemmour Eric,2022-01-16,2022-01-30,7.1167,2.4667,35.65
+presidential,national,France Inter,Zemmour Eric,2022-01-30,2022-02-13,52.3833,2.9833,21.7833
 presidential,national,LCI,Arthaud Nathalie,2022-01-01,2022-01-16,5.5333,0,0.6167
 presidential,national,LCI,Arthaud Nathalie,2022-01-16,2022-01-30,0,0,0.0333
+presidential,national,LCI,Arthaud Nathalie,2022-01-30,2022-02-13,11.2333,0,2.2167
 presidential,national,LCI,Cau Marie,2022-01-01,2022-01-16,9.2167,0,0.95
 presidential,national,LCI,Cau Marie,2022-01-16,2022-01-30,0,0,0
+presidential,national,LCI,Cau Marie,2022-01-30,2022-02-13,0,0,0
 presidential,national,LCI,Dupont Aignan Nicolas,2022-01-01,2022-01-16,56.0667,0,10.6167
 presidential,national,LCI,Dupont Aignan Nicolas,2022-01-16,2022-01-30,105.2667,0,15.9333
+presidential,national,LCI,Dupont Aignan Nicolas,2022-01-30,2022-02-13,0,0,2.7667
 presidential,national,LCI,Hidalgo Anne,2022-01-01,2022-01-16,29.7833,19.2,91.1167
 presidential,national,LCI,Hidalgo Anne,2022-01-16,2022-01-30,105.1833,65.0167,30.75
+presidential,national,LCI,Hidalgo Anne,2022-01-30,2022-02-13,12.0167,21.5167,53.2
 presidential,national,LCI,Jadot Yannick,2022-01-01,2022-01-16,155.6167,28.0333,56.3667
 presidential,national,LCI,Jadot Yannick,2022-01-16,2022-01-30,99.2833,91.35,119.2333
+presidential,national,LCI,Jadot Yannick,2022-01-30,2022-02-13,72.3667,23.0167,39.6333
 presidential,national,LCI,Koenig Gaspard,2022-01-01,2022-01-16,1.1667,0,3.9833
 presidential,national,LCI,Koenig Gaspard,2022-01-16,2022-01-30,0,0,0
+presidential,national,LCI,Koenig Gaspard,2022-01-30,2022-02-13,0,0,0
 presidential,national,LCI,Lassalle Jean,2022-01-01,2022-01-16,0,0,0.1
 presidential,national,LCI,Lassalle Jean,2022-01-16,2022-01-30,0.35,0,0.45
+presidential,national,LCI,Lassalle Jean,2022-01-30,2022-02-13,0.2667,0,0.1
 presidential,national,LCI,Le Pen Marine,2022-01-01,2022-01-16,87.1,137.2333,153.45
 presidential,national,LCI,Le Pen Marine,2022-01-16,2022-01-30,144.8,480.7833,357.05
+presidential,national,LCI,Le Pen Marine,2022-01-30,2022-02-13,139.2333,446.6667,664.7333
 presidential,national,LCI,Macron Emmanuel,2022-01-01,2022-01-16,85.7833,398.3,636.9833
 presidential,national,LCI,Macron Emmanuel,2022-01-16,2022-01-30,40.8167,379.9,510.7167
+presidential,national,LCI,Macron Emmanuel,2022-01-30,2022-02-13,49.65,211.1,421.25
 presidential,national,LCI,Melenchon Jean Luc,2022-01-01,2022-01-16,277.7167,73.6167,114.5333
 presidential,national,LCI,Melenchon Jean Luc,2022-01-16,2022-01-30,43.7667,152.7667,100.8333
+presidential,national,LCI,Melenchon Jean Luc,2022-01-30,2022-02-13,73.6,57.1333,83.0833
 presidential,national,LCI,Montebourg Arnaud,2022-01-16,2022-01-30,0.45,0,5.9
+presidential,national,LCI,Montebourg Arnaud,2022-01-30,2022-02-13,0,0,0
 presidential,national,LCI,Pecresse Valerie,2022-01-01,2022-01-16,95.3,387.1167,458.4
 presidential,national,LCI,Pecresse Valerie,2022-01-16,2022-01-30,44.4333,483.6667,392.6333
+presidential,national,LCI,Pecresse Valerie,2022-01-30,2022-02-13,223.35,228.2167,680.4833
 presidential,national,LCI,Philippot Florian,2022-01-01,2022-01-16,4.3,0,1.05
 presidential,national,LCI,Philippot Florian,2022-01-16,2022-01-30,0,0,1.55
+presidential,national,LCI,Philippot Florian,2022-01-30,2022-02-13,18.1333,0,1.2833
 presidential,national,LCI,Poutou Philippe,2022-01-01,2022-01-16,0,0,1.3333
 presidential,national,LCI,Poutou Philippe,2022-01-16,2022-01-30,0,0,0.0333
+presidential,national,LCI,Poutou Philippe,2022-01-30,2022-02-13,2.2333,0.0333,2.3
 presidential,national,LCI,Rocca Martin,2022-01-16,2022-01-30,9.4167,0,0.45
+presidential,national,LCI,Rocca Martin,2022-01-30,2022-02-13,0,0,0
 presidential,national,LCI,Roussel Fabien,2022-01-01,2022-01-16,87.75,12.9667,33.55
 presidential,national,LCI,Roussel Fabien,2022-01-16,2022-01-30,124.5,35.3833,78.9167
+presidential,national,LCI,Roussel Fabien,2022-01-30,2022-02-13,85.3167,29.8667,113.5167
 presidential,national,LCI,Taubira Christiane,2022-01-01,2022-01-16,47.0833,5.45,126.3
 presidential,national,LCI,Taubira Christiane,2022-01-16,2022-01-30,20.6167,0.5667,46.6
+presidential,national,LCI,Taubira Christiane,2022-01-30,2022-02-13,18.25,2.1,68.3333
 presidential,national,LCI,Thouy Helene,2022-01-01,2022-01-16,0,0,2.3833
 presidential,national,LCI,Thouy Helene,2022-01-16,2022-01-30,0,0,0
+presidential,national,LCI,Thouy Helene,2022-01-30,2022-02-13,11.1667,0,3.2667
 presidential,national,LCI,Zemmour Eric,2022-01-01,2022-01-16,56.6833,214.1167,375.8667
 presidential,national,LCI,Zemmour Eric,2022-01-16,2022-01-30,230.7333,416.8333,520.1833
+presidential,national,LCI,Zemmour Eric,2022-01-30,2022-02-13,257.3667,103.5,513.5667
+presidential,national,M6,Arthaud Nathalie,2022-01-30,2022-02-13,0.3,0,0.5
 presidential,national,M6,Dupont Aignan Nicolas,2022-01-01,2022-01-16,0.15,0,0.05
 presidential,national,M6,Dupont Aignan Nicolas,2022-01-16,2022-01-30,0,0,0
+presidential,national,M6,Dupont Aignan Nicolas,2022-01-30,2022-02-13,0,0,0
 presidential,national,M6,Hidalgo Anne,2022-01-01,2022-01-16,0.3667,0,0.8167
 presidential,national,M6,Hidalgo Anne,2022-01-16,2022-01-30,1.1,0,0.9833
+presidential,national,M6,Hidalgo Anne,2022-01-30,2022-02-13,0.0167,0,0.0667
 presidential,national,M6,Jadot Yannick,2022-01-01,2022-01-16,0.95,0,0.85
 presidential,national,M6,Jadot Yannick,2022-01-16,2022-01-30,0.8,0.2667,3.5
+presidential,national,M6,Jadot Yannick,2022-01-30,2022-02-13,0.3667,0,0.3
 presidential,national,M6,Larrouturou Pierre,2022-01-01,2022-01-16,0.2667,0,0.35
 presidential,national,M6,Larrouturou Pierre,2022-01-16,2022-01-30,0,0,0
+presidential,national,M6,Larrouturou Pierre,2022-01-30,2022-02-13,0,0,0
 presidential,national,M6,Le Pen Marine,2022-01-01,2022-01-16,0.6833,0.05,2.0833
 presidential,national,M6,Le Pen Marine,2022-01-16,2022-01-30,2,0.6333,2.95
+presidential,national,M6,Le Pen Marine,2022-01-30,2022-02-13,0.6833,1.0167,2.2
 presidential,national,M6,Macron Emmanuel,2022-01-01,2022-01-16,1.9833,0,6.3667
 presidential,national,M6,Macron Emmanuel,2022-01-16,2022-01-30,0.1833,0.2333,2.9167
+presidential,national,M6,Macron Emmanuel,2022-01-30,2022-02-13,0.45,0.4,3.8333
 presidential,national,M6,Melenchon Jean Luc,2022-01-01,2022-01-16,1.8333,0.15,2.25
 presidential,national,M6,Melenchon Jean Luc,2022-01-16,2022-01-30,0,0,0.9
+presidential,national,M6,Melenchon Jean Luc,2022-01-30,2022-02-13,1.1333,0,1.8667
 presidential,national,M6,Montebourg Arnaud,2022-01-16,2022-01-30,0,0,0.5333
+presidential,national,M6,Montebourg Arnaud,2022-01-30,2022-02-13,0,0,0
 presidential,national,M6,Pecresse Valerie,2022-01-01,2022-01-16,0.4333,0.3,2.3167
 presidential,national,M6,Pecresse Valerie,2022-01-16,2022-01-30,0.5833,0,1.4667
+presidential,national,M6,Pecresse Valerie,2022-01-30,2022-02-13,0.7,0.6,4.1
 presidential,national,M6,Philippot Florian,2022-01-01,2022-01-16,0.2667,0,0.0667
 presidential,national,M6,Philippot Florian,2022-01-16,2022-01-30,0,0,0
+presidential,national,M6,Philippot Florian,2022-01-30,2022-02-13,0,0,0
 presidential,national,M6,Poutou Philippe,2022-01-16,2022-01-30,0.3667,0,0.4
+presidential,national,M6,Poutou Philippe,2022-01-30,2022-02-13,0,0,0.0167
 presidential,national,M6,Roussel Fabien,2022-01-01,2022-01-16,0,0,0.05
 presidential,national,M6,Roussel Fabien,2022-01-16,2022-01-30,0.3167,0,0.5667
+presidential,national,M6,Roussel Fabien,2022-01-30,2022-02-13,0.7667,0.2333,1.4167
 presidential,national,M6,Taubira Christiane,2022-01-01,2022-01-16,1.1167,0.5833,3.5333
 presidential,national,M6,Taubira Christiane,2022-01-16,2022-01-30,0.05,0,1.2
+presidential,national,M6,Taubira Christiane,2022-01-30,2022-02-13,0.3667,0,1.2167
+presidential,national,M6,Thouy Helene,2022-01-30,2022-02-13,0.3333,0,0.3667
 presidential,national,M6,Zemmour Eric,2022-01-01,2022-01-16,0.4,0.1,2
 presidential,national,M6,Zemmour Eric,2022-01-16,2022-01-30,0.6,0.5167,4.1667
+presidential,national,M6,Zemmour Eric,2022-01-30,2022-02-13,0.75,0.5,2.9667
 presidential,national,Radio Classique,Arthaud Nathalie,2022-01-16,2022-01-30,0,0,0.0333
+presidential,national,Radio Classique,Arthaud Nathalie,2022-01-30,2022-02-13,0,0,0
 presidential,national,Radio Classique,Hidalgo Anne,2022-01-01,2022-01-16,0,0.7,13.05
 presidential,national,Radio Classique,Hidalgo Anne,2022-01-16,2022-01-30,0,0,10.6833
+presidential,national,Radio Classique,Hidalgo Anne,2022-01-30,2022-02-13,0.15,0,19.8833
 presidential,national,Radio Classique,Jadot Yannick,2022-01-01,2022-01-16,0,0,3.4
 presidential,national,Radio Classique,Jadot Yannick,2022-01-16,2022-01-30,0.1333,0,19.6167
+presidential,national,Radio Classique,Jadot Yannick,2022-01-30,2022-02-13,0.25,0.1833,15.4667
 presidential,national,Radio Classique,Koenig Gaspard,2022-01-01,2022-01-16,0,0,0.4667
 presidential,national,Radio Classique,Koenig Gaspard,2022-01-16,2022-01-30,0,0,2.4333
+presidential,national,Radio Classique,Koenig Gaspard,2022-01-30,2022-02-13,0,0,0.7333
 presidential,national,Radio Classique,Lassalle Jean,2022-01-16,2022-01-30,0,0.2833,0.1167
+presidential,national,Radio Classique,Lassalle Jean,2022-01-30,2022-02-13,0,0,0
 presidential,national,Radio Classique,Le Pen Marine,2022-01-01,2022-01-16,0,0,4.7833
 presidential,national,Radio Classique,Le Pen Marine,2022-01-16,2022-01-30,0.45,1.5167,26.8333
+presidential,national,Radio Classique,Le Pen Marine,2022-01-30,2022-02-13,1,2.2167,49.9
 presidential,national,Radio Classique,Macron Emmanuel,2022-01-01,2022-01-16,0,1.6667,57.6
 presidential,national,Radio Classique,Macron Emmanuel,2022-01-16,2022-01-30,0.6333,0,67.95
+presidential,national,Radio Classique,Macron Emmanuel,2022-01-30,2022-02-13,0,0.95,85.95
 presidential,national,Radio Classique,Melenchon Jean Luc,2022-01-01,2022-01-16,0.55,0,1.6167
 presidential,national,Radio Classique,Melenchon Jean Luc,2022-01-16,2022-01-30,0.6,0.2,15.1
+presidential,national,Radio Classique,Melenchon Jean Luc,2022-01-30,2022-02-13,0.4333,0.5833,8.0667
 presidential,national,Radio Classique,Montebourg Arnaud,2022-01-01,2022-01-16,0,0,0.1333
 presidential,national,Radio Classique,Montebourg Arnaud,2022-01-16,2022-01-30,0,0,0
+presidential,national,Radio Classique,Montebourg Arnaud,2022-01-30,2022-02-13,0,0,0
 presidential,national,Radio Classique,Pecresse Valerie,2022-01-01,2022-01-16,1.8667,0,27.5667
 presidential,national,Radio Classique,Pecresse Valerie,2022-01-16,2022-01-30,0.65,0,32.0667
+presidential,national,Radio Classique,Pecresse Valerie,2022-01-30,2022-02-13,0.65,0,55.0833
+presidential,national,Radio Classique,Philippot Florian,2022-01-30,2022-02-13,0.1333,0,0
 presidential,national,Radio Classique,Poutou Philippe,2022-01-16,2022-01-30,0,0,0.6
+presidential,national,Radio Classique,Poutou Philippe,2022-01-30,2022-02-13,0,0,0
 presidential,national,Radio Classique,Roussel Fabien,2022-01-01,2022-01-16,0.2333,0,0.7667
 presidential,national,Radio Classique,Roussel Fabien,2022-01-16,2022-01-30,0.7667,0,5.9667
+presidential,national,Radio Classique,Roussel Fabien,2022-01-30,2022-02-13,0.2667,0,16.9167
 presidential,national,Radio Classique,Taubira Christiane,2022-01-01,2022-01-16,0.1,0,3.5833
 presidential,national,Radio Classique,Taubira Christiane,2022-01-16,2022-01-30,0,0,4.15
+presidential,national,Radio Classique,Taubira Christiane,2022-01-30,2022-02-13,0.8333,0.8833,23.5333
+presidential,national,Radio Classique,Thouy Helene,2022-01-30,2022-02-13,0,0,0.05
 presidential,national,Radio Classique,Zemmour Eric,2022-01-01,2022-01-16,1.7,0,14.9667
 presidential,national,Radio Classique,Zemmour Eric,2022-01-16,2022-01-30,0.6667,0.7333,29.7667
+presidential,national,Radio Classique,Zemmour Eric,2022-01-30,2022-02-13,0,0.1167,15.7
 presidential,national,RFI,Arthaud Nathalie,2022-01-16,2022-01-30,30,0,0
+presidential,national,RFI,Arthaud Nathalie,2022-01-30,2022-02-13,0,0,0
+presidential,national,RFI,Asselineau Francois,2022-01-30,2022-02-13,13,0,0
 presidential,national,RFI,Dupont Aignan Nicolas,2022-01-16,2022-01-30,13,0,0
+presidential,national,RFI,Dupont Aignan Nicolas,2022-01-30,2022-02-13,31,0,0
 presidential,national,RFI,Hidalgo Anne,2022-01-01,2022-01-16,3.5833,18,1.6667
 presidential,national,RFI,Hidalgo Anne,2022-01-16,2022-01-30,2.5333,0,1.75
+presidential,national,RFI,Hidalgo Anne,2022-01-30,2022-02-13,35.3667,0,2.5
 presidential,national,RFI,Jadot Yannick,2022-01-01,2022-01-16,1.5833,13,2.0667
 presidential,national,RFI,Jadot Yannick,2022-01-16,2022-01-30,1.85,13,3.1833
+presidential,national,RFI,Jadot Yannick,2022-01-30,2022-02-13,2.95,13,3.35
 presidential,national,RFI,Le Pen Marine,2022-01-01,2022-01-16,9.2667,0.4333,6.9167
 presidential,national,RFI,Le Pen Marine,2022-01-16,2022-01-30,2.8667,13.45,3.2667
+presidential,national,RFI,Le Pen Marine,2022-01-30,2022-02-13,8.3333,16.1833,13.1833
 presidential,national,RFI,Macron Emmanuel,2022-01-01,2022-01-16,0.4,32.2333,1.9
 presidential,national,RFI,Macron Emmanuel,2022-01-16,2022-01-30,2.1667,6.4167,3.6833
+presidential,national,RFI,Macron Emmanuel,2022-01-30,2022-02-13,3.1333,17.5167,13.8333
 presidential,national,RFI,Melenchon Jean Luc,2022-01-01,2022-01-16,3.0667,13.7,2
 presidential,national,RFI,Melenchon Jean Luc,2022-01-16,2022-01-30,1.3,1.4833,0.6833
+presidential,national,RFI,Melenchon Jean Luc,2022-01-30,2022-02-13,3.0333,0.4333,0.6333
 presidential,national,RFI,Pecresse Valerie,2022-01-01,2022-01-16,3.2333,24.3,3.7333
 presidential,national,RFI,Pecresse Valerie,2022-01-16,2022-01-30,3.2667,3.0333,4.85
+presidential,national,RFI,Pecresse Valerie,2022-01-30,2022-02-13,7.2167,14.45,5.7167
 presidential,national,RFI,Poutou Philippe,2022-01-16,2022-01-30,13,0,0
+presidential,national,RFI,Poutou Philippe,2022-01-30,2022-02-13,0,0,0
 presidential,national,RFI,Roussel Fabien,2022-01-01,2022-01-16,0.85,0.2,3
 presidential,national,RFI,Roussel Fabien,2022-01-16,2022-01-30,33.0167,0.2833,1.2833
+presidential,national,RFI,Roussel Fabien,2022-01-30,2022-02-13,2.4667,0.1333,1.3333
 presidential,national,RFI,Taubira Christiane,2022-01-01,2022-01-16,8.1667,0,3.8333
 presidential,national,RFI,Taubira Christiane,2022-01-16,2022-01-30,1.3667,14.2833,3.2833
+presidential,national,RFI,Taubira Christiane,2022-01-30,2022-02-13,2.3,5.3667,0.6333
 presidential,national,RFI,Zemmour Eric,2022-01-01,2022-01-16,4.7667,0.5667,3.7
 presidential,national,RFI,Zemmour Eric,2022-01-16,2022-01-30,9.7167,15.4333,6
+presidential,national,RFI,Zemmour Eric,2022-01-30,2022-02-13,4.7833,0.7,5.85
 presidential,national,RMC,Arthaud Nathalie,2022-01-16,2022-01-30,0.6333,0,0
+presidential,national,RMC,Arthaud Nathalie,2022-01-30,2022-02-13,11.1333,1.3,1.3333
 presidential,national,RMC,Asselineau Francois,2022-01-16,2022-01-30,0,6.1667,0
+presidential,national,RMC,Asselineau Francois,2022-01-30,2022-02-13,0,0,0
 presidential,national,RMC,Dupont Aignan Nicolas,2022-01-16,2022-01-30,21.6833,0,0
+presidential,national,RMC,Dupont Aignan Nicolas,2022-01-30,2022-02-13,0.6333,0,0
 presidential,national,RMC,Hidalgo Anne,2022-01-01,2022-01-16,3.6,11.0667,8.65
 presidential,national,RMC,Hidalgo Anne,2022-01-16,2022-01-30,49.6,0.65,-0
+presidential,national,RMC,Hidalgo Anne,2022-01-30,2022-02-13,0.6167,0.5167,3.2333
 presidential,national,RMC,Jadot Yannick,2022-01-01,2022-01-16,0.6833,7.2833,0.2333
 presidential,national,RMC,Jadot Yannick,2022-01-16,2022-01-30,4.8333,29.7667,-0
+presidential,national,RMC,Jadot Yannick,2022-01-30,2022-02-13,28.2833,13.2833,2.5
+presidential,national,RMC,Kuzmanovic Georges,2022-01-30,2022-02-13,0,0,0.95
 presidential,national,RMC,Lassalle Jean,2022-01-01,2022-01-16,0.5167,0,0
 presidential,national,RMC,Lassalle Jean,2022-01-16,2022-01-30,0.2167,0,0
+presidential,national,RMC,Lassalle Jean,2022-01-30,2022-02-13,0.2333,0,0
 presidential,national,RMC,Le Pen Marine,2022-01-01,2022-01-16,49.2833,19.85,7.3
 presidential,national,RMC,Le Pen Marine,2022-01-16,2022-01-30,4.4833,58.8833,0
+presidential,national,RMC,Le Pen Marine,2022-01-30,2022-02-13,2.75,72.5667,20.3667
 presidential,national,RMC,Macron Emmanuel,2022-01-01,2022-01-16,2.8167,90.5667,24.4667
 presidential,national,RMC,Macron Emmanuel,2022-01-16,2022-01-30,2.2833,67.3667,7.8
+presidential,national,RMC,Macron Emmanuel,2022-01-30,2022-02-13,1.2333,29.5833,40.2833
 presidential,national,RMC,Marchandise Charlotte,2022-01-16,2022-01-30,0,0,1.2
+presidential,national,RMC,Marchandise Charlotte,2022-01-30,2022-02-13,0,0,0
 presidential,national,RMC,Melenchon Jean Luc,2022-01-01,2022-01-16,6.4667,20.7833,25.1333
 presidential,national,RMC,Melenchon Jean Luc,2022-01-16,2022-01-30,5.9833,71.9667,2.3333
+presidential,national,RMC,Melenchon Jean Luc,2022-01-30,2022-02-13,1.9667,22.7167,10.4
 presidential,national,RMC,Pecresse Valerie,2022-01-01,2022-01-16,1.1667,38.1333,5.7667
-presidential,national,RMC,Pecresse Valerie,2022-01-16,2022-01-30,8.0167,41.0333,14.95
+presidential,national,RMC,Pecresse Valerie,2022-01-16,2022-01-30,106.0833,41.0333,69.6833
+presidential,national,RMC,Pecresse Valerie,2022-01-30,2022-02-13,5.3,96.9,12.0833
 presidential,national,RMC,Philippot Florian,2022-01-01,2022-01-16,0.35,0,0
 presidential,national,RMC,Philippot Florian,2022-01-16,2022-01-30,0.1833,0,0
+presidential,national,RMC,Philippot Florian,2022-01-30,2022-02-13,11.1333,0,0
 presidential,national,RMC,Poutou Philippe,2022-01-16,2022-01-30,0,10.4,0
+presidential,national,RMC,Poutou Philippe,2022-01-30,2022-02-13,21.5167,0,0.8833
 presidential,national,RMC,Roussel Fabien,2022-01-01,2022-01-16,16.5333,0,0
 presidential,national,RMC,Roussel Fabien,2022-01-16,2022-01-30,54.4,0,25.0333
+presidential,national,RMC,Roussel Fabien,2022-01-30,2022-02-13,31.15,0.7333,14.4
 presidential,national,RMC,Taubira Christiane,2022-01-01,2022-01-16,3.9833,0.4833,3.5
 presidential,national,RMC,Taubira Christiane,2022-01-16,2022-01-30,2.2833,0,0
+presidential,national,RMC,Taubira Christiane,2022-01-30,2022-02-13,2.95,6.15,2.8667
 presidential,national,RMC,Thouy Helene,2022-01-16,2022-01-30,5.1333,0,0
+presidential,national,RMC,Thouy Helene,2022-01-30,2022-02-13,0,0,0
 presidential,national,RMC,Zemmour Eric,2022-01-01,2022-01-16,10.6167,55.4667,22.9833
-presidential,national,RMC,Zemmour Eric,2022-01-16,2022-01-30,34.9667,68.95,1.3333
+presidential,national,RMC,Zemmour Eric,2022-01-16,2022-01-30,34.9667,64.1333,1.3333
+presidential,national,RMC,Zemmour Eric,2022-01-30,2022-02-13,8.7667,73.1333,12.75
+presidential,national,RMC Découverte,Jadot Yannick,2022-01-30,2022-02-13,1.7167,0,4.8167
 presidential,national,RMC Découverte,Macron Emmanuel,2022-01-01,2022-01-16,0,3.9833,0
 presidential,national,RMC Découverte,Macron Emmanuel,2022-01-16,2022-01-30,0,0,0
+presidential,national,RMC Découverte,Macron Emmanuel,2022-01-30,2022-02-13,0,0,10.6833
+presidential,national,RMC Découverte,Pecresse Valerie,2022-01-30,2022-02-13,0,1.7833,7.2667
 presidential,national,RMC Découverte,Roussel Fabien,2022-01-16,2022-01-30,0.8667,0,0
+presidential,national,RMC Découverte,Roussel Fabien,2022-01-30,2022-02-13,0,0,0
 presidential,national,RMC Découverte,Zemmour Eric,2022-01-01,2022-01-16,0.6,0,1.3167
 presidential,national,RMC Découverte,Zemmour Eric,2022-01-16,2022-01-30,0,0,0
+presidential,national,RMC Découverte,Zemmour Eric,2022-01-30,2022-02-13,0,0,4.05
+presidential,national,RMC Story,Arthaud Nathalie,2022-01-30,2022-02-13,0.55,0,0
 presidential,national,RMC Story,Asselineau Francois,2022-01-16,2022-01-30,0,3.0833,0
+presidential,national,RMC Story,Asselineau Francois,2022-01-30,2022-02-13,0,0,0
 presidential,national,RMC Story,Dupont Aignan Nicolas,2022-01-16,2022-01-30,0.55,0,0
+presidential,national,RMC Story,Dupont Aignan Nicolas,2022-01-30,2022-02-13,0.3167,0,0
 presidential,national,RMC Story,Hidalgo Anne,2022-01-01,2022-01-16,1.7333,6.15,4.1167
 presidential,national,RMC Story,Hidalgo Anne,2022-01-16,2022-01-30,1.7833,0.65,0
+presidential,national,RMC Story,Hidalgo Anne,2022-01-30,2022-02-13,0.5167,0.2333,2.3833
 presidential,national,RMC Story,Jadot Yannick,2022-01-01,2022-01-16,1.3667,3.95,0.1167
 presidential,national,RMC Story,Jadot Yannick,2022-01-16,2022-01-30,0.7667,9.1333,0
+presidential,national,RMC Story,Jadot Yannick,2022-01-30,2022-02-13,4.75,13.0667,1.4667
 presidential,national,RMC Story,Lassalle Jean,2022-01-01,2022-01-16,1.0333,0,0
 presidential,national,RMC Story,Lassalle Jean,2022-01-16,2022-01-30,0.2167,0,0
+presidential,national,RMC Story,Lassalle Jean,2022-01-30,2022-02-13,0.1167,0,0
 presidential,national,RMC Story,Le Pen Marine,2022-01-01,2022-01-16,1.2,0.15,2.0667
 presidential,national,RMC Story,Le Pen Marine,2022-01-16,2022-01-30,1.2,0.5667,0
+presidential,national,RMC Story,Le Pen Marine,2022-01-30,2022-02-13,2.1167,31.3333,23
 presidential,national,RMC Story,Macron Emmanuel,2022-01-01,2022-01-16,0,41.0833,12.2333
 presidential,national,RMC Story,Macron Emmanuel,2022-01-16,2022-01-30,0.6833,26.0667,3.9
+presidential,national,RMC Story,Macron Emmanuel,2022-01-30,2022-02-13,0.6333,13.4333,22.2667
 presidential,national,RMC Story,Marchandise Charlotte,2022-01-16,2022-01-30,0,0,2.4
+presidential,national,RMC Story,Marchandise Charlotte,2022-01-30,2022-02-13,0,0,0
 presidential,national,RMC Story,Melenchon Jean Luc,2022-01-01,2022-01-16,3.4167,6.7833,9.3167
 presidential,national,RMC Story,Melenchon Jean Luc,2022-01-16,2022-01-30,5.25,25.5833,2.3333
+presidential,national,RMC Story,Melenchon Jean Luc,2022-01-30,2022-02-13,1.1167,12.6667,7.3167
 presidential,national,RMC Story,Pecresse Valerie,2022-01-01,2022-01-16,0.3,14.0833,2.8833
 presidential,national,RMC Story,Pecresse Valerie,2022-01-16,2022-01-30,5.45,16.6167,3.05
+presidential,national,RMC Story,Pecresse Valerie,2022-01-30,2022-02-13,1.8833,31.9833,6.1833
 presidential,national,RMC Story,Philippot Florian,2022-01-16,2022-01-30,0.1833,0,0
+presidential,national,RMC Story,Philippot Florian,2022-01-30,2022-02-13,5.5667,0,0
 presidential,national,RMC Story,Poutou Philippe,2022-01-16,2022-01-30,0,9.9333,0
+presidential,national,RMC Story,Poutou Philippe,2022-01-30,2022-02-13,21.4,0,0.8833
 presidential,national,RMC Story,Roussel Fabien,2022-01-01,2022-01-16,8.9333,0,0
 presidential,national,RMC Story,Roussel Fabien,2022-01-16,2022-01-30,27.4667,0,12.5167
+presidential,national,RMC Story,Roussel Fabien,2022-01-30,2022-02-13,5.3,1.4667,4.2
 presidential,national,RMC Story,Taubira Christiane,2022-01-01,2022-01-16,0.65,0,0.7667
 presidential,national,RMC Story,Taubira Christiane,2022-01-16,2022-01-30,0.95,0,-0
+presidential,national,RMC Story,Taubira Christiane,2022-01-30,2022-02-13,2.3167,5.65,1.8
 presidential,national,RMC Story,Thouy Helene,2022-01-16,2022-01-30,5.1333,0,0
+presidential,national,RMC Story,Thouy Helene,2022-01-30,2022-02-13,0,0,0
 presidential,national,RMC Story,Zemmour Eric,2022-01-01,2022-01-16,4.4333,26.9,10.1333
 presidential,national,RMC Story,Zemmour Eric,2022-01-16,2022-01-30,4.0167,33.65,1.3333
+presidential,national,RMC Story,Zemmour Eric,2022-01-30,2022-02-13,3.2333,25.0833,8.25
+presidential,national,RT France,Arthaud Nathalie,2022-01-30,2022-02-13,0,0,5.2167
 presidential,national,RT France,Dupont Aignan Nicolas,2022-01-01,2022-01-16,0,0,1.6
 presidential,national,RT France,Dupont Aignan Nicolas,2022-01-16,2022-01-30,8.2333,0,0.3
+presidential,national,RT France,Dupont Aignan Nicolas,2022-01-30,2022-02-13,0,0,0
 presidential,national,RT France,Egger Clara,2022-01-16,2022-01-30,0,0,2.7
+presidential,national,RT France,Egger Clara,2022-01-30,2022-02-13,0,0,0.9
 presidential,national,RT France,Hidalgo Anne,2022-01-01,2022-01-16,5.5,0,6.1167
 presidential,national,RT France,Hidalgo Anne,2022-01-16,2022-01-30,1.4167,5.5,11.15
+presidential,national,RT France,Hidalgo Anne,2022-01-30,2022-02-13,2.2167,14.5667,28.3167
 presidential,national,RT France,Jadot Yannick,2022-01-01,2022-01-16,0,7.4,1.3
 presidential,national,RT France,Jadot Yannick,2022-01-16,2022-01-30,10.3833,10.0333,20.5333
+presidential,national,RT France,Jadot Yannick,2022-01-30,2022-02-13,0.6833,0,6.0333
+presidential,national,RT France,Kuzmanovic Georges,2022-01-30,2022-02-13,0,0,0.3333
 presidential,national,RT France,Langlois Alexandre,2022-01-16,2022-01-30,1.4,0,0
+presidential,national,RT France,Langlois Alexandre,2022-01-30,2022-02-13,0,0,0
 presidential,national,RT France,Le Pen Marine,2022-01-01,2022-01-16,4.3,22.35,9.7333
 presidential,national,RT France,Le Pen Marine,2022-01-16,2022-01-30,0.8333,33.9667,23.2
+presidential,national,RT France,Le Pen Marine,2022-01-30,2022-02-13,12.3,22.2,75.55
 presidential,national,RT France,Macron Emmanuel,2022-01-01,2022-01-16,3.0333,26.8167,124.4833
 presidential,national,RT France,Macron Emmanuel,2022-01-16,2022-01-30,0.2333,27.8333,48.7833
+presidential,national,RT France,Macron Emmanuel,2022-01-30,2022-02-13,0,47.5167,56.15
 presidential,national,RT France,Melenchon Jean Luc,2022-01-01,2022-01-16,2.2167,11.35,2.25
 presidential,national,RT France,Melenchon Jean Luc,2022-01-16,2022-01-30,0.4167,7.2833,39.95
+presidential,national,RT France,Melenchon Jean Luc,2022-01-30,2022-02-13,12.4333,5.9667,27.15
 presidential,national,RT France,Montebourg Arnaud,2022-01-01,2022-01-16,0,0,7.35
 presidential,national,RT France,Montebourg Arnaud,2022-01-16,2022-01-30,0,2.7167,0
+presidential,national,RT France,Montebourg Arnaud,2022-01-30,2022-02-13,0,0,0
 presidential,national,RT France,Pecresse Valerie,2022-01-01,2022-01-16,6.3,27.9333,47.8
 presidential,national,RT France,Pecresse Valerie,2022-01-16,2022-01-30,0.25,45.9,53.2333
+presidential,national,RT France,Pecresse Valerie,2022-01-30,2022-02-13,9.7,33.3333,80.2667
 presidential,national,RT France,Philippot Florian,2022-01-01,2022-01-16,1.2,0,7.1667
 presidential,national,RT France,Philippot Florian,2022-01-16,2022-01-30,11.0833,0,7.7167
+presidential,national,RT France,Philippot Florian,2022-01-30,2022-02-13,6,0,8.0667
+presidential,national,RT France,Poutou Philippe,2022-01-30,2022-02-13,0,0,3.1833
 presidential,national,RT France,Roussel Fabien,2022-01-01,2022-01-16,0,7.7333,24.8833
 presidential,national,RT France,Roussel Fabien,2022-01-16,2022-01-30,0,0,0
+presidential,national,RT France,Roussel Fabien,2022-01-30,2022-02-13,5.4167,16.8,20.2667
 presidential,national,RT France,Taubira Christiane,2022-01-01,2022-01-16,4.1667,0,8.3167
 presidential,national,RT France,Taubira Christiane,2022-01-16,2022-01-30,11.7667,0,14.9
+presidential,national,RT France,Taubira Christiane,2022-01-30,2022-02-13,9.8167,0,25.4167
 presidential,national,RT France,Zemmour Eric,2022-01-01,2022-01-16,0,21.35,28.35
 presidential,national,RT France,Zemmour Eric,2022-01-16,2022-01-30,2.15,27.3667,18.7333
+presidential,national,RT France,Zemmour Eric,2022-01-30,2022-02-13,11.6,29.0333,36.8833
+presidential,national,RTL,Arthaud Nathalie,2022-01-30,2022-02-13,1.65,0,0
 presidential,national,RTL,Dupont Aignan Nicolas,2022-01-01,2022-01-16,1.0667,0,0
 presidential,national,RTL,Dupont Aignan Nicolas,2022-01-16,2022-01-30,0.4,0,0.4167
+presidential,national,RTL,Dupont Aignan Nicolas,2022-01-30,2022-02-13,0,0,0
 presidential,national,RTL,Hidalgo Anne,2022-01-01,2022-01-16,2.4667,0,2.7167
 presidential,national,RTL,Hidalgo Anne,2022-01-16,2022-01-30,35.9333,1.4,7.1833
+presidential,national,RTL,Hidalgo Anne,2022-01-30,2022-02-13,0.2,5.8667,2.9167
 presidential,national,RTL,Jadot Yannick,2022-01-01,2022-01-16,65.0333,11.6333,11.6667
 presidential,national,RTL,Jadot Yannick,2022-01-16,2022-01-30,6.0333,5.5667,3.35
+presidential,national,RTL,Jadot Yannick,2022-01-30,2022-02-13,67.7333,8.05,15.9333
+presidential,national,RTL,Lassalle Jean,2022-01-30,2022-02-13,10.2167,0,1.1667
 presidential,national,RTL,Le Pen Marine,2022-01-01,2022-01-16,5.6167,6.4167,12.3
 presidential,national,RTL,Le Pen Marine,2022-01-16,2022-01-30,9.15,31.7167,25.2
+presidential,national,RTL,Le Pen Marine,2022-01-30,2022-02-13,6.7833,46.1667,52.5667
 presidential,national,RTL,Macron Emmanuel,2022-01-01,2022-01-16,10.7333,36.0667,79.5667
 presidential,national,RTL,Macron Emmanuel,2022-01-16,2022-01-30,5.4333,26.9833,20.1333
+presidential,national,RTL,Macron Emmanuel,2022-01-30,2022-02-13,1.5667,27.4333,40.25
 presidential,national,RTL,Melenchon Jean Luc,2022-01-01,2022-01-16,59.6667,11.8833,11.5167
 presidential,national,RTL,Melenchon Jean Luc,2022-01-16,2022-01-30,1.3333,4.6667,5.8333
+presidential,national,RTL,Melenchon Jean Luc,2022-01-30,2022-02-13,1.3667,16.45,1.2
 presidential,national,RTL,Montebourg Arnaud,2022-01-01,2022-01-16,0.2,0,0
 presidential,national,RTL,Montebourg Arnaud,2022-01-16,2022-01-30,0,0,0
+presidential,national,RTL,Montebourg Arnaud,2022-01-30,2022-02-13,0,0,0
 presidential,national,RTL,Pecresse Valerie,2022-01-01,2022-01-16,46.1667,56.5333,39.3333
 presidential,national,RTL,Pecresse Valerie,2022-01-16,2022-01-30,4.15,15.1833,6.7833
+presidential,national,RTL,Pecresse Valerie,2022-01-30,2022-02-13,7.1167,9.2833,38.7667
 presidential,national,RTL,Poutou Philippe,2022-01-16,2022-01-30,0,0,0.75
+presidential,national,RTL,Poutou Philippe,2022-01-30,2022-02-13,0,0,0
 presidential,national,RTL,Roussel Fabien,2022-01-01,2022-01-16,1.65,0,0.7833
 presidential,national,RTL,Roussel Fabien,2022-01-16,2022-01-30,53.95,0.1667,16.1833
+presidential,national,RTL,Roussel Fabien,2022-01-30,2022-02-13,0.3333,0.8667,6.65
 presidential,national,RTL,Taubira Christiane,2022-01-01,2022-01-16,3.8333,0,4.4
 presidential,national,RTL,Taubira Christiane,2022-01-16,2022-01-30,1.65,0,4.1167
+presidential,national,RTL,Taubira Christiane,2022-01-30,2022-02-13,23.8333,0,8.3333
+presidential,national,RTL,Thouy Helene,2022-01-30,2022-02-13,6.0333,0,0
 presidential,national,RTL,Zemmour Eric,2022-01-01,2022-01-16,27.5,7.3,10.7667
 presidential,national,RTL,Zemmour Eric,2022-01-16,2022-01-30,9.8167,25.7167,24.2
+presidential,national,RTL,Zemmour Eric,2022-01-30,2022-02-13,6.3,55.1333,47.2167
 presidential,national,Sud Radio,Asselineau Francois,2022-01-01,2022-01-16,29.9667,0,0
 presidential,national,Sud Radio,Asselineau Francois,2022-01-16,2022-01-30,0,0,0
+presidential,national,Sud Radio,Asselineau Francois,2022-01-30,2022-02-13,0,0,1
+presidential,national,Sud Radio,Dupont Aignan Nicolas,2022-01-30,2022-02-13,20,0,0
 presidential,national,Sud Radio,Hidalgo Anne,2022-01-01,2022-01-16,0,3.9167,1.1167
 presidential,national,Sud Radio,Hidalgo Anne,2022-01-16,2022-01-30,0,1.25,2.0167
+presidential,national,Sud Radio,Hidalgo Anne,2022-01-30,2022-02-13,0,9.25,1.6333
 presidential,national,Sud Radio,Jadot Yannick,2022-01-01,2022-01-16,0,3.65,1.05
 presidential,national,Sud Radio,Jadot Yannick,2022-01-16,2022-01-30,8.9333,0,1
+presidential,national,Sud Radio,Jadot Yannick,2022-01-30,2022-02-13,0,15.5,2.1667
 presidential,national,Sud Radio,Koenig Gaspard,2022-01-01,2022-01-16,10.3333,0,0
 presidential,national,Sud Radio,Koenig Gaspard,2022-01-16,2022-01-30,0,0,0
+presidential,national,Sud Radio,Koenig Gaspard,2022-01-30,2022-02-13,0,0,0
+presidential,national,Sud Radio,Lassalle Jean,2022-01-30,2022-02-13,0,2,0
 presidential,national,Sud Radio,Le Pen Marine,2022-01-01,2022-01-16,1.2,2.9,0.7667
 presidential,national,Sud Radio,Le Pen Marine,2022-01-16,2022-01-30,0,16.6167,19.7333
+presidential,national,Sud Radio,Le Pen Marine,2022-01-30,2022-02-13,0,8,12.5
 presidential,national,Sud Radio,Macron Emmanuel,2022-01-01,2022-01-16,1.7833,4.1667,5.7
 presidential,national,Sud Radio,Macron Emmanuel,2022-01-16,2022-01-30,0.5167,30.4167,23.9833
+presidential,national,Sud Radio,Macron Emmanuel,2022-01-30,2022-02-13,2.05,35.2833,23.15
 presidential,national,Sud Radio,Melenchon Jean Luc,2022-01-01,2022-01-16,0.4833,4.2,0
 presidential,national,Sud Radio,Melenchon Jean Luc,2022-01-16,2022-01-30,1.2667,10.65,11.6333
+presidential,national,Sud Radio,Melenchon Jean Luc,2022-01-30,2022-02-13,0,26.2,5.5333
 presidential,national,Sud Radio,Pecresse Valerie,2022-01-01,2022-01-16,0.5,10.55,1.5167
 presidential,national,Sud Radio,Pecresse Valerie,2022-01-16,2022-01-30,0,17.3833,16.15
+presidential,national,Sud Radio,Pecresse Valerie,2022-01-30,2022-02-13,0.25,29.8167,15.4833
+presidential,national,Sud Radio,Philippot Florian,2022-01-30,2022-02-13,4.0333,0,0
 presidential,national,Sud Radio,Roussel Fabien,2022-01-01,2022-01-16,0.3,4.55,1.8167
 presidential,national,Sud Radio,Roussel Fabien,2022-01-16,2022-01-30,0,8.3833,0.6667
+presidential,national,Sud Radio,Roussel Fabien,2022-01-30,2022-02-13,23,0,5.3833
 presidential,national,Sud Radio,Taubira Christiane,2022-01-01,2022-01-16,3.0167,0,2.2
 presidential,national,Sud Radio,Taubira Christiane,2022-01-16,2022-01-30,0,0,4.5667
+presidential,national,Sud Radio,Taubira Christiane,2022-01-30,2022-02-13,1.3333,0,2.1667
 presidential,national,Sud Radio,Thouy Helene,2022-01-16,2022-01-30,16.55,0,0
+presidential,national,Sud Radio,Thouy Helene,2022-01-30,2022-02-13,0,0,0
 presidential,national,Sud Radio,Zemmour Eric,2022-01-01,2022-01-16,0,3.0167,1.55
 presidential,national,Sud Radio,Zemmour Eric,2022-01-16,2022-01-30,0.55,12.2,30.7833
+presidential,national,Sud Radio,Zemmour Eric,2022-01-30,2022-02-13,31.7167,10,11.3333
+presidential,national,TF1,Arthaud Nathalie,2022-01-30,2022-02-13,2.1,0.55,1.4333
 presidential,national,TF1,Asselineau Francois,2022-01-16,2022-01-30,0.2167,0,0.1167
+presidential,national,TF1,Asselineau Francois,2022-01-30,2022-02-13,0,0,0
 presidential,national,TF1,Dupont Aignan Nicolas,2022-01-01,2022-01-16,0.15,0,0
 presidential,national,TF1,Dupont Aignan Nicolas,2022-01-16,2022-01-30,0.0833,0,0
+presidential,national,TF1,Dupont Aignan Nicolas,2022-01-30,2022-02-13,3.3,0.4,1.7
 presidential,national,TF1,Hidalgo Anne,2022-01-01,2022-01-16,0.2167,0,0.1667
 presidential,national,TF1,Hidalgo Anne,2022-01-16,2022-01-30,1.3167,0.7,1.0333
+presidential,national,TF1,Hidalgo Anne,2022-01-30,2022-02-13,0.6833,1.6333,1.1167
 presidential,national,TF1,Jadot Yannick,2022-01-01,2022-01-16,0.8333,0,0.2167
 presidential,national,TF1,Jadot Yannick,2022-01-16,2022-01-30,8.4667,0,5.8833
+presidential,national,TF1,Jadot Yannick,2022-01-30,2022-02-13,2.0667,0,1.1333
 presidential,national,TF1,Koenig Gaspard,2022-01-16,2022-01-30,0.2667,0,0.2167
+presidential,national,TF1,Koenig Gaspard,2022-01-30,2022-02-13,0,0,0
 presidential,national,TF1,Lassalle Jean,2022-01-16,2022-01-30,0.3,0,0.2167
+presidential,national,TF1,Lassalle Jean,2022-01-30,2022-02-13,0,0,0
 presidential,national,TF1,Le Pen Marine,2022-01-01,2022-01-16,7.65,0.1333,6.4167
 presidential,national,TF1,Le Pen Marine,2022-01-16,2022-01-30,4.6667,1.2667,5.65
+presidential,national,TF1,Le Pen Marine,2022-01-30,2022-02-13,4.15,1.45,2.3167
 presidential,national,TF1,Macron Emmanuel,2022-01-01,2022-01-16,0.85,0.6833,5.3
 presidential,national,TF1,Macron Emmanuel,2022-01-16,2022-01-30,0.8,4.5833,3.4667
+presidential,national,TF1,Macron Emmanuel,2022-01-30,2022-02-13,0.75,3.3833,4.0333
 presidential,national,TF1,Melenchon Jean Luc,2022-01-01,2022-01-16,0.8833,0,0.4167
 presidential,national,TF1,Melenchon Jean Luc,2022-01-16,2022-01-30,3.0833,0.5667,5.3833
+presidential,national,TF1,Melenchon Jean Luc,2022-01-30,2022-02-13,10.9667,1.2667,6.3
 presidential,national,TF1,Montebourg Arnaud,2022-01-16,2022-01-30,0.45,0,0.1667
+presidential,national,TF1,Montebourg Arnaud,2022-01-30,2022-02-13,0,0,0
 presidential,national,TF1,Pecresse Valerie,2022-01-01,2022-01-16,0.8167,0.1667,0.5
 presidential,national,TF1,Pecresse Valerie,2022-01-16,2022-01-30,9.15,2.6333,6.3
+presidential,national,TF1,Pecresse Valerie,2022-01-30,2022-02-13,2.15,2.2333,2.2
 presidential,national,TF1,Philippot Florian,2022-01-16,2022-01-30,0.3,0,0.1
+presidential,national,TF1,Philippot Florian,2022-01-30,2022-02-13,0,0,0
+presidential,national,TF1,Poutou Philippe,2022-01-30,2022-02-13,0.2,0,0.2167
 presidential,national,TF1,Roussel Fabien,2022-01-01,2022-01-16,0.1833,0,0
 presidential,national,TF1,Roussel Fabien,2022-01-16,2022-01-30,5.8333,0.4333,1.5333
+presidential,national,TF1,Roussel Fabien,2022-01-30,2022-02-13,0.2833,0,0
 presidential,national,TF1,Taubira Christiane,2022-01-01,2022-01-16,0.55,0,1.3167
 presidential,national,TF1,Taubira Christiane,2022-01-16,2022-01-30,0.85,0.2667,1.1
+presidential,national,TF1,Taubira Christiane,2022-01-30,2022-02-13,0.55,0.1667,0.7167
 presidential,national,TF1,Thouy Helene,2022-01-16,2022-01-30,0.6333,0.05,1.8833
+presidential,national,TF1,Thouy Helene,2022-01-30,2022-02-13,0,0,0
 presidential,national,TF1,Zemmour Eric,2022-01-01,2022-01-16,0.8333,0.1333,1.5667
 presidential,national,TF1,Zemmour Eric,2022-01-16,2022-01-30,1.1833,5.75,5.75
+presidential,national,TF1,Zemmour Eric,2022-01-30,2022-02-13,9.4833,1.5167,7.3
+presidential,national,TMC,Arthaud Nathalie,2022-01-16,2022-01-30,0,0,0.0667
 presidential,national,TMC,Asselineau Francois,2022-01-01,2022-01-16,0.0167,0,0
+presidential,national,TMC,Asselineau Francois,2022-01-16,2022-01-30,0,0,0
 presidential,national,TMC,Dupont Aignan Nicolas,2022-01-01,2022-01-16,0.8833,0,0.1667
+presidential,national,TMC,Dupont Aignan Nicolas,2022-01-16,2022-01-30,3.4333,0,1.4667
 presidential,national,TMC,Hidalgo Anne,2022-01-01,2022-01-16,3.9667,0,4.1167
+presidential,national,TMC,Hidalgo Anne,2022-01-16,2022-01-30,5.3833,0.3667,7.8
 presidential,national,TMC,Jadot Yannick,2022-01-01,2022-01-16,2.8,0.0833,2.9167
+presidential,national,TMC,Jadot Yannick,2022-01-16,2022-01-30,4.1833,0.0833,4.7167
 presidential,national,TMC,Lassalle Jean,2022-01-01,2022-01-16,0,0,0.2333
+presidential,national,TMC,Lassalle Jean,2022-01-16,2022-01-30,0.0667,0,0
 presidential,national,TMC,Le Pen Marine,2022-01-01,2022-01-16,7.4833,1.9667,16.0667
+presidential,national,TMC,Le Pen Marine,2022-01-16,2022-01-30,16.7333,0.5333,18.0167
 presidential,national,TMC,Macron Emmanuel,2022-01-01,2022-01-16,4.5667,0,5.9833
+presidential,national,TMC,Macron Emmanuel,2022-01-16,2022-01-30,17.3,3.3333,37.7167
 presidential,national,TMC,Melenchon Jean Luc,2022-01-01,2022-01-16,2.8,0,3.7
+presidential,national,TMC,Melenchon Jean Luc,2022-01-16,2022-01-30,17.85,0.8833,15.8
 presidential,national,TMC,Montebourg Arnaud,2022-01-01,2022-01-16,0.3667,0,0.9
+presidential,national,TMC,Montebourg Arnaud,2022-01-16,2022-01-30,0,0,0
 presidential,national,TMC,Pecresse Valerie,2022-01-01,2022-01-16,15.2167,0,10.65
+presidential,national,TMC,Pecresse Valerie,2022-01-16,2022-01-30,7.3667,1.2167,11.4167
 presidential,national,TMC,Philippot Florian,2022-01-01,2022-01-16,1.1,0,1.3
+presidential,national,TMC,Philippot Florian,2022-01-16,2022-01-30,0.3333,0,0.3
+presidential,national,TMC,Poutou Philippe,2022-01-16,2022-01-30,0,0,0.6667
 presidential,national,TMC,Roussel Fabien,2022-01-01,2022-01-16,3.7,0,2.6833
+presidential,national,TMC,Roussel Fabien,2022-01-16,2022-01-30,1.5,0.0667,2.2833
 presidential,national,TMC,Taubira Christiane,2022-01-01,2022-01-16,0,0,3.1
+presidential,national,TMC,Taubira Christiane,2022-01-16,2022-01-30,5.0667,0.0833,7.5667
 presidential,national,TMC,Zemmour Eric,2022-01-01,2022-01-16,8.2667,0,15.0667
-presidential,national,TV5Monde,Hidalgo Anne,2022-01-01,2022-01-16,1.5,0,0.85
-presidential,national,TV5Monde,Jadot Yannick,2022-01-01,2022-01-16,0.35,2.35,1.5667
-presidential,national,TV5Monde,Le Pen Marine,2022-01-01,2022-01-16,0.4,6.45,1.6167
-presidential,national,TV5Monde,Macron Emmanuel,2022-01-01,2022-01-16,0,0.85,6.4667
-presidential,national,TV5Monde,Melenchon Jean Luc,2022-01-01,2022-01-16,0.2,0.3,1.05
-presidential,national,TV5Monde,Pecresse Valerie,2022-01-01,2022-01-16,28.3167,0.1833,1.5167
-presidential,national,TV5Monde,Taubira Christiane,2022-01-01,2022-01-16,9.9667,0,1.95
-presidential,national,TV5Monde,Zemmour Eric,2022-01-01,2022-01-16,0.8167,0,1.5667
+presidential,national,TMC,Zemmour Eric,2022-01-16,2022-01-30,6.7833,3.6333,15.5833
+presidential,national,TV5Monde,Dupont Aignan Nicolas,2022-01-01,2022-01-16,0.0667,0,0
+presidential,national,TV5Monde,Hidalgo Anne,2022-01-01,2022-01-16,1.7667,0,0.6833
+presidential,national,TV5Monde,Jadot Yannick,2022-01-01,2022-01-16,0.35,0.5667,1.55
+presidential,national,TV5Monde,Le Pen Marine,2022-01-01,2022-01-16,0.5,6.45,1.7
+presidential,national,TV5Monde,Macron Emmanuel,2022-01-01,2022-01-16,0,1.7,2.35
+presidential,national,TV5Monde,Melenchon Jean Luc,2022-01-01,2022-01-16,0.3833,0.3,0.9
+presidential,national,TV5Monde,Pecresse Valerie,2022-01-01,2022-01-16,28.6167,0.1833,1.4333
+presidential,national,TV5Monde,Taubira Christiane,2022-01-01,2022-01-16,10.6167,0,1.4667
+presidential,national,TV5Monde,Zemmour Eric,2022-01-01,2022-01-16,1.3,0,1.3
